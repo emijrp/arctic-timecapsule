@@ -1,0 +1,194 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.5</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pale Blue Dot</title>
+    <ns>0</ns>
+    <id>1004014</id>
+    <revision>
+      <id>923701352</id>
+      <parentid>923605455</parentid>
+      <timestamp>2019-10-30T07:06:43Z</timestamp>
+      <contributor>
+        <username>Justlookingforthemoment</username>
+        <id>33398043</id>
+      </contributor>
+      <comment>/* Reflections */ Fixed reference</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23857">{{About|the photograph}}
+{{short description|Photograph of planet Earth by Voyager 1 from about 6 billion kilometers}}
+{{Use mdy dates|date=July 2019}}
+{{italic title}}
+{{good article}}
+
+[[File:Pale Blue Dot.png|thumb|upright=1.3|alt=Dark grey and black static with coloured vertical rays of sunlight over part of the image. A small pale blue point of light is barely visible.|Seen from about 6 billion kilometers (3.7 billion miles), [[Earth]] appears as a tiny dot within deep space: the blueish-white speck almost halfway up the brown band on the right.]]
+
+'''''Pale Blue Dot''''' is a photograph of planet Earth taken on February 14, 1990, by the ''[[Voyager 1]]'' [[space probe]] from a record distance of about {{Nowrap|6 billion}} kilometers ({{nowrap|3.7 billion}} miles, 40.5 [[Astronomical unit|AU]]), as part of that day's [[Family Portrait (Voyager)|''Family Portrait'']] series of images of the [[Solar System]].
+
+In the photograph, Earth's [[apparent size]] is less than a [[pixel]]; the planet appears as a tiny dot against the vastness of [[Outer space|space]], among bands of sunlight reflected by the camera.&lt;ref name=planet-soc&gt;{{cite web|url=http://www.planetary.org/explore/space-topics/earth/pale-blue-dot.html|title=A Pale Blue Dot|publisher=The Planetary Society|accessdate=December 21, 2014|url-status=live|archiveurl=https://web.archive.org/web/20141219181905/http://www.planetary.org/explore/space-topics/earth/pale-blue-dot.html|archivedate=December 19, 2014}}&lt;/ref&gt;
+
+''Voyager 1'', which had completed its primary mission and was leaving the Solar System, was commanded by [[NASA]] to turn its camera around and take one last photograph of Earth across a great expanse of space, at the request of astronomer and author [[Carl Sagan]].&lt;ref name=fettss&gt;{{cite web|url=http://fettss.arc.nasa.gov/collection/details/the-pale-blue-dot/|title=From Earth to the Solar System, The Pale Blue Dot|publisher=NASA|accessdate=December 24, 2014|url-status=live|archiveurl=https://web.archive.org/web/20141218203249/http://fettss.arc.nasa.gov/collection/details/the-pale-blue-dot/|archivedate=December 18, 2014}}&lt;/ref&gt; The term "Pale Blue Dot" was coined by Carl Sagan in his reflections of the photograph's significance, documented in his book of the same name, ''[[Pale Blue Dot (book)|Pale Blue Dot]].''&lt;ref name="planet-soc" /&gt;
+
+== Background ==
+In September 1977, [[NASA]] launched ''[[Voyager 1]]'', a {{convert|722|kg|lb|0|adj=on}} [[robotic spacecraft]] on a mission to study the outer Solar System and eventually [[interstellar space]].&lt;ref name=starbrite&gt;{{cite web|url=http://starbrite.jpl.nasa.gov/pds/viewMissionProfile.jsp?MISSION_NAME=VOYAGER|title=Mission Overview|publisher=starbrite.jpl.nasa.gov|accessdate=July 27, 2011|url-status=dead|archiveurl=https://web.archive.org/web/20110721052910/http://starbrite.jpl.nasa.gov/pds/viewMissionProfile.jsp?MISSION_NAME=VOYAGER|archivedate=July 21, 2011}}&lt;/ref&gt;&lt;ref name=nssdc&gt;{{cite web|url=https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1977-084A|title=Voyager 1|publisher=nssdc.gsfc.nasa.gov|accessdate=July 27, 2011}}&lt;/ref&gt; After the [[Exploration of Jupiter|encounter with the Jovian system]] in 1979 and the [[Exploration of Saturn|Saturnian system]] in 1980, the primary mission was declared complete in November of the same year. ''Voyager 1'' was the first space probe to provide detailed images of the two largest planets and their major [[moons]].
+
+[[File:Voyager.jpg|thumb|alt=A space probe resting on a stand, with a parabolic antenna pointing upwards and two arms extending from the sides, bearing cameras and other devices, against a black background curtain|The ''[[Voyager 1]]'' spacecraft]]
+The spacecraft, still travelling at {{convert|40000|mph|km/h|order=flip|abbr=on}}, is the most distant man-made object from Earth and the first one to leave the Solar System.&lt;ref name=prescott /&gt; Its mission has been extended and continues to this day, with the aim of investigating the [[Solar System#Boundaries|boundaries of the Solar System]], including the [[Kuiper belt]], the [[heliosphere]] and interstellar space. Operating for {{Age in years, months and days| year=1977| month=09| day=5 }}  as of today ({{TODAY|(D/M/Y)}}), it receives routine commands and transmits data back to the [[Deep Space Network]].&lt;ref name=starbrite/&gt;&lt;ref name=butrica&gt;{{cite book|last=Butrica|first=Andrew.J|title=From Engineering Science To Big Science|edition=1st|chapter=Chapter 11|page=251|year=1994|publisher=Random House|location=New York|isbn=0-679-43841-6}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.space.com/1280-earthly-view-mars.html|title=An Earthly View of Mars|publisher=space.com|accessdate=July 28, 2011|url-status=live|archiveurl=https://web.archive.org/web/20120814222908/http://www.space.com/1280-earthly-view-mars.html|archivedate=August 14, 2012}}&lt;/ref&gt;
+
+''Voyager 1'' was expected to work only through the Saturn encounter. When the spacecraft passed the planet in 1980, Sagan proposed the idea of the space probe taking one last picture of Earth.&lt;ref&gt;{{cite web|url=https://pqasb.pqarchiver.com/thestar/access/497286371.html?FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Feb+25%2C+1995&amp;author=Craig+Marley&amp;pub=Waterloo+Region+Record&amp;desc=It's+our+dot+%3A+For+Carl+Sagan%2C+planet+Earth+is+just+a+launch+pad+for+human+explorations+of+the+outer+universe&amp;pqatl=google|title=It's our dot: For Carl Sagan, planet Earth is just a launch pad for human explorations of the outer universe|publisher=pqasb.pqarchiver.com|accessdate=July 28, 2011}}&lt;/ref&gt; He acknowledged that such a picture would not have had much scientific value, as the Earth would appear too small for ''Voyager''{{'}}s cameras to make out any detail, but it would be meaningful as a perspective on [[Earth's location in the universe|our place in the universe]].
+
+Although many in NASA's [[Voyager program]] were supportive of the idea, there were concerns that taking a picture of Earth so close to the Sun risked damaging the spacecraft's imaging system irreparably. It was not until 1989 that Sagan's idea was put into practice, but then instrument calibrations delayed the operation further, and the personnel who devised and transmitted the radio commands to ''Voyager 1'' were also being laid off or transferred to other projects. Finally, [[NASA Administrator]] [[Richard Truly]] interceded to ensure that the photograph was taken.&lt;ref name=prescott&gt;{{cite news|title=The Earth from the frontiers of the Solar system – The Pale, Blue Dot|first=Carl|last=Sagan|url=https://news.google.com/newspapers?id=_upSAAAAIBAJ&amp;sjid=noEDAAAAIBAJ&amp;pg=4800,1930437&amp;dq=pale-blue-dot+-book&amp;hl=en|newspaper=[[PARADE Magazine]]|date=September 9, 1990|accessdate=July 28, 2011}}&lt;/ref&gt;&lt;ref name=SaganPBD5&gt;{{cite book|author1=Carl Sagan|author2=Ann Druyan|title=Pale Blue Dot: A Vision of the Human Future in Space|url=https://books.google.com/books?id=9hzqn9gWtAcC&amp;pg=PA5|year=2011|publisher=Random House Publishing Group|isbn=978-0-307-80101-2|pages=4–5}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.npr.org/templates/story/story.php?storyId=123614938|title=An Alien View Of Earth|publisher=npr.org|accessdate=July 12, 2011|url-status=live|archiveurl=https://web.archive.org/web/20110721205333/http://www.npr.org/templates/story/story.php?storyId=123614938|archivedate=July 21, 2011}}&lt;/ref&gt; A proposal to continue to photograph Earth as it orbited the Sun was rejected.&lt;ref name=Ulivi441&gt;{{cite book |last1=Ulivi |first1=Paolo |last2=Harland |first2= David M |date=2007 |title=Robotic Exploration of the Solar System Part I: The Golden Age 1957–1982  |publisher=Springer |pages=441–443 |isbn=9780387493268 }}&lt;/ref&gt;
+
+== Camera ==
+''Voyager 1''{{'}}s Imaging Science Subsystem (ISS) consisted of two cameras: a 200&amp;nbsp;mm [[focal length]], low-resolution wide-angle camera (WA), used for spatially extended imaging, and a 1500&amp;nbsp;mm high-resolution narrow-angle camera (NA) – the one that took ''Pale Blue Dot'' – intended for detailed imaging of specific targets. Both cameras were of the slow-scan [[vidicon]] tube type and were fitted with eight colored filters, mounted on a filter wheel placed in front of the tube.&lt;ref name=narrow-angle&gt;{{cite web|title=Voyager – Imaging Science Subsystem|url=http://voyager.jpl.nasa.gov/spacecraft/instruments_iss_na.html|website=Jet Propulsion Laboratory|publisher=NASA|accessdate=December 26, 2014|url-status=live|archiveurl=https://web.archive.org/web/20170116081449/http://voyager.jpl.nasa.gov/spacecraft/instruments_iss_na.html|archivedate=January 16, 2017}}&lt;/ref&gt;&lt;ref name=cassini&gt;{{cite web|url=http://saturn.jpl.nasa.gov/spacecraft/cassiniorbiterinstruments/instrumentscassiniiss/|title=Cassini Solstice Mission – ISS|publisher=NASA|accessdate=December 26, 2014|url-status=dead|archiveurl=https://web.archive.org/web/20150114074323/http://saturn.jpl.nasa.gov/spacecraft/cassiniorbiterinstruments/instrumentscassiniiss/|archivedate=January 14, 2015}}&lt;/ref&gt;
+
+The challenge was that, as the mission progressed, the objects to be photographed would increasingly be farther away and would appear fainter, requiring [[Long-exposure photography|longer exposures]] and slewing (panning) of the cameras to achieve acceptable quality. The telecommunication capability also diminished with distance, limiting the number of data modes that could be used by the imaging system.&lt;ref&gt;{{cite web|url=http://pds-rings.seti.org/voyager/iss/inst_cat_na1.html|title=Voyager 1 Narrow Angle Camera Description|website=Planetary Rings Node|publisher=SETI Institute|accessdate=December 26, 2014|url-status=live|archiveurl=https://web.archive.org/web/20160101205044/http://pds-rings.seti.org/voyager/iss/inst_cat_na1.html|archivedate=January 1, 2016}}&lt;/ref&gt; The series of commands were compiled and sent to ''Voyager 1'', with the images executed on February 14, 1990.
+
+After taking the [[Family Portrait (Voyager)|''Family Portrait'']] series of images, which included ''Pale Blue Dot'', NASA mission managers commanded ''Voyager 1'' to power its cameras down, as the spacecraft was not going to fly near anything else of significance for the rest of its mission, while other instruments that were still collecting data needed power for the long journey to interstellar space.&lt;ref name=mission_pages&gt;{{cite web|url=http://www.nasa.gov/mission_pages/voyager/voyager-20100212.html|title=Voyager Celebrates 20-Year-Old Valentine to Solar System|publisher=[[NASA]]|accessdate=June 23, 2016|url-status=live|archiveurl=https://web.archive.org/web/20160419073002/http://www.nasa.gov/mission_pages/voyager/voyager-20100212.html|archivedate=April 19, 2016}}&lt;/ref&gt;
+
+== Photograph ==
+The design of the command sequence to be relayed to the spacecraft and the calculations for each photograph's exposure time were developed by space scientists [[Candice Hansen-Koharcheck|Candy Hansen]] of NASA's [[Jet Propulsion Laboratory]] (JPL) and [[Carolyn Porco]] of the [[University of Arizona]].&lt;ref name=SaganPBD5/&gt; After the planned imaging sequence was taken on February 14, 1990, the data from the camera were stored initially in an on-board [[tape recorder]]. Transmission to Earth was also delayed by the ''[[Magellan (spacecraft)|Magellan]]'' and ''[[Galileo (spacecraft)|Galileo]]'' missions being given priority over the use of the [[Deep Space Network]]. Then, between March and May 1990, ''Voyager 1'' returned 60 [[Film frame|frames]] back to Earth, with the radio signal travelling at the speed of light for nearly five and a half hours to cover the distance.&lt;ref name=prescott /&gt;
+
+Three of the frames received showed the Earth as a tiny point of light in empty space. Each frame had been taken using a different color filter: blue, green and violet, with exposure times of 0.72, 0.48 and 0.72 seconds respectively. The three frames were then recombined to produce the image that became ''Pale Blue Dot''.&lt;ref name=photojournal_452&gt;{{cite web|url=http://photojournal.jpl.nasa.gov/catalog/PIA00452|title=PIA00452: Solar System Portrait – Earth as 'Pale Blue Dot'|publisher=photojournal.jpl.nasa.gov|accessdate=July 27, 2011|url-status=live|archiveurl=https://web.archive.org/web/20110718143531/http://photojournal.jpl.nasa.gov/catalog/PIA00452|archivedate=July 18, 2011}}&lt;/ref&gt;&lt;ref name=photojournal_450&gt;{{cite web|url=http://photojournal.jpl.nasa.gov/catalog/PIA00450|title=PIA00450: Solar System Portrait – View of the Sun, Earth and Venus|publisher=photojournal.jpl.nasa.gov|accessdate=July 28, 2011|url-status=live|archiveurl=https://web.archive.org/web/20110705195723/http://photojournal.jpl.nasa.gov/catalog/PIA00450|archivedate=July 5, 2011}}&lt;/ref&gt;
+
+[[File:View of the Sun, Earth and Venus from Voyager 1.png|thumb|The wide-angle photograph of the Sun and inner planets (not visible), with ''Pale Blue Dot'' superimposed on the left, Venus to its right]]
+Of the 640,000 individual [[pixel]]s that compose each frame, Earth takes up less than one (0.12 of a pixel, according to NASA). The light bands across the photograph are an [[Artifact (error)|artifact]], the result of sunlight reflecting off parts of the camera and its sunshade, due to the relative proximity between the Sun and the Earth.&lt;ref name=prescott /&gt;&lt;ref name=solarsystem&gt;{{cite web|url=http://solarsystem.nasa.gov/multimedia/display.cfm?IM_ID=2148|title=Solar System Exploration-Pale Blue Dot|publisher=solarsystem.nasa.gov|accessdate=July 27, 2011|url-status=live|archiveurl=https://web.archive.org/web/20111113005119/http://solarsystem.nasa.gov/multimedia/display.cfm?IM_ID=2148|archivedate=November 13, 2011}}&lt;/ref&gt; ''Voyager's'' point of view was approximately 32° above the [[ecliptic]]. Detailed analysis suggested that the camera also detected the [[Moon]], although it is too faint to be visible without special processing.{{Citation needed|reason=This is wrong citation, the 15 is better, anyway there is no info to the statement of potential visibility of the Moon.|date=June 2019}}&lt;ref name=photojournal_450 /&gt;
+
+''Pale Blue Dot'', which was taken with the narrow-angle camera, was also published as part of a composite picture created from a wide-angle camera photograph showing the Sun and the region of space containing the Earth and Venus. The wide-angle image was inset with two narrow-angle pictures: ''Pale Blue Dot'' and a similar photograph of Venus. The wide-angle photograph was taken with the darkest filter (a methane absorption band) and the shortest possible exposure (5 milliseconds), to avoid saturating the camera's vidicon tube with scattered sunlight. Even so, the result was a bright burned-out image with multiple reflections from the optics in the camera and the Sun that appears far larger than the actual dimension of the solar disk. The rays around the Sun are a diffraction pattern of the calibration lamp which is mounted in front of the wide-angle lens.&lt;ref name=photojournal_450/&gt;
+
+== Pale blue color ==
+Earth appears as a blue dot primarily because of [[Rayleigh scattering]] of [[sunlight]] in its atmosphere. In Earth's air, short wavelength visible light such as blue light is scattered to a greater extent than long wavelength light such as red, which is the reason why the sky [[Diffuse sky radiation|appears blue]] from Earth.&lt;ref name=":0" /&gt;&lt;ref name=":1" /&gt; The ocean contributes to Earth's blueness, but to a lesser degree than scattering.&lt;ref name=":0"&gt;{{Cite journal|last=Crow|first=Carolyn A.|last2=McFadden|first2=L. A.|last3=Robinson|first3=T.|last4=Meadows|first4=V. S.|last5=Livengood|first5=T. A.|last6=Hewagama|first6=T.|last7=Barry|first7=R. K.|last8=Deming|first8=L. D.|last9=Lisse|first9=C. M.|date=2011-02-18|title=Views from EPOXI: Colors in Our Solar System as an Analog for Extrasolar Planets|journal=The Astrophysical Journal|volume=729|issue=2|pages=130|doi=10.1088/0004-637x/729/2/130|issn=0004-637X}}&lt;/ref&gt; Earth is a ''pale'' blue dot, rather than dark blue, because white light reflected by clouds combines with the scattered blue light.&lt;ref name=":1" /&gt;
+
+Earth's [[reflectance]] spectrum from the [[far-ultraviolet]] to the [[near-infrared]] is unlike any other observed planet's and is partially due to the presence of life on Earth.&lt;ref name=":1"&gt;{{Cite journal|last=Krissansen-Totton|first=Joshua|last2=Schwieterman|first2=Edward W.|last3=Charnay|first3=Benjamin|last4=Arney|first4=Giada|last5=Robinson|first5=Tyler D.|last6=Meadows|first6=Victoria|last7=Catling|first7=David C.|date=2016-01-20|title=Is the Pale Blue Dot unique? Optimized photometric bands for identifying Earth-like exoplanets|journal=The Astrophysical Journal|volume=817|issue=1|pages=31|doi=10.3847/0004-637x/817/1/31|issn=1538-4357|arxiv=1512.00502}}&lt;/ref&gt; Rayleigh scattering, which causes Earth's blueness, is enhanced in an atmosphere that does not substantially absorb visible light, unlike, for example, the orange-brown color of [[Titan (moon)|Titan]], where organic haze particles absorb strongly at blue visible wavelengths.&lt;ref&gt;{{Cite journal|last=Tomasko|first=M.G.|last2=Doose|first2=L.|last3=Engel|first3=S.|last4=Dafoe|first4=L.E.|last5=West|first5=R.|last6=Lemmon|first6=M.|last7=Karkoschka|first7=E.|last8=See|first8=C.|date=April 2008|title=A model of Titan's aerosols based on measurements made inside the atmosphere|journal=Planetary and Space Science|volume=56|issue=5|pages=669–707|doi=10.1016/j.pss.2007.11.019|issn=0032-0633}}&lt;/ref&gt; Earth's plentiful atmospheric oxygen, which comes from [[photosynthetic]] life forms, causes the atmosphere to be transparent to visible light, which allows for substantial Rayleigh scattering.
+
+== Distance ==
+[[File:Voyager 1 - 14 February 1990.png|upright=1.3|thumb|Position of ''[[Voyager 1]]'' on February 14, 1990. The vertical bars are spaced one year apart and indicate the probe's distance above the [[ecliptic]].]]
+According to NASA's [[Jet Propulsion Laboratory]]'s HORIZONS tool, the distances between ''Voyager 1'' and the Earth on February 14 and May 15, 1990, were as follows:&lt;ref&gt;{{cite web|url=http://ssd.jpl.nasa.gov/horizons.cgi|title=NASA's JPL Horizon System for calculating ephemerides for solar system bodies|publisher=ssd.jpl.nasa.gov|accessdate=July 13, 2011|url-status=live|archiveurl=https://web.archive.org/web/20121007034731/http://ssd.jpl.nasa.gov/horizons.cgi|archivedate=October 7, 2012}}&lt;/ref&gt;
+{| class="wikitable"
+&lt;caption&gt;'''Distance of ''Voyager 1'' from Earth'''&lt;/caption&gt;
+|-
+! Unit of measurement
+! February 14, 1990
+! May 15, 1990
+|-
+| [[Astronomical unit]]s
+| 40.472229
+| 40.417506
+|-
+| Kilometers
+| 6,054,587,000
+| 6,046,400,000
+|-
+| Miles
+| 3,762,146,000
+| 3,757,059,000
+|-
+|}
+{{Clear}}
+
+== Reflections ==
+[[File:PaleBlueDot.jpg|thumb|alt=Pale blue dot image with a wider field of view to show more background|Sagan pointed out that on that dot, "every human being who ever lived, lived out their lives".]]
+
+In his book, ''[[Pale Blue Dot (book)|Pale Blue Dot]]'', Carl Sagan comments on what he sees as the greater significance of the photograph, writing:
+
+{{Quote|text=Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there--on a mote of dust suspended in a sunbeam.
+
+The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds.
+
+Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.
+
+The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.
+
+It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.
+|sign=Carl Sagan|source=&lt;ref&gt;{{Cite book|title=Pale Blue Dot|last=Sagan|first=Carl|publisher=Random House USA Inc|year=1997|isbn=9780345376596|location=United States|pages=}}&lt;/ref&gt;}}
+
+In 2015, NASA acknowledged the 25th anniversary of ''Pale Blue Dot''.&lt;ref name="voyager.jpl.nasa.gov"&gt;{{cite web |url=http://voyager.jpl.nasa.gov/news/pale_blue_25.html |title='Pale Blue Dot' Images Turn 25|accessdate=2017-02-15 |url-status=live |archiveurl=https://web.archive.org/web/20170402231555/http://voyager.jpl.nasa.gov/news/pale_blue_25.html |archivedate=April 2, 2017  }}&lt;/ref&gt;
+
+{{quote|Twenty-five years ago, ''Voyager 1'' looked back toward Earth and saw a "pale blue dot", an image that continues to inspire wonderment about the spot we call home.|Ed Stone, Voyager project scientist&lt;ref name="voyager.jpl.nasa.gov"/&gt;}}
+
+== See also ==
+{{div col|colwidth=30em}}
+* [[Bluedot Festival]]
+* [[Earth phase]]
+* ''[[Earthrise]]''
+* [[Family Portrait (MESSENGER)|''Family Portrait'' (MESSENGER)]]
+* [[Overview effect]]
+* ''[[:File:NASA-EarlyEarth-PaleOrangeDot-20190802.jpg|Pale Orange Dot]]'' ([[Early Earth]])
+* ''[[The Blue Marble]]''
+* [[The Day the Earth Smiled]]
+{{div col end}}
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+{{Library resources box}}
+* {{cite book|last1=Sagan|first1=Carl|last2=Head|first2=Tom|title=Conversations with Carl Sagan|edition=1st|year=2006|publisher=The University Press of Mississippi|location=United States|isbn=1-57806-736-7|url=https://books.google.com/books?id=gJ1rDj2nR3EC}}
+* {{cite book |title=Carl Sagan's Cosmic Connection: An Extraterrestrial Perspective|last=Sagan|first=Carl|authorlink=Carl Sagan|last2=Freeman J.|first2=Dyson|last3=Jerome|first3=Agel|year=2000|publisher=Cambridge University Press|isbn=0-521-78303-8|pages=XV,302|url=https://books.google.com/books?id=lL57o9YB0mAC}}
+
+== External links ==
+{{commons category}}
+* [https://www.loc.gov/item/cosmos000110/ Audio recording] of Carl Sagan reading from ''Pale Blue Dot'', from the US Library of Congress, Seth MacFarlane Collection of the Carl Sagan and Ann Druyan Archive
+* [https://web.archive.org/web/20150302110651/http://www.pangeaday.org/filmDetail.php?id=75 Video produced for Pangea Day] with Sagan reading from ''Pale Blue Dot''
+* [http://www.thespacereview.com/article/261/1 Sagan's rationale for human spaceflight] – Article on ''The Space Review''
+
+{{Voyager program|state=expanded}}
+{{Carl Sagan}}
+{{NASA space program}}
+{{Earth}}
+{{Portal bar|Astronomy|Space|Solar System|Spaceflight}}
+{{Authority control}}
+
+[[Category:Photographs of Earth from outer space]]
+[[Category:Voyager program]]
+[[Category:1990 works]]
+[[Category:1990 in art]]
+[[Category:1990s photographs]]
+[[Category:February 1990 events]]
+[[Category:Color photographs]]</text>
+      <sha1>9v9px2coojwjii78ssvp0e7tlpl1hbc</sha1>
+    </revision>
+  </page>
+</mediawiki>
