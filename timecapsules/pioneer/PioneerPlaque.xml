@@ -1,0 +1,237 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.5</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pioneer plaque</title>
+    <ns>0</ns>
+    <id>236268</id>
+    <revision>
+      <id>922819240</id>
+      <parentid>922819146</parentid>
+      <timestamp>2019-10-24T14:44:09Z</timestamp>
+      <contributor>
+        <username>Gaelan</username>
+        <id>25434004</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/207.28.205.2|207.28.205.2]] ([[User talk:207.28.205.2|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.9)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24795">{{Multiple image |direction=vertical |align=right |width=260|image1=Pioneer plaque.svg|caption1=The illustration on the Pioneer plaque|image2=GPN-2000-001621-x.jpg|caption2=The plaque attached to ''[[Pioneer 10]]''}}
+
+The '''Pioneer plaques''' are a pair of [[gold]]-[[anodized]] [[aluminum]] [[commemorative plaque|plaques]] that were placed on board the 1972 ''[[Pioneer 10]]'' and 1973 ''[[Pioneer 11]]'' [[spacecraft]], featuring a [[pictogram|pictorial message]], in case either ''Pioneer 10'' or ''11'' is intercepted by intelligent [[extraterrestrial life]]. The plaques show the nude figures of a human male and female along with several symbols that are designed to provide information about the origin of the spacecraft.{{sfn|Sagan|Sagan|Drake|1972|pp=881–884}}
+
+The ''Pioneer 10'' and ''11'' spacecraft were the first human-built [[List of artificial objects leaving the Solar System|objects to achieve escape velocity]] from the [[Solar System]]. The plaques were attached to the spacecraft's [[antenna (radio)|antenna]] support [[strut]]s in a position that would shield them from erosion by [[space dust|interstellar dust]].
+
+==History==
+The original idea, that the Pioneer spacecraft should carry a message from mankind, was first mentioned by [[Eric Burgess]]{{sfn|Pournelle|1982|pp=212-240}} when he visited the [[Jet Propulsion Laboratory]] in [[Pasadena, California]], during the [[Mariner 9]] mission. He approached [[Carl Sagan]], who had lectured about communication with intelligent extraterrestrials at a conference in [[Crimea]].
+
+Sagan was enthusiastic about the idea of sending a message with the Pioneer spacecraft. [[NASA]] agreed to the plan and gave him three weeks to prepare a message. Together with [[Frank Drake]] he designed the plaque, and the artwork was prepared by [[Linda Salzman Sagan]], who was Sagan's wife at the time.
+
+Both plaques were manufactured at Precision Engravers, [[San Carlos, California]].
+
+The first plaque was launched with ''Pioneer 10'' on March 2, 1972, and the second followed with ''Pioneer 11'' on April 5, 1973.
+
+In May 2017 a limited edition of 200 replicas engraved from the original master design at Precision Engravers was made available in a [[Kickstarter]] Campaign, which also offered laser-engraved replicas.&lt;ref name="King2017" /&gt;
+
+==Physical properties==
+*Material: [[6061 aluminum alloy|6061 T6]] [[Anodizing|gold-anodized]] aluminium
+*Width: {{convert|9|in|mm|1}}
+*Height: {{convert|6|in|mm|1}}
+*Thickness: {{convert|0.05|in|mm|2}}
+*Mean depth of [[engraving]]: {{convert|0.015|in|mm|3}}
+*Mass: approx. {{convert|4.2|oz|g}}
+
+==Symbolism==
+
+===Hyperfine transition of neutral hydrogen===
+[[Image:Pioneer plaque hydrogen.svg|thumb|Hyperfine transition of neutral [[hydrogen]]]]
+At the top left of the plaque is a schematic representation of the [[hyperfine transition]] of [[hydrogen]], which is the [[abundance of the chemical elements|most abundant element]] in the [[universe]]. The [[Hydrogen line|spin-flip transition of a hydrogen atom's electron]] has a [[frequency]] of about 1420.405&amp;nbsp;[[hertz|MHz]], which corresponds to a [[Frequency#Period versus frequency|period]] of 0.704&amp;nbsp;[[Nanosecond|ns]]. Light at this frequency has a vacuum [[wavelength]] of 21.106&amp;nbsp;[[Centimetre|cm]] (which is also the distance the light travels in that time period). Below the symbol, the small vertical line&amp;mdash;representing the [[binary numeral system|binary]] digit 1&amp;mdash;specifies a unit of length (21&amp;nbsp;cm) as well as a unit of time (0.7&amp;nbsp;ns). Both units are used as measurements in the other symbols.&lt;ref name="Rosenthal2016" /&gt;
+
+===Figures of a man and a woman===
+[[Image:Pioneer plaque humans.svg|thumb|Figures of a [[man]] and a [[woman]]]]
+On the right side of the plaque, a man and a woman are shown in front of the spacecraft.&lt;ref name="Barnett2015" /&gt; Between the brackets that indicate the height of the woman, the binary representation of the number 8 can be seen (1000, with a small defect in the first zero). In units of the wavelength of the hyperfine transition of hydrogen this means 8 × 21&amp;nbsp;cm = 168&amp;nbsp;cm.
+
+The right hand of the man is raised as a sign of good will. Although this gesture may not be understood, it offers a way to show the [[opposable thumb]] and how the [[Limb (anatomy)|limbs]] can be moved.{{sfn|Sagan|2000|p=22}}
+
+Originally Sagan intended the humans to be shown holding hands, but soon realized that an extraterrestrial might perceive them as a single creature rather than two organisms.{{sfn|Sagan|2000|p=22}}
+
+The original drawings of the figures were based on drawings by [[Leonardo da Vinci]] and Greek sculptures.{{sfn|Sagan|2000|p=22}}
+
+The woman's [[sex organ|genitals]] are not depicted in detail; only the ''[[Mons pubis]]'' is shown. It has been claimed that Sagan, having little time to complete the plaque, suspected that NASA would have rejected a more intricate drawing and therefore made a compromise just to be safe.{{sfn|Fletcher|2001|p=}} Carl Sagan said that the decision to not include the vertical line on the woman's genitalia ([[pudendal cleft]]) which would be caused by the intersection of the [[labia majora]] was due to two reasons. First, Greek sculptures of women do not include that line. Second, Carl Sagan believed that a design with such an explicit depiction of a woman's genitalia would be considered too obscene to be approved by NASA.{{sfn|Sagan|2000|p=}} According to the memoirs of [[Robert S. Kraemer]], however, the original design that was presented to NASA headquarters included a line which indicated the woman's [[vulva]],{{sfn|Wolverton|2004|p=80}} and this line was erased as a condition for approval of the design by John Naugle, former head of NASA's Office of Space Science and the agency's former chief scientist.{{sfn|Wolverton|2004|p=80}}
+
+===Relative position of the Sun to the center of the Galaxy and 14 pulsars===
+[[Image:Pioneer plaque sun.svg|thumb|Relative position of the [[Sun]] to the center of the [[Galaxy]] and 14 [[pulsar]]s with their periods denoted]]
+The radial pattern on the left of the plaque shows 15 lines emanating from the same [[Origin (mathematics)|origin]]. Fourteen of the lines have corresponding long binary numbers, which stand for the [[Frequency|periods]] of [[pulsar]]s, using the hydrogen spin-flip transition frequency as the unit. Since these periods will change over time, the [[epoch (astronomy)|epoch]] of the launch can be calculated from these values.
+
+The lengths of the lines show the relative distances of the pulsars to the [[Sun]]. A tick mark at the end of each line gives the Z coordinate perpendicular to the [[galactic plane]].
+
+If the plaque is found, only some of the pulsars may be visible from the location of its discovery. Showing the location with as many as 14 pulsars provides redundancy so that the location of the origin can be [[triangulation|triangulated]] even if only some of the pulsars are recognized.
+
+The data for one of the pulsars is misleading. When the plaque was designed, the frequency of pulsar "1240" (now known as J1243-6423) was known to only three significant decimal digits: 0.388 second.{{sfn|Sagan|Sagan|Drake|1972|pp=881–884}} The map lists the period of this pulsar in binary to much greater precision: 100000110110010110001001111000. Rounding this off at about 10 significant bits (100000110100000000000000000000) would have provided a hint of this uncertainty. This pulsar is represented by the long line pointing down and to the right.
+
+The fifteenth line on the plaque extends to the far right, behind the human figures. This line indicates the Sun's relative distance to the center of the galaxy.
+
+The pulsar map and hydrogen atom diagram are shared in common with the [[Voyager Golden Record]].
+
+===Solar System===
+[[Image:Pioneer plaque solar system.svg|thumb|The [[Solar System]] with the trajectory of the Pioneer spacecraft]]
+At the bottom of the plaque is a schematic [[diagram]] of the Solar System. A small picture of the spacecraft is shown, and the [[trajectory]] shows its way past [[Jupiter]] and out of the Solar System. Both ''Pioneers 10'' and ''11'' have identical plaques; however, after launch, Pioneer 11 was redirected toward [[Saturn]] and from there it exited the Solar System. In this regard the ''Pioneer 11'' plaque is somewhat inaccurate.
+The Saturn flyby of ''Pioneer 11'' would also greatly influence its future direction and destination as compared to ''Pioneer 10'', but this fact is not depicted in the plaques.
+
+Saturn's rings could give a further hint to identifying the Solar System. [[Planetary ring|Rings]] around the planets Jupiter, [[Uranus]], and [[Neptune]] were unknown when the plaque was designed; however, unlike Saturn, the ring systems on these planets are not so easily visible and apparent as Saturn's. [[Pluto]] was considered to be a planet when the plaque was designed; in 2006 the [[International Astronomical Union|IAU]] reclassified Pluto as a [[dwarf planet]] and then in 2008 as a [[plutoid]]. Other large bodies classed as dwarf planets, such as [[Eris (dwarf planet)|Eris]], are not depicted, as they were unknown at the time the plaque was made.
+
+The binary numbers above and below the [[planet]]s show the relative distance to the Sun. The unit is 1/10 of [[Mercury (planet)|Mercury]]'s orbit. Rather than the familiar "1" and "0", "I" and "-" are used.
+
+===Silhouette of the spacecraft===
+[[Image:Pioneer plaque spacecraft.svg|thumb|Silhouette of the Pioneer spacecraft relative to the size of the humans]]
+Behind the figures of the human beings, the [[silhouette]] of the Pioneer spacecraft is shown in the same [[scale (spatial)|scale]] so that the size of the human beings can be deduced by measuring the spacecraft.
+
+== Criticism ==&lt;!-- This section is linked from [[Voyager Golden Record]] --&gt;
+
+One of the parts of the diagram that is among the easiest for humans to understand may be among the hardest for the extraterrestrial finders to understand: the [[Arrow (symbol)|arrow]] showing the trajectory of Pioneer. [[Ernst Gombrich]] criticized the use of an arrow because arrows are an artifact of hunter-gatherer societies like those on Earth; finders with a different cultural heritage may find the arrow symbol meaningless.{{sfn|Gombrich|1983|pp=85-89}}
+
+Art critic and activist [[Craig Owens (critic)|Craig Owens]] said that sexual bias is exhibited by the choice to make the man in the diagram perform the [[Wave (gesture)|wave]] gesture to greet the extraterrestrials while the woman in the diagram has her hands at her sides.&lt;!--This is at the bottom of page 176. Bogue (1991) is being used as a secondary source for this criticism from Owens (1983).--&gt;{{sfn|Spariosu|1991|p=176}} Feminists also took issue with this choice for the same reason.{{sfn|Achenbach|1999|p=92}}
+
+Carl Sagan regretted that the figures in the finished engraving failed to look panracial. Although this was the intent, the final figures appeared Caucasian.{{sfn|Achenbach|1999|p=92}} In the original drawing, the man was drawn with an "Afro" haircut, so an additional African physical trait would be included in the man to make the figures look more panracial, but that detail was changed to a "non-African Mediterranean-curly haircut" in the finished engraving.{{sfn|Geppert|2012|p=297}} Furthermore, Carl Sagan said that Linda Sagan intended to portray both the man and woman as having brown hair, but the hair being only outlined rather than being both outlined and shaded made the hair appear blonde instead.{{sfn|Spangenburg|Moser|Moser|2004|p=74}} Other people had different interpretations of the race of people depicted by the figures. Whites, blacks and Asians each tended to think that the figures resembled their own racial group, so, although some people were proud that their race appeared to have been selected to represent all of humankind, others viewed the figures as "terribly racist" for "the apparently blatant exclusion" of other races.{{sfn|Wolverton|2004|p=82}}
+
+Linda Sagan decided to make the figures nude to address the problem of the type of clothes they should wear to represent all of humanity and to make the figures more anatomically educational for extraterrestrials, but some viewed their nudity as pornographic.{{sfn|Wolverton|2004|p=79}} According to astronomer Frank Drake, there were many negative reactions to the plaque because the human beings were displayed naked.{{sfn|Sagan|1978|p=}} When images of the final design were published in American newspapers, one newspaper published the image with the man's genitalia removed and another newspaper published the image with both the man's genitalia and the woman's nipples removed.{{sfn|Sagan|2000|p=23}} In one letter to a newspaper, a person angrily wrote that they felt that the nudity of the images made the images obscene.{{sfn|Sagan|2000|p=24}} In contrast, in another letter to the same newspaper, a person was critical of the [[Prude|prudishness]] of the people who found depictions of nudity to be obscene.{{efn|The writer is being sarcastic in second and third paragraphs of page 24. Using sarcasm, the writer is mocking the prudishness which led to the censorship of the woman's vulva rather than supporting the censorship{{sfn|Sagan|2000|p=24}} }}
+
+==Fiction==
+{{trivia|date=May 2017}}
+{{more citations needed|section|date=May 2017}}
+===Star Trek===
+*In the ''Star Trek Encyclopedia'' paperback – International Edition, October 1, 1999, the plaque is shown with Pioneer launching from the second planet rather than the third. 
+* In the science fiction film ''[[Star Trek: The Motion Picture]]'', the plaque's diagram is fleetingly shown during Spock's mindmeld with V'ger, a transformed [[NASA]] space probe, ''Voyager 6''. This style of plaque was not used in the two actual NASA probes in the [[Voyager program]].
+*In ''[[Star Trek: Voyager]]'', the plaque appears on the viewing screen when Rain Robinson sends a signal trying to communicate with ''Voyager,'' 16 minutes and 28 seconds into episode 8 season 3 Future's End.
+* In the science fiction film ''[[Star Trek V: The Final Frontier]]'', the plaque is shown attached to a Pioneer probe floating in space, just before a bored [[Klingon]] ship captain, who scoffs "Shooting space garbage is no test of a warrior's mettle" intercepts and destroys it.   The plaque is erroneously depicted as facing outwards rather than inwards.
+* In the ''Star Trek'' novel ''Federation'', a character mentions that humans had shown copies of the plaque to several alien races they encountered, but none had been able to decode it.
+
+===Other===
+* In "[[The Message (The Outer Limits)|The Message]]," an episode of the science fiction series ''[[The Outer Limits (1995 TV series)|The Outer Limits]]'', a deaf woman was featured receiving alien signals through her [[cochlear implant]], prompting her to write out Xs, 1s, and 0s on paper. When put together, the Xs depicted the images of the man and woman from the plaque, along with an extraterrestrial humanoid raising a hand in a peaceful gesture.
+* On her album ''[[United States Live]]'', American performance artist [[Laurie Anderson (performance artist)|Laurie Anderson]] contemplates extraterrestrials finding the plaque and asks "do you think that they will think his arm is permanently attached in this position?"
+* In the ''[[Futurama]]'' episode "[[Godfellas]]," the robot Bender finds himself doomed to drift through space, during which time he etches a modified version of the Pioneer plaque, with himself towering menacingly over the human figures, so that "When I'm found in a million years, people will know what the score was."
+* In ''[[Buck Rogers]]'' season 1, episode 15 "Ardala Returns," Princess Ardala constructs a fake probe (allegedly launched in 1996) that uses a copy of the plaque to trick Buck into thinking the probe was from his own time period — the distant past. The male and female images are altered and positioned separately on either side from the Pioneer plaques .
+* In the [[L. Ron Hubbard]] novel ''[[Battlefield Earth (novel)|Battlefield Earth]]'', the principal alien character mentions that his race's conquest of Earth was made possible by their discovery of a space probe "that gave full directions to the place, had pictures of man on it and everything".
+* In "[[Beware My Cheating Bart]]" (18th episode of Season 23) of ''[[The Simpsons]]'', the plaque was briefly shown at the end of the episode. It was depicted with an extraterrestrial holding the plaque upside down, obviously confused by its strange depictions.
+* The plaque is used as the artwork for the album ''Aufheben'' by [[the Brian Jonestown Massacre]] and for ''Accept the Signal'' by [[Regular Fries]].
+* A drawing which bears a strong likeness to the one on the plaque was used as the artwork for [[Norway|Norwegian]] [[avant-garde metal]] band [[Arcturus (band)|Arcturus]]' album ''[[Sideshow Symphonies]]''.
+* A character in ''[[Kamen Rider Gaim]]'' uses a package containing language dictionaries and a modified version of the plaque to later communicate with an other-dimensional sentient race.
+* In the TV show ''[[Eureka (U.S. TV series)|Eureka]]'', on episode 5 of season 2 (Duck Duck Goose), the plaque is shown as part of the debris that lands on Earth.
+* In the TV show ''[[The Big Bang Theory]]'', on episode 21 of season 8 (The Communication Deterioration), the characters mention the plaque while discussing ideas about sending a message to alien races in space.
+* In the video game by [[Paradox Development Studio]], ''[[Stellaris (video game)|Stellaris]]'', one of the scientific missions discovers the plaque on an alien world in the distant future.
+* The Pioneer plaque appears in the booklet of [[David Bowie]]'s 2016 album ''[[Blackstar (album)|Blackstar]]'', on the page for the song "[[Girl Loves Me]]".
+* The Pioneer plaque appears in 01 - Welcome / Orientation briefing video of the Mass Effect Andromeda Initiative website.&lt;ref name="masseffect.com" /&gt;
+*[[17776]] has ''Pioneer 10'' (named Ten in the story) as a sentient being who is made fun of by ''[[Pioneer 9]]'' (Nine) and ''[[Jupiter Icy Moons Explorer]]'' (JUICE) for being sent into space with a plaque displaying naked humans.
+* In the [[Wii U]] title ''[[Xenoblade Chronicles X]]'' by Japanese developer [[Monolith Soft]], the plaque is seen in the opening cut scene, damaged and floating in midspace, before one of the alien ships that later approaches Earth. In this instance, the genitalia and nipples on the male and female depictions respectively are absent, most probably due to [[Censorship in Japan#Pornography|Japan's strict censorship of explicit material]].
+* [[Edwin Morgan (poet)|Edwin Morgan]]'s poem, "Translunar Space March 1972", refers to Pioneer 10, and passes critical commentary on the images on the plaque: "A deodorized American man / with apologetic genitals and no pubic hair / holds up a banana-like right hand"{{sfn|Morgan|1997|p=224}}
+
+==See also==
+* [[Alien language]]
+* [[Arecibo message]]
+* [[Communication with extraterrestrial intelligence]]
+* [[Lunar plaque]]
+* [[Pioneer program]]
+* [[Search for extraterrestrial intelligence]] (SETI)
+* [[Voyager Golden Record]]
+
+==References==
+===Notes===
+{{notelist}}
+===Citations===
+{{Reflist|30em|refs=
+&lt;ref name="King2017"&gt;{{cite web|last1=King|first1=Duane|title=Pioneer Plaque: a Message from Earth|url=https://www.kickstarter.com/projects/duaneking/pioneer-plaque-a-message-from-earth|website=Kickstarter.com|accessdate=27 December 2017}}&lt;/ref&gt;
+&lt;ref name="Rosenthal2016"&gt;{{Cite web |title=The Pioneer Plaque: Science as a Universal Language |last=Rosenthal |first=Jake |work=planetary.org |date=20 January 2016 |access-date=9 October 2019 |url= http://www.planetary.org/blogs/guest-blogs/2016/0120-the-pioneer-plaque-science-as-a-universal-language.html |quote=}}&lt;/ref&gt;
+&lt;ref name="Barnett2015"&gt;{{Cite web |title=Send aliens modern messages of Earth's equality and diversity, say scientists |last=Barnett |first=David |work=the Guardian |date=10 September 2015 |access-date=9 October 2019 |url= https://www.theguardian.com/science/2015/sep/10/aliens-modern-messages-earths-equality-diversity-seti-yuri-milner |quote=}}&lt;/ref&gt;
+&lt;ref name="masseffect.com"&gt;{{cite web|url=https://www.masseffect.com/andromeda-initiative/|title=Andromeda Initiative|website=masseffect.com}}&lt;/ref&gt;
+}}
+
+===Sources===
+{{refbegin|2|indent=yes}}
+*{{cite book|ref=harv|last=Achenbach|first=Joel |title=Captured by Aliens: The Search for Life and Truth in a Very Large Universe|url=https://books.google.com/books?id=Ufk0AQAAIAAJ|year=1999|publisher=Simon &amp; Schuster|location=New York|isbn=978-0-684-84856-3}}
+*{{cite book|ref=harv|last=Fletcher|first=Alan |authorlink=Alan Fletcher (graphic designer)|title=The Art of Looking Sideways|url=https://books.google.com/books?id=y5PsF5M-WdYC|year=2001|publisher=Phaidon Press|isbn=978-0-7148-3449-8}}
+*{{cite book|ref=harv|last=Geppert|first=Alexander C.T. |title=Imagining Outer Space: European Astroculture in the Twentieth Century|url=https://books.google.com/books?id=sCBshggEQmMC|date= 2012|publisher=Palgrave Macmillan|isbn=978-0-230-23172-6}}
+*{{cite journal||last=Gombrich|first=E. H.|author-link=Ernst Gombrich|title=The Image and the Eye: Further Studies in the Psychology of Pictorial Representation|journal=The Journal of Aesthetics and Art Criticism|volume=42|issue=1|year=1983|pages=85|issn=00218529|doi=10.2307/429951|ref=harv}}
+*{{cite book |title=Collected Poems |first=Edwin |last=Morgan |year=1997 |publisher=Carcanet Press |location=Manchester |isbn=978-1-857541-88-5 |ref=harv}}
+*{{cite news | url=https://archive.org/stream/byte-magazine-1982-04/1982_04_BYTE_07-04_Human_Factors_Engineering#page/n213/mode/2up | title=The Osborne 1, Zeke's New Friends, and Spelling Revisited | work=BYTE | date=April 1982 |  last=Pournelle|first= Jerry | pages=212-240|ref=harv}}
+*{{cite journal|last1=Sagan|first1=C.|last2=Sagan|first2=L. S.|last3=Drake|first3=F.|title=A Message from Earth|journal=Science|volume=175|issue=4024|year=1972|pages=881–884|issn=0036-8075|doi=10.1126/science.175.4024.881| pmid=17781060 | bibcode=1972Sci...175..881S|ref=harv}}
+*{{cite book|ref=harv|last=Sagan|first=Carl |authorlink=Carl Sagan|title=Murmurs of Earth: the Voyager interstellar record|url=https://books.google.com/books?id=sgWuW0UNu3UC|year=1978|publisher=Random House|isbn=978-0-394-41047-0}}
+*{{cite book|last=Sagan|first=Carl |authorlink=Carl Sagan|title=Carl Sagan's Cosmic Connection: An Extraterrestrial Perspective|url=https://books.google.com/books?id=lL57o9YB0mAC&amp;pg=PA22|year=2000|publisher=Cambridge University Press|isbn=978-0-521-78303-3|pages=22–25|ref=harv}}
+*{{cite book|ref=harv|last1=Spangenburg|first1=Ray |last2=Moser|first2=Kit |last3=Moser|first3=Diane |title=Carl Sagan: A Biography|url=https://books.google.com/books?id=Z01FzDkprgUC|year=2004|publisher=Greenwood|isbn=978-0-313-32265-5}}
+*{{cite book|ref=harv|last=Spariosu|first=Mihai |editor-last=Bogue|editor-first=Ronald |title=Mimesis in contemporary theory : an interdisciplinary approach|volume=Vol. 2, Mimesis, semiosis, and power|year=1991|publisher=J. Benjamins |location=Philadelphia ; Amsterdam|isbn=9789027242259|oclc=185840954}}
+*{{cite book|ref=harv|last=Wolverton|first=Mark |title=The Depths of Space: The Story of the Pioneer Planetary Probes|url = https://books.google.com/books?id=3eekqPQMlycC|year=2004|publisher=National Academies Press|isbn=978-0-309-09050-6}}
+{{refend}}
+
+==External links==
+{{Commons|Pioneer plaque|Pioneer plaque}}
+*{{Youtube|ogPIvzhHaTE|Hans Mark: Origin Story of Carl Sagan's Plaque on ''Pioneer 10''}} – recording from 1994 interview
+* [http://www.johnstonsarchive.net/astro/pulsarmap.html Reading the Pioneer/Voyager Pulsar Map (Wm. Robert Johnston)], updated 11 March 2003. Last accessed on 8 April 2006
+* [https://medium.com/@derrick.farnell/communicating-with-aliens-b0d6201b804b Communicating With Aliens] – an article on the Pioneer plaques
+*The {{harvnb|Sagan|Sagan|Drake|1972}} article is available here
+**[http://www.enterprisemission.com/images/plaque-1.jpg Page 881]
+**[http://www.enterprisemission.com/images/plaque-2.jpg Page 882]
+**[http://www.enterprisemission.com/images/plaque-3.jpg Page 883]
+**[http://www.enterprisemission.com/images/plaque-4.jpg Page 884]
+
+{{Extraterrestrial life}}
+{{Interstellar messages}}
+{{Pioneer program}}
+{{NASA space program}}
+{{Carl Sagan}}
+{{Portal bar|Spaceflight}}
+
+{{DEFAULTSORT:Pioneer Plaque}}
+[[Category:Pioneer program|Plaque]]
+[[Category:Spaceflight]]
+[[Category:Extraterrestrial life]]
+[[Category:Search for extraterrestrial intelligence]]
+[[Category:Interstellar messages]]
+[[Category:Time capsules]]
+[[Category:Infographics]]
+[[Category:Technology in society]]
+[[Category:Message artifacts]]</text>
+      <sha1>1837k2zonnpdddldh9v6vwsd4xx3jkx</sha1>
+    </revision>
+  </page>
+</mediawiki>
