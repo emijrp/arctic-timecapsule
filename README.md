@@ -1,2 +1,2 @@
 # artic-timecapsule
-Some content I wish preserved in GitHub Artic Code Vault
+Some content I would like to preserve in GitHub Artic Code Vault
