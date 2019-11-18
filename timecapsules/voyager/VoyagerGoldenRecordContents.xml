@@ -1,0 +1,679 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.5</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Contents of the Voyager Golden Record</title>
+    <ns>0</ns>
+    <id>27164415</id>
+    <revision>
+      <id>925920245</id>
+      <parentid>925920045</parentid>
+      <timestamp>2019-11-13T03:52:12Z</timestamp>
+      <contributor>
+        <username>Sumanuil</username>
+        <id>31876559</id>
+      </contributor>
+      <comment>/* Images */ I'd hope that the descriptions aren't copyrighted. Restricting access to the images themselves is bad enough.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="50106">{{short description|Sounds and images on the Voyager Golden Record}}
+{{Multiple image |direction=vertical |align=right |width=225|image1=The Sounds of Earth - GPN-2000-001976.jpg|caption1=The [[Voyager program|Voyager]] Golden Record|image2=The Sounds of Earth Record Cover - GPN-2000-001978.jpg|caption2=Cover of the Voyager Golden Record}}
+
+The [[Voyager Golden Record]] contains 116 images plus a calibration image and a variety of natural sounds, such as those made by surf, wind, and thunder, and animal sounds, including the songs of birds, whales and dolphins. The record, which is carried on both the ''[[Voyager 1]]'' and ''[[Voyager 2]]'' spacecraft, additionally features musical selections from different cultures and eras, spoken greetings in fifty-nine languages,&lt;ref&gt;{{cite book|last=Sagan|first=Carl|authorlink=Carl Sagan|title=[[Pale Blue Dot: A Vision of the Human Future in Space]]|edition=1st|year=1994|publisher=Random House|location=New York|isbn=9780679438410}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.youtube.com/watch?v=Y5wilptDhk4#t=186s|title=Traveller's Tales [Carl Sagan Tribute Series, S01E16]|accessdate=February 10, 2012}}&lt;/ref&gt; other human sounds, like footsteps and laughter ([[Carl Sagan]]{{'s}}),&lt;ref name="TA-20170630"&gt;{{cite web |last=Lafrance |first=Adrienne |title=Solving the Mystery of Whose Laughter Is On the Golden Record |url=https://www.theatlantic.com/technology/archive/2017/06/solving-the-mystery-of-whose-laughter-is-on-the-golden-record/532197/ |date=30 June 2017 |work=[[The Atlantic]] |accessdate=1 July 2017 }}&lt;/ref&gt; and printed messages from President [[Jimmy Carter]] and U.N. Secretary-General [[Kurt Waldheim]]. The items were selected for NASA by a committee chaired by [[Carl Sagan]] of [[Cornell University]].
+
+After NASA had received [[Pioneer plaque#Criticism|criticism over the nudity on the Pioneer plaque]] (line drawings of a naked man and woman), the agency chose not to allow Sagan and his colleagues to include a photograph of a nude man and woman on the record. Instead, only a silhouette of the couple was included.&lt;ref&gt;[[Jon Lomberg]]: "Pictures of Earth". in Carl Sagan: ''Murmurs of Earth,'' 1978, New York, {{ISBN|0-679-74444-4}}&lt;/ref&gt;
+
+Here is an excerpt of President Carter's official statement placed on the Voyager spacecraft for its trip outside the [[Solar System]], June 16, 1977:
+
+&lt;blockquote&gt;This [[Voyager Program| Voyager spacecraft]] was constructed by the [[United States of America]]. We are a community of 240 million human beings among the more than 4 billion who inhabit the planet [[Earth]]. We human beings are still divided into nation states, but these states are rapidly becoming a global civilization. 
+
+We cast this message into the cosmos&amp;nbsp;... It is likely to survive a billion years into our future, when our civilization is profoundly altered and the surface of the Earth may be vastly changed. Of the 200 billion stars in the [[Milky Way galaxy]], some&amp;nbsp;– perhaps many&amp;nbsp;– may have inhabited planets and space faring civilizations. If one such civilization intercepts Voyager and can understand these recorded contents, here is our message: This is a present from a small distant world, a token of our sounds, our science, our images, our music, our thoughts, and our feelings. We are attempting to survive our time so we may live into yours. We hope some day, having solved the problems we face, to join a community of galactic civilizations. This record represents our hope and our determination and our goodwill in a vast and awesome universe.&lt;ref&gt;{{Cite web|url=https://www.jpl.nasa.gov/news/news.php?feature=555|title=Howdy, Strangers|accessdate= November 10, 2018|publisher=[[NASA]]}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.presidency.ucsb.edu/documents/voyager-spacecraft-statement-the-president|title= Voyager Spacecraft Statement by the President.|accessdate= November 10, 2018|publisher=The American Presidency Project}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+== Greetings ==
+The first audio section contains a spoken greeting in [[English language|English]] from then-[[Secretary-General of the United Nations|Secretary General of the United Nations]], [[Kurt Waldheim]].
+
+The second audio section ("Greetings in 55 Languages") contains spoken greetings in 55 languages.&lt;ref&gt;{{Cite web|url=http://voyager.jpl.nasa.gov/spacecraft/languages/languages.html|title=Greetings to the Universe in 55 Different Languages|accessdate=September 6, 2006|publisher=[[NASA]]}}&lt;/ref&gt; The original plan was to use greetings made by [[United Nations]] delegates, but various problems with these recordings led to new recordings being made at Cornell University by people from the foreign-language departments.&lt;ref&gt;{{cite web|last1=Wiener-Bronner|first1=Danielle|title=The Story Behind ‘Greetings to the Universe,' the 55 Recordings of 'hello' Sent Into Space|url=http://fusion.net/story/179095/greetings-to-universe-nasa/|website=Fusion|accessdate=12 November 2016|date=2015-08-06}}&lt;/ref&gt; The number of native speakers of these 55 languages combined (excluding [[Second language|L2]] speakers) is over 4.7 billion people, comprising over 65% of the world population. It includes four [[Chinese language|Chinese]] varieties (marked with **), 12 [[South Asia]]n languages (marked #) and five [[ancient language]]s (marked §), listed here in alphabetical order:
+
+{|
+| valign=top |
+
+* [[Akkadian language|Akkadian]]§
+* [[Amoy dialect|Amoy]]** ([[Southern Min]]/[[Hokkien]])
+* [[Ancient Greek]]§
+* [[Arabic language|Arabic]] ([[Modern Standard Arabic|Modern Standard]])
+* [[Aramaic language|Aramaic]]
+* [[Armenian language|Armenian]]&lt;ref name="VoyagerLanguages: Armenian"&gt;{{Cite web|url=http://voyager.jpl.nasa.gov/spacecraft/languages/armenian.html|title=Voyager(Languages): Armenian |accessdate=August 24, 2011}}&lt;/ref&gt;&lt;!--There appears to be a conflict over he actual language of this greeting, if you do not agree, please make your point in the discussion area.--&gt;
+* [[Bengali language|Bengali]]#
+* [[Burmese language|Burmese]]
+* [[Cantonese]]** (dialect of [[Yue Chinese|Yue]])
+* [[Czech language|Czech]]
+* [[Dutch language|Dutch]]
+| valign=top |
+
+* [[English language|English]]
+* [[French language|French]]
+* [[Luganda|Ganda]]
+* [[German language|German]]
+* [[Gujarati language|Gujarati]]#
+* [[Hebrew language|Hebrew]]
+* [[Hindi]]#
+* [[Hittite language|Hittite]]§
+* [[Hungarian language|Hungarian]]
+* [[Ila language|Ila]] ([[Zambia]])
+* [[Indonesian language|Indonesian]]
+| valign=top |
+
+* [[Italian language|Italian]]
+* [[Japanese language|Japanese]]
+* [[Kannada language|Kannada]]#
+* [[Korean language|Korean]]
+* [[Latin]]§
+* [[Mandarin Chinese|Mandarin]]**
+* [[Marathi language|Marathi]]#
+* [[Nepali language|Nepali]]#
+* [[Nguni languages|Nguni]]
+* [[Nyanja]]
+* [[Oriya language|Oriya]]#
+| valign=top |
+
+* [[Persian language|Persian]]
+* [[Polish language|Polish]]
+* [[Portuguese language|Portuguese]]
+* [[Punjabi language|Punjabi]]#
+* [[Quechua languages|Quechua]]
+* [[Rajasthani language|Rajasthani]]#
+* [[Romanian language|Romanian]]
+* [[Russian language|Russian]]
+* [[Serbian language|Serbian]]
+* [[Sinhala language|Sinhala]]#
+* [[Sotho language|Sotho]]
+| valign=top |
+
+* [[Spanish language|Spanish]]
+* [[Sumerian language|Sumerian]]§
+* [[Swedish language|Swedish]]
+* [[Telugu language|Telugu]]#
+* [[Thai language|Thai]]
+* [[Turkish language|Turkish]]
+* [[Ukrainian language|Ukrainian]]
+* [[Urdu language|Urdu]]#
+* [[Vietnamese language|Vietnamese]]
+* [[Welsh language|Welsh]]
+* [[Wu Chinese|Wu]] ([[Shanghainese]])**
+|}
+
+Later audio sections contain the spoken greetings in the remaining four languages, including [[Esperanto]] and [[!Kung language|!Kung]]. The whale sounds were provided by [[Roger Payne]].&lt;ref&gt;{{Cite web|last=Gambino |first=Megan |title=What Is on Voyager's Golden Record? |url=http://www.smithsonianmag.com/science-nature/What-Is-on-Voyagers-Golden-Record.html |publisher=Smithsonian Magazine |date=April 23, 2012 |accessdate=19 November 2012}}&lt;/ref&gt;
+
+This is a list of the recorded greetings in order of appearance on their respective tracks.&lt;ref&gt;{{Cite web|url=https://www.youtube.com/watch?v=QTDK2jCVPN0|title=Voyager: Greetings in 55 languages|accessdate=March 14, 2011}}&lt;/ref&gt;
+
+{| class="wikitable sortable" style="margin: 1em auto 1em auto"
+! Track !! Time !! Language !! Speaker&lt;ref&gt;{{Cite web|url=https://www.youtube.com/watch?v=aV43X8KkbUk|title=The Voyager Interstellar Record – 3/31 UN Greetings Whale Greetings|accessdate=February 10, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last=Sagan|first=Carl|title=Murmurs of Earth: The Voyager Interstellar Record|year=1978|isbn=0345315367}}&lt;/ref&gt;  !! Original !! English translation
+|-
+| 2 || 0:00:00 || Sumerian || David L. Owen || {{cuneiform|sux|𒁲𒈠𒃶𒈨𒂗}}  {{transl|sux|''šilim-ma hé-me-en''}} || May all be well
+|-
+| 2 || 0:00:04 || Ancient Greek || [[Frederick Ahl|Frederick M. Ahl]] || {{lang|grc| Οἵτινές ποτ᾿ ἔστε χαίρετε! Εἰρηνικῶς πρὸς φίλους ἐληλύθαμεν φίλοι.}} (''Hoitines pot'este chairete! Eirēnikōs pros philous elēlythamen philoi.'') || Greetings to you, whoever you are. We come in friendship to those who are friends.{{refn|group=n|Somewhat loose translation; per NASA.}}
+|-
+| 2 || 0:00:11 || Portuguese || Janet Sternberg || {{lang|pt|Paz e felicidade a todos}} || Peace and happiness to everyone
+|-
+| 2 || 0:00:14 || Cantonese || Stella Fessler || {{zh|c=各位好嗎？祝各位平安健康快樂。|j=''Gok&lt;sup&gt;3&lt;/sup&gt; wai&lt;sup&gt;2&lt;/sup&gt; hou&lt;sup&gt;2&lt;/sup&gt; maa&lt;sup&gt;1&lt;/sup&gt;? Zuk&lt;sup&gt;1&lt;/sup&gt; gok&lt;sup&gt;3&lt;/sup&gt; wai&lt;sup&gt;2&lt;/sup&gt; ping&lt;sup&gt;4&lt;/sup&gt; on&lt;sup&gt;1&lt;/sup&gt; gin&lt;sup&gt;6&lt;/sup&gt; hong&lt;sup&gt;1&lt;/sup&gt; faai&lt;sup&gt;3&lt;/sup&gt; lok&lt;sup&gt;6&lt;/sup&gt;.''|labels=no}} || How's everyone? Wish you peace, health and happiness
+|-
+| 2 || 0:00:19 || Akkadian || David L. Owen || {{lang|akk|Adanniš lu šulmu}} || May all be very well
+|-
+| 2 || 0:00:22 || Russian || Maria Rubinova || {{lang|ru|Здравствуйте! Приветствую Вас!}} (''Zdrávstvuyte! Privétstvuyu Vas!'') || Greetings! I Welcome You!
+|-
+| 2 || 0:00:25 || Thai || Ruchira Mendiones || {{lang|th|สวัสดีค่ะ สหายในธรณีโพ้น พวกเราในธรณีนี้ขอส่งมิตรจิตมาถึงท่านทุกคน}} (''Sàwàtdee kâ, sàhăai nai torránee póhn. Pûak rao nai torránee née kŏr sòng mít jìt maa tĕung tâan túk kon'') || Hello friends from farland. We in this land have sent you warm greeting to you all
+|-
+| 2 || 0:00:32 || Arabic || Amahl Shakh || {{lang|ar|.تحياتنا للأصدقاء في النجوم. يا ليت يجمعنا الزمان}} {{transl|ar|''Taḥiyyātunā lil-'aṣdiqā' fil-nujūm. Yā laytā yajma`unā al-zamān.''}} || Greetings to our friends in the stars. May time bring us together
+|-
+| 2 || 0:00:38 || Romanian || Sanda Huffman || {{lang|ro|Salutări la toată lumea}} || Regards to everyone
+|-
+| 2 || 0:00:42 || French || Alexandra Littauer || {{lang|fr|Bonjour tout le monde}} || Hello everyone
+|-
+| 2 || 0:00:45 || Burmese || Maung Myo Lwin ||  {{my|နေကောင်းပါသလား}} (''Naykaungg parsalarr?'')|| Are you well?
+|-
+| 2 || 0:00:48 || Hebrew || David L. Owen ||  {{Script/Hebrew|שלום}} {{transl|he|''Shalom''}} || [[Š-L-M|Peace]]
+|-
+| 2 || 0:00:50 || Spanish || Erik J. Beukenjamp || {{lang|es|Hola y saludos a todos}} || Hello and greetings to everyone
+|-
+| 2 || 0:00:54 || Indonesian || Ilyas Harun || {{lang|id|Selamat malam hadirin sekalian, selamat berpisah dan sampai bertemu lagi dilain waktu}} || Good night, ladies and gentlemen. Goodbye and see you next time
+|-
+| 2 || 0:00:59 || Kechua (Quechua) || Fredy Amikcar, Roncalla Fermandez || {{lang|qu|Kay pachamamta niytapas maytapas rimapallasta runasimipi}}  || Hello to everybody from this Earth, in Quechua language
+|-
+| 2 || 0:01:04 || Punjabi ||  Jatinder N. Paul || {{lang|pa|ਆਓ ਜੀ, ਜੀ ਆਇਆਂ ਨੂੰ}} (Aao ji, jee aya nu) || Welcome home. It is a pleasure to receive you
+|-
+| 2 || 0:01:07 || Hittite || David L. Owen || {{lang|hit|aššuli}} || Greetings / Hail! (literally "in goodwill")
+|-
+| 2 || 0:01:08 || Bengali ||  Subrata Mukherjee || {{lang|bn|নমস্কার, বিশ্বের শান্তি হোক}} (''Nômośkār, biśśēr śānti hōk'') || Hello! Let there be peace everywhere
+|-
+| 2 || 0:01:11 || Latin || [[Frederick Ahl|Frederick M. Ahl]] || {{lang|la|Salvete quicumque estis; bonam erga vos voluntatem habemus, et pacem per astra ferimus}} || Greetings to you, whoever you are; we have good will towards you and bring peace across space
+|-
+| 2 || 0:01:19 || Aramaic || David L. Owen || {{lang|arc&lt;!--Imperial--&gt;|𐡌𐡋𐡔}} or {{lang|arc&lt;!--Hebrew?--&gt;|שלם}} or {{lang|syc|ܫܠܡ}} {{transl|arc|''Šəlām''}} || Hello (literally "peace")
+|-
+| 2 || 0:01:22 || Dutch || Joan de Boer || {{lang|nl|Hartelijke groeten aan iedereen}} || Dear/sincere greetings to everyone
+|-
+| 2 || 0:01:24 || German || Renate Born || {{lang|de|Herzliche Grüße an alle}} || Warm greetings to everyone
+|-
+| 2 || 0:01:27 || Urdu || Salma Alzal || {{lang|ur|السلام و عليکم ـ ہم زمين کے رہنے والوں کى طرف سے آپ کو خوش آمديد کہتے ھيں}} {{transl|ur|''Assalamu alaikum. Hum zameen ke rehne waalon ki taraf se aap ko khush aamdeed kehte hain.''}}|| Peace on you. We the inhabitants of this earth send our greetings to you
+|-
+| 2 || 0:01:37 || Vietnamese || Trần Trọng Hải || {{lang|vi|Chân thành gửi tới các bạn lời chào thân hữu}} || Sincere greetings to you
+|-
+| 2 || 0:01:40 || Turkish || Peter Ian Kuniholm || {{lang|tr|Sayın Türkçe bilen arkadaşlarımız, sabah şerifleriniz hayrolsun}} || Dear Turkish-speaking friends, may the honors of the morning be upon your heads
+|-
+| 2 || 0:01:45 || Japanese || Mari Noda || {{lang|ja|こんにちは。お元気ですか？}} {{transl|ja|''Konnichiwa. O genki desu ka?''}} || Hello. How are you?
+|-
+| 2 || 0:01:48 || Hindi || Omar Alzal || {{lang|hi|धरती के वासियों की ओर से नमस्कार}} {{transl|hi|''Dharati ke waasiyon ki or se namaskar''}}|| Greetings from the inhabitants of this world
+|-
+| 2 || 0:01:51 || Welsh || [[Frederick Ahl|Frederick M. Ahl]] &lt;ref&gt;[https://pbs.twimg.com/media/BERgXvxCYAAJN3h.jpg:large]&lt;/ref&gt; || {{lang|cy|Iechyd da i chi yn awr, ac yn oesoedd}} || Good health to you now and forever
+|-
+| 2 || 0:01:54 || Italian || Debby Grossvogel || {{lang|it|Tanti auguri e saluti}} || Many greetings and wishes
+|-
+| 2 || 0:01:57 || Sinhala || Kamal de Abrew || {{lang|si|ආයුබෝවන්!}} {{transl|si|''Āyubōwan!''}} || Wish You a Long Life.
+|-
+| 2 || 0:02:00 || Zulu (isiZulu) || Fred Dube || {{lang|zu|Siya nibingelela maqhawe sinifisela inkonzo ende.}} || We greet you, great ones. We wish you longevity
+|-
+| 2 || 0:02:05 || Sotho (Sesotho) || Fred Dube  || {{lang|st|Reani lumelisa marela.}}  || We greet you, O great ones
+|-
+| 2 || 0:02:08 || Wu || Yvonne Meinwald || {{lang|wuu|祝㑚大家好。}} {{transl|zh|''Tsoh&lt;sup&gt;3&lt;/sup&gt; na&lt;sup&gt;13&lt;/sup&gt; da&lt;sup&gt;11&lt;/sup&gt; ka&lt;sup&gt;53&lt;/sup&gt; hoa&lt;sup&gt;34&lt;/sup&gt;''}} || Best wishes to you all
+|-
+| 2 || 0:02:12 || Armenian&lt;ref name="VoyagerLanguages: Armenian"/&gt;&lt;!--There appears to be a conflict over the actual language of this greeting, if you do not agree, please make your point in the discussion area.--&gt; || Araxy Terzian|| {{lang|hy|Բոլոր անոնց որ կը գտնուին տիեզերգի միգամածութիւնէն անդին, ողջոյններ}} (''Bolor anonts’ vor ky gtnuin tiezergi migamatsut’iwnen andin, voghjoynner'')&lt;ref name="ArmenianVoyagerTwitter"&gt;{{Cite web | title = [Armenian Voyager Golden Record greetings by Araxy Terzian] | first = Janet | last=Sternberg | work = Twitter | date = 29 Apr 2013 | accessdate = 17 October 2015 | url = https://twitter.com/janetphd/status/328983080025071617 }}&lt;/ref&gt; || To all those who exist in the universe, greetings
+|-
+| 2 || 0:02:19 || Korean || Soon Hee Shin || {{lang|ko|안녕하세요}} (''Annyeong haseyo'') || Hello (literally "Are you peaceful?" or "Be peaceful")
+|-
+| 2 || 0:02:22 || Polish || Maria Nowakowska-Stykos || {{lang|pl|Witajcie, istoty z zaświatów.}} || Welcome, beings from beyond the world.
+|-
+| 2 || 0:02:25 || Nepali || Durga Prashad Ojha || {{lang|ne|प्रिथ्वी वासीहरु बाट शान्ति मय भविष्य को शुभकामना}} (''Prithvī vāsīharu bāṭa śānti maya bhaviṣya kō śubhakāmanā'')|| Wishing you a peaceful future from the earthlings
+|-
+| 2 || 0:02:29 || Mandarin Chinese || Liang Ku || {{zh|s=各位都好吧？我们都很想念你们，有空请到这来玩。|t=各位都好吧？我們都很想念你們，有空請到這來玩。|p=Gèwèi dōu hǎo ba? Wǒmen dōu hěn xiǎngniàn nǐmen, yǒu kòng qǐng dào zhè lái wán.|labels=no}} || How's everyone? We all very much wish to meet you, if you're free please come and visit
+|-
+| 2 || 0:02:35 || Ila  ||  Saul Moobola || {{lang|ilb|Mypone kaboutu noose.}} || We wish all of you well
+|-
+| 2 || 0:02:38 || Swedish || Gunnel Almgren Schaar|| {{lang|sv|Hälsningar från en dataprogrammerare i den lilla universitetsstaden Ithaca på planeten Jorden}} || Greetings from a computer programmer in the small university town of Ithaca on (the) planet Earth
+|-
+| 2 || 0:02:45 || Nyanja || Saul Moobola  || {{lang|ny|Mulibwanji imwe boonse bantu bakumwamba.}} || How are all you people of other planets?
+|-
+| 2 || 0:02:48 || Gujarati || Radhekeant Dave || {{lang|gu|પૃથ્વી ઉપર વસનાર એક માનવ તરફથી બ્રહ્માંડના અન્ય અવકાશમાં વસનારાઓને હાર્દિક અભિનંદન. આ સંદેશો મળ્યે, વળતો સંદેશો મોકલાવશો.}} (''Pr̥thvī upara vasanāra ēka mānava taraphathī brahmāṇḍanā an'ya avakāśamāṁ vasanārā'ōnē hārdika abhinandana. Ā sandēśō maḷyē, vaḷatō sandēśō mōkalāvaśō.'') || Greetings from a human being of the Earth. Please contact
+|-
+| 2 || 0:03:03 || Ukrainian || Andrew Cehelsky || {{lang|uk|Пересилаємо привіт із нашого світу, бажаємо щастя, здоров'я і многая літа}} (''Peresylayemo pryvit iz nashoho svitu, bazhayemo shchastya, zdorov'ya i mnohaya lita'') || We are sending greetings from our world, wishing you happiness, health and many years
+|-
+| 2 || 0:03:09 || Persian || Eshagh Samehyeh || {{lang|fa|درود بر ساکنین ماورای آسمان‌ها}} (''Dorud bar sâkenin mawrah âsemân-hâ'') || Greetings to the residents of far skies
+|-
+| 2 || 0:03:22 || Serbian || Milan M. Smiljanić || {{lang|sr|Желимо вам све најлепше са наше планете}} (''Želimo vam sve najlepše sa naše planete'') || We wish you all the best, from our planet
+|-
+| 2 || 0:03:25 || Oriya ||  Raghaba Prasada Sahu || {{lang|or|ସୂର୍ଯ୍ୟ ତାରକାର ତୃତୀୟ ଗ୍ରହ ପୃଥିବୀରୁ ବିଶ୍ୱବ୍ରହ୍ମାଣ୍ଡର ଅଧିବାସୀ ମାନଙ୍କୁ ଅଭିନନ୍ଦନ}} (''Sūryẏa tārakāra tr̥tīẏa graha pr̥thibīru biśẇabrahmāṇḍara adhibāsī mānaṅku abhinandana.'') || Greetings to the inhabitants of the universe from the third planet Earth of the star Sun
+|-
+| 2 || 0:03:34 || Ganda (Luganda) || Elijah Mwima-Mudeenya || {{lang|lg|Musulayo mutya abantu bensi eno mukama abawe emirembe bulijo.}} || Greetings to all peoples of the universe. God give you peace always
+|-
+| 2 || 0:03:38 || Marathi || Arati Pandit || {{lang|mr|नमस्कार. ह्या पृथ्वीतील लोक तुम्हाला त्यांचे शुभविचार पाठवतात आणि त्यांची इच्छा आहे की तुम्ही ह्या जन्मी धन्य व्हा.}} (''Namaskāra. Hyā pr̥thvītīla lōka tumhālā tyān̄cē śubhavicāra pāṭhavatāta āṇi tyān̄cī icchā āhē kī tumhī hyā janmī dhan'ya vhā.'') || Greetings. The people of the Earth send their good wishes and hope you find good fortune in this life.
+|-
+| 2 || 0:03:47 || Amoy (Southern Min/Hokkien) || Margaret Sook Ching See Gebauer || {{lang|nan|太空朋友，恁好！恁食飽未？有閒著來阮遮坐喔。}} ({{transl|nan|Thài-khong pêng-iú, lín-hó. Lín chia̍h-pá--bē? Ū-êng, to̍h lâi gún chia chē--ô͘!}} &lt;!-- The double hyphen is correctly a part of the POJ orthography. --&gt;) || Friends from space, how are you all? Have you eaten yet? Come visit us if you have time
+|-
+| 2 || 0:03:55 || Hungarian (Magyar) || Elizabeth Bilson || {{lang|hu|Üdvözletet küldünk magyar nyelven minden békét szerető lénynek a Világegyetemen}} || We are sending greetings in the Hungarian language to all peace-loving beings on the Universe
+|-
+| 2 || 0:04:01 || Telugu || Prasad Kodukula || {{lang|te|నమస్తే, తెలుగు మాట్లాడే జనముననించి మా శుభాకాంక్షలు.}} (''Namastē, telugu māṭlāḍē janamunanin̄ci mā śubhākāṅkṣalu'') || Greetings. Best wishes from Telugu-speaking people
+|-
+| 2 || 0:04:05 || Czech || V. O. Kostroun || {{lang|cs|Milí přátelé, přejeme vám vše nejlepší}} || Dear Friends, we wish you the best
+|-
+| 2 || 0:04:08 || Kannada (Kanarese) || Shrinivasa K. Upadhaya || {{lang|kn|ನಮಸ್ತೆ, ಕನ್ನಡಿಗರ ಪರವಾಗಿ ಶುಭಾಷಯಗಳು.}} (''Namaste, kannaḍigara paravāgi śubhāṣayagaḷu.'') || Greetings. On behalf of Kannada-speaking people, 'good wishes'
+|-
+| 2 || 0:04:12 || Rajasthani || Mool C. Gupta || &lt;!--{{lang|raj|}}--&gt; || Hello to everyone. We are happy here and you be happy there
+|-
+| 2 || 0:04:18 || English || [[Nick Sagan]] || Hello from the children of planet Earth || Hello from the children of planet Earth
+|-
+| 3 || 0:05:16 || Esperanto || [[Ralph Harry]] || {{lang|eo|Ni strebas vivi en paco kun la popoloj de la tuta mondo, de la tuta kosmo.}} || We strive to live in peace with the peoples of the whole world, of the whole cosmos.
+|-
+| 4 || 0:06:25 || !Kung  || [[Richard Borshay Lee]] || || 
+|}
+
+== Sounds ==
+The next audio section is devoted to the "sounds of Earth" that include:&lt;ref&gt;{{Cite web|url=http://voyager.jpl.nasa.gov/spacecraft/sounds.html|title=Voyager – Spacecraft – Golden Record – Sounds of Earth|accessdate=August 17, 2008|publisher=[[NASA]]}}&lt;/ref&gt;
+{{Col-begin}}
+{{Col-break}}
+* "Music of the Spheres" – [[Johannes Kepler]]'s ''[[Harmonices Mundi]]'' realized by [[Laurie Spiegel]]
+* [[Volcano]]es, [[Earthquake]], [[Thunder]]
+* [[Mudpot|Mud Pots]]
+* [[Wind]], [[Rain]], [[wikt:surf|Surf]]
+* [[Cricket (insect)|Crickets]], [[Frog]]s
+* [[Bird]]s, [[Hyena]], [[Elephant]], [[Whale]]
+* [[Common chimpanzee|Chimpanzee]]
+* [[Wind]]
+* [[Wild Dog]]
+* Footsteps, [[Cardiac cycle|Heartbeat]], [[Laughter]] (Sagan's)&lt;ref name="TA-20170630" /&gt;
+* The First Tools
+{{Col-break}}
+* Tame [[Dog]]
+* [[Herding]] [[Sheep]], [[Blacksmith]], [[Saw]]ing
+* [[Tractor]], [[Rivet]]er
+* [[Morse Code]], Ships (precisely, a ship's [[Horn (acoustic)|horn]])
+* [[Horse]] and [[Cart]]
+* [[Train]]
+* [[Tractor]], [[Bus]], [[Automobile|Auto]]
+* [[F-111]] Flyby, [[Saturn V]] Lift-off ([[Apollo 15]])
+* [[Kiss]], Mother and Child
+* Life Signs, [[Pulsar]]
+{{Col-end}}
+
+Included within the ''Sounds of Earth'' audio portion of the Golden Record is a track containing the inspirational message ''[[per aspera ad astra]]'' in [[Morse Code]]. Translated from Latin, it means, ''through hardships to the stars.''
+
+== Music ==
+Following the section on the sounds of Earth, there is an eclectic 90-minute selection of music from many cultures, including Eastern and Western classics. The selections include:&lt;ref&gt;{{Cite web|url=http://www.ozmarecords.com/voyager|title=Voyager|last=ozmarecords|website=ozmarecords|access-date=2018-04-12}}&lt;/ref&gt;
+
+{| class="wikitable sortable" style="margin: 1em auto 1em auto"
+! Country !! Piece !! Author !! Performer(s) !! Recorded by / in !! Genre of music !! Length
+|-
+| [[Germany]] || ''[[Brandenburg Concerto]]'' No. 2 in F Major, BWV 1047: I. Allegro || [[Johann Sebastian Bach]] || Munich Bach Orchestra/[[Karl Richter (conductor)|Karl Richter]] (conductor) featuring Karl-Heinz Schneeberger (violin) ||  Recorded in [[Munich]], Germany, January 1967
+| [[Classical music]] / [[Baroque music]] || 4:40
+|-
+| [[Indonesia]] || Ketawang: [[Puspawarna|Puspåwårnå]] (Kinds of Flowers) || [[Mangkunegara IV]]  || Pura Paku Alaman Palace Orchestra/[[K.R.T. Wasitodipuro]] (director) featuring Niken Larasati and Nji Tasri (vocals) || Recorded by [[Robert E. Brown]] in [[Yogyakarta]], [[Java]], Indonesia, on January 10, 1971 || [[Folk music]] / [[Gamelan]] || 4:43
+|-
+| [[Benin]] || Cengunmé&lt;ref name="Ferris"&gt;{{cite web|url=https://www.newyorker.com/tech/elements/voyager-golden-record-40th-anniversary-timothy-ferris|title=How the Voyager Golden Record Was Made|last=Ferris|first=Timothy|publisher=[[The New Yorker]]|date=2017-08-20|accessdate=2017-12-07}}&lt;/ref&gt; ||  Traditional
+|  Mahi musicians of Benin
+| Recorded by [[Charles Duvelle]] in [[Savalou]], Benin, West Africa, January 1963 || Folk music / [[Percussion instrument|Percussion]] || 2:08
+|-
+| [[Democratic Republic of the Congo|Democratic Republic of Congo]] || Alima Song ||  Traditional
+| [[Mbuti people|Mbuti]] of the [[Ituri Rainforest]]
+| Recorded by [[Colin Turnbull]] and Francis S. Chapman in the Ituri Rainforest of the Democratic Republic of Congo, circa 1951 ||  Folk music
+| 0:56
+|-
+| [[Australia]] || Barnumbirr (Morning Star) and Moikoi Song ||  Traditional
+|  Tom Djawa (clapsticks), Mudpo (digeridoo), and Waliparu (vocals)&lt;ref&gt;{{Cite web|url=http://www.ozmarecords.com/voyager|title=The Voyager Golden Record: Audio Tracklist|website=ozmarecords|publisher=Ozma Records|access-date=2017-08-09}}&lt;/ref&gt;
+| Recorded by Sandra LeBrun Holmes at Milingimbi Mission on [[Milingimbi Island]], off the coast of Arnhem Land, Northern Territory, Australia, 1962 || Folk music / [[Indigenous music of Australia]] || 1:26
+|-
+| [[Mexico]] || El Cascabel (The Bell) || [[Lorenzo Barcelata]] || Antonio Maciel and Los Aguilillas with Mariachi México de Pepe Villa/Rafael Carrión (conductor)||  Recorded 1957, [[Musart Records]]
+| [[Mariachi]] || 3:14
+|-
+| [[United States|USA]] || [[Johnny B. Goode]] || [[Chuck Berry]] || Chuck Berry (vocals, guitar) with Lafayette Leak (piano), Willie Dixon (bass), and Fred Below (drums) ||  Recorded at [[Chess Studios]], [[Chicago]], [[Illinois]], on January 6, 1958
+| [[Rock and roll]] || 2:03
+|-
+| [[Papua New Guinea]] || Mariuamangɨ ||  Traditional
+|  Pranis Pandang and Kumbui (mariuamangɨ) of the Nyaura Clan
+| Recorded by Robert MacLennan in the village of Kandɨngei, Middle Sepik, Papua New Guinea, on July 23, 1964 ||  Folk music
+| 1:20
+|-
+| [[Japan]] / [[United States|USA]] || Sokaku-Reibo (Depicting The Cranes In Their Nest) ||  Arranged by [[Kinko Kurosawa]]
+| [[Gorō Yamaguchi|Goro Yamaguchi]] ([[shakuhachi]]) ||  Recorded in [[New York City]], circa 1967, [[Elektra Records|Elektra Entertainment]]
+| Folk music /[[Honkyoku]] || 4:51
+|-
+| Germany / [[Belgium]] || [[Partita for Violin No. 3 (Bach)|Partita for Violin Solo No. 3 in E Major]], BWV 1006: III. Gavotte En Rondeau || Johann Sebastian Bach || [[Arthur Grumiaux]] (violin) ||  Recorded in [[Berlin]], Germany, November 1960, [[Decca Records|Decca Music Group Limited]]
+| Classical music / Baroque music || 2:55
+|-
+| [[Austria]] / Germany || ''The Magic Flute'' (''[[Die Zauberflöte]]''), K. 620, Act II: [[Der Hölle Rache kocht in meinem Herzen|Hell's Vengeance Boils In My Heart]] || [[Wolfgang Amadeus Mozart]] || [[Bavarian State Opera]] Orchestra and Chorus/[[Wolfgang Sawallisch]] (conductor) featuring [[Edda Moser]] (soprano) ||  Recorded in Munich, Germany, August 1972
+| Classical music / [[Opera]] / [[Singspiel]] || 2:55
+|-
+| [[Georgian SSR|Georgia]] || [[Chakrulo]] || Traditional || Georgian State Merited Ensemble of Folk Song and Dance/Anzor Kavsadze (director) featuring Ilia Zakaidze (first tenor) and Rostom Saginashvili (second tenor)&lt;ref&gt;{{cite web|last=Linich|first=Carl|title=Ilia Zakaidze|url=http://georgianfolksinging.blogspot.co.uk/2008/03/ilia-zakaidze.html|work=Georgian Folk Singing|accessdate=9 October 2013|date=19 March 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Voyager 1977 - Georgian folk song "Chakrulo" in space - "ჩაკრულო" კოსმოსში|url=https://www.youtube.com/watch?v=dyP3sgnnOXo|work=Youtube (interview with Anzor Erkomaishvili and others)|accessdate=9 October 2013|language=Georgian}}&lt;/ref&gt;  || Recorded at Melodiya Studio in [[Tbilisi]], Georgia || Folk music / [[Choir|Choral music]] || 2:18
+|-
+| [[Peru]] || Roncadoras and Drums || Traditional  ||  Musicians from [[Áncash Region|Ancash]]
+| From recordings collected by [[José María Arguedas|Jose Maria Arguedas]] (Casa de la Cultura) in the Ancash Region of Peru, 1964 || Folk music || 0:52
+|-
+| USA || Melancholy Blues || [[Marty Bloom]] and [[Walter Melrose]] || [[Louis Armstrong and his Hot Seven|Louis Armstrong and His Hot Seven]] ||  Recorded in Chicago, Illinois, on May 11, 1927
+| [[Jazz]] || 3:05
+|-
+| [[Azerbaijan SSR|Azerbaijan S.S.R.]] || [[Mugam|Muğam]] (Çahargah ahəngi) || Traditional || [[Kamil Jalilov]] ([[Balaban (instrument)|balaban]]) || Recorded by [[Radio Moscow]], circa 1950 || Folk music || 2:30
+|-
+| [[Soviet Union]] / USA || ''[[The Rite of Spring]]'' (''Le Sacre Du Printemps''), Part II-The Sacrifice: VI. Sacrificial Dance (The Chosen One) || [[Igor Stravinsky]] || [[Columbia Symphony Orchestra]]/Igor Stravinsky (conductor) ||  Recorded at the Ballroom of the St. George Hotel, [[Brooklyn]], New York, on January 6, 1960
+| [[Modernism (music)|Modern classical music]] / [[Ballet]] || 4:35
+|-
+| Germany / [[Canada]] / USA || ''[[The Well-Tempered Clavier]]'', Book II, Prelude &amp; Fugue No.1 in C Major, BWV 870 || Johann Sebastian Bach || [[Glenn Gould]] (piano) || Recorded at [[CBS 30th Street Studio]] in New York City on August 8, 1966 || Classical music / Baroque music || 4:48
+|-
+| Germany / [[United Kingdom|UK]] || [[Symphony No. 5 (Beethoven)|Symphony No. 5]] in C minor, Opus 67: I. Allegro Con Brio || [[Ludwig van Beethoven]] || [[Philharmonia Orchestra]]/[[Otto Klemperer]] (conductor) ||  Recorded at [[Kingsway Hall]], [[London]], on October 6, 1955
+| Classical music / [[Romantic music]] || 7:20
+|-
+| [[Bulgaria]] || [[Izlel je Delyo Hajdutin|Izlel E Delyo Haydutin]] || Traditional
+| [[Valya Balkanska]] (vocal), Lazar Kanevski, and Stephan Zahmanov ([[Kaba gaida|kaba gaidi]]) || Recorded by Martin Koenig and Ethel Rain in [[Smolyan]], Bulgaria, 1968 ||  Folk music || 4:59
+|-
+| USA || [[Navajo]] Night Chant, Yeibichai Dance || Traditional ||  Ambrose Roan Horse, Chester Roan, and Tom Roan
+| Recorded by [[Willard Rhodes]] in [[Pine Springs, Arizona|Pine Springs]], [[Arizona]], Summer 1942 || Folk music || 0:57
+|-
+| UK || The Fairie Round || [[Anthony Holborne]] || [[Early Music Consort of London]]/[[David Munrow]] (director) ||  Recorded at [[Abbey Road Studios]], London, September 1973
+| Classical music || 1:17
+|-
+| [[Solomon Islands]] ||Naranaratana Kookokoo (The Cry of the [[Megapode|Megapode Bird]])||  Traditional
+|  Maniasinimae and Taumaetarau Chieftain Tribe of Oloha and Palasu'u Village Community in [[South Malaita Island|Small Malaita]]
+| Recording of Solomon Islands Broadcasting Services (SIBS) || Folk music || 1:12
+|-
+| Peru || Wedding Song ||  Traditional
+|  Performed by young girl of [[Huancavelica]]
+| Recorded by [[John Cohen (musician)|John and Penny Cohen]] in Huancavelica, Peru, 1964 ||  Folk music
+| 0:38
+|-
+| [[China]] || Liu Shui (Flowing Streams) || [[Bo Ya]] || [[Guan Pinghu]] ([[guqin]]) ||  Recording of Smithsonian Folkways Recordings
+| Folk music || 7:37
+|-
+| [[India]] || Bhairavi: Jaat Kahan Ho ||  Traditional
+| [[Kesarbai Kerkar]] (vocals) with [[Pump organ|harmonium]] and [[tabla]] accompaniment ||  Recorded in [[Mumbai|Bombay]], India, April 1953
+| Folk music || 3:30
+|-
+| USA || [[Dark Was the Night, Cold Was the Ground|Dark Was The Night, Cold Was The Ground]] || [[Blind Willie Johnson]] || Blind Willie Johnson (slide guitar, vocals) ||  Recorded in [[Dallas]], [[Texas]], on December 3, 1927
+| [[Blues]] || 3:15
+|-
+| Germany / [[Hungary]] / USA || [[String Quartet No. 13 (Beethoven)|String Quartet No. 13]]: in B-Flat Major, Opus 130: V. Cavatina || Ludwig van Beethoven || [[Budapest String Quartet]] ||  Recorded at the [[Library of Congress]], [[Washington, D.C.]], on April 7, 1960
+| Classical music / Romantic music || 6:37
+|}
+
+It has been claimed that Sagan had originally asked for permission to include "[[Here Comes the Sun]]" from [[The Beatles|the Beatles']] album ''[[Abbey Road]]''; but while the Beatles favoured it, [[EMI]] opposed it and the song was not included.&lt;ref name="Sagan, Carl 1978"&gt;Sagan, Carl ''et al.'' (1978) ''Murmurs of Earth: The Voyager Interstellar Record''. New York: Random House. {{ISBN|0-394-41047-5}} (hardcover), {{ISBN|0-345-28396-1}} (paperback)&lt;/ref&gt; However, this has been refuted by Timothy Ferris, who worked on the selection with Sagan; he said the song was never even considered for inclusion.&lt;ref name="Ferris"/&gt;
+
+== Brainwaves ==
+The Golden Record also carried an hour-long recording of the brainwaves of [[Ann Druyan]], who would later marry Carl Sagan. In the Epilogue of the book ''[[Billions and Billions]]'', she describes the experience:
+
+{{Quote|Earlier I had asked Carl if those putative extraterrestrials of a billion years from now could conceivably interpret the brain waves of a meditator. Who knows? A billion years is a long, long time, was his reply. On the chance that it might be possible why don't we give it a try?
+
+Two days after our life-changing phone call, I entered a laboratory at Bellevue Hospital in New York City and was hooked up to a computer that turned all the data from my brain and heart into sound. I had a one-hour mental itinerary of the information I wished to convey. I began by thinking about the history of Earth and the life it sustains. To the best of my abilities I tried to think something of the history of ideas and human social organization. I thought about the predicament that our civilization finds itself in and about the violence and poverty that make this planet a hell for so many of its inhabitants. Toward the end I permitted myself a personal statement of what it was like to fall in love.&lt;ref&gt;{{Cite book|author=Sagan, Carl|title=Billions and Billions: Thoughts on Life and Death at the Brink of the Millennium|publisher=Random House|year=1997|isbn=0-679-41160-7|url-access=registration|url=https://archive.org/details/billionsbillions00saga}}&lt;/ref&gt;|}}
+
+On February 12, 2010, an interview with Ann Druyan was aired on National Public Radio (NPR) during which the above was explained in more detail.&lt;ref&gt;[https://www.npr.org/templates/story/story.php?storyId=123534818 Carl Sagan And Ann Druyan's Ultimate Mix Tape]&lt;/ref&gt;
+
+== Images ==
+Along with the audio, the record contains a collection of 116 pictures (one of which is for calibration) detailing but not limited to human life on Earth and the planet itself. Many pictures are annotated with one or many indications of scales of time, size or mass. Some images also contain indications of chemical composition. All measures used on the pictures are first defined in the first few images using physical references.
+
+Following is a list of all the images contained in the Voyager Golden Record together with a description of the nature of the image and what annotations were included in them, and when copyright permits, the actual image.&lt;ref&gt;{{Cite web|url=http://goldenrecord.org|title=Greetings to the Universe in 55 Different Languages|accessdate=May 26, 2010|publisher=[[NASA]]}}&lt;/ref&gt;
+
+{| class="wikitable"
+|-
+!Position!!Thumbnail!!Description!!Type!!Annotations
+|-
+|1||[[File:Voyager-Golden-Record-Pictures-01.gif|100px]]||[[Calibration]] [[circle]]||Black-and-white diagram||
+|-
+|2||[[File:Voyager-Golden-Record-Pictures-02.gif|100px]]||[[Solar system|Solar]] location [[map]]||Black-and-white diagram||
+|-
+|3||[[File:Voyager-Golden-Record-Pictures-03.gif|100px]]||[[Mathematical]] definitions||Black-and-white text||
+|-
+|4||[[File:Voyager-Golden-Record-Pictures-04.gif|100px]]||[[Physical unit]] definitions||Black-and-white text||
+|-
+|5||[[File:Voyager-Golden-Record-Pictures-05.gif|100px]]||Solar System parameters||Black-and-white text||
+|-
+|6||[[File:Voyager-Golden-Record-Pictures-06.gif|100px]]||Solar System parameters||Black-and-white text||
+|-
+|7||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-007.png|100px]] --&gt;||The [[Sun]]||Black-and-white image||
+|-
+|8||[[File:Voyager golden record 8 spectra.gif|100px]]||[[Sunlight|Solar spectrum]]||Color image||
+|-
+|9||[[File:Voyager golden record 9 mercury.gif|100px]]||[[Mercury (planet)|Mercury]]||Black-and-white image||
+|-
+|10||[[File:Voyager golden record 10 mars.gif|100px]]||[[Mars]]||Black-and-white image||Size
+|-
+|11||[[File:Voyager golden record 11 jupiter.gif|100px]]||[[Jupiter]]||Color image||Size
+|-
+|12||[[File:Voyager golden record 12 earth.gif|100px]]||[[Earth]]||Color image||Size
+|-
+|13||[[File:Voyager golden record 13 earth.gif|100px]]||[[Egypt]], [[Red Sea]], [[Sinai Peninsula]], and the [[Nile]]||Color image|||Chemical composition
+|-
+|14||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-014.png|100px]] --&gt;||[[Chemistry|Chemical]] definitions ||Black-and-white diagram||Size
+|-
+|15||||[[DNA]] Structure ||Color diagram||Size
+|-
+|16||||DNA Structure magnified, light hit ||Color diagram||Size
+|-
+|17||||[[Cell (biology)|Cells]] and [[cell division]]||Black-and-white image||Size
+|-
+|18||||[[Anatomy]] 1 ([[Skeleton]] front)||Color diagram||
+|-
+|19||||Anatomy 2 (Skeleton and [[muscle]]s back)||Color diagram||
+|-
+|20||||Anatomy 3 ([[Heart]], [[lung]]s, [[kidney]]s and main [[blood vessel]]s back)||Color diagram||
+|-
+|21||||Anatomy 4 ([[Heart]], [[lung]]s, [[kidney]]s and main [[blood vessel]]s front)||Color diagram||
+|-
+|22||||Anatomy 5 (Internal organs back)||Color diagram||
+|-
+|23||||Anatomy 6 ([[Internal organ]]s front)||Color diagram||
+|-
+|24||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-024.png|100px]] --&gt;||Anatomy 7 ([[Ribcage]])||Color diagram||
+|-
+|25||||Anatomy 8 (Muscles front)||Color diagram||Size
+|-
+|26||||[[Sex organ|Human sex organs]]||Black-and-white diagram||Size
+|-
+|27||||Diagram of [[Fertilisation|conception]]||Black-and-white diagram||Size, time
+|-
+|28||||Conception||Color image||
+|-
+|29||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-029.png|100px]] --&gt;||[[fertilization|Fertilized]] [[ovum]]||Black-and-white image||Time
+|-
+|30||||[[Fetus]] diagram|||Black-and-white diagram||Size, time
+|-
+|31||||Fetus||Color image||
+|-
+|32||||Diagram of [[male]] and [[female]]||Black-and-white diagram||Size, time
+|-
+|33||||[[Birth]]||Black-and-white image||
+|-
+|34||[[File:Voyager Golden Record 34 Nursing Mother.gif|100px]]||[[Nursing]] mother||Color image||
+|-
+|35||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-035.png|100px]] --&gt;||[[Father]] and [[daughter]] ([[Malaysia]])||Color image||
+|-
+|36||[[File:Voyager Golden Record 36 group of children.gif|100px]]||Group of [[children]]||Color image||
+|-
+|37||||Diagram of [[family]] ages||Black-and-white diagram||Mass, time
+|-
+|38||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-038.png|100px]] --&gt;||Family [[portrait]]||Black-and-white image||
+|-
+|39||||Diagram of [[continental drift]]||Black-and-white diagram||Time
+|-
+|40||||[[Structure of the Earth]]||Black-and-white diagram|| Size, chemical composition
+|-
+|41||||[[Heron Island (Queensland)|Heron Island]] ([[Great Barrier Reef]] of [[Australia]])||Color image||
+|-
+|42||[[File:Adams The Tetons and the Snake River.jpg|100px]]||[[Snake River]] and [[Grand Tetons]]||Black-and-white image||
+|-
+|43||||[[Coast|Seashore]]||Color image||
+|-
+|44||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-044.png|100px]] --&gt;||[[Sand dunes]]||Color image||
+|-
+|45||||[[Monument Valley]]||Color image||
+|-
+|46||||[[Forest]] scene with [[mushrooms]]||Color image||
+|-
+|47||||[[Leaf]]||Color image||Size
+|-
+|48||||[[Autumn]] Fallen leaves||Color image||
+|-
+|49||||[[Snowflake]]s over [[Sequoia (genus)|Sequoia]]||Color image||
+|-
+|50||||[[Tree]] with [[daffodils]]||Color image|| Size
+|-
+|51||||Flying [[insect]] with [[flowers]]||Color image|| Size, mass
+|-
+|52||||Diagram of [[vertebrate]] [[evolution]]||Black-and-white diagram||
+|-
+|53||||[[Seashell]] (Xancidae)||Color image||
+|-
+|54||||[[Dolphin]]s||Color image||
+|-
+|55||||[[School of fish]]||Color image||
+|-
+|56||||[[Tree toad]]||Color image||
+|-
+|57||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-057.png|100px]] --&gt;||[[Crocodile]]||Color image||
+|-
+|58||||[[Eagle]]||Color image||Size
+|-
+|59||||[[depression (geology)|Waterhole]]||Color image||
+|-
+|60||||[[Jane Goodall]] and [[Common chimpanzee|chimps]]||Color image||
+|-
+|61||||Sketch of [[bushmen]]||Black-and-white diagram||Size
+|-
+|62||||Bushmen [[hunters]]||Black-and-white image||
+|-
+|63||[[File:Voyager Golden Record 63 man from Guatemala.gif|100px]]||Man from [[Guatemala]]||Color image||
+|-
+|64||||[[Dancer]] from [[Bali]]||Color image||
+|-
+|65||||[[Andean]] girls||Color image||
+|-
+|66||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-066.png|100px]] --&gt;||[[Thailand]] [[master craftsman]]||Color image||
+|-
+|67||||[[Elephant]]||Color image||
+|-
+|68||||[[Old age|Old man]] with [[beard]] and [[glasses]] ([[Turkey]])||Color image||
+|-
+|69||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-069.png|100px]] --&gt;||Leo Kenton Coleman with [[dog]] and flowers||Color image||
+|-
+|70||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-070.png|100px]] --&gt;||[[Mountain climber]]||Color image||
+|-
+|71||[[File:Voyager-Golden-Record-Pictures-071.png|100px]]||[[Gymnast]]||Color image||Time
+|-
+|72||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-072.png|100px]] --&gt;||[[Sprint (running)|Sprinters]] ([[Valeriy Borzov]] of the [[U.S.S.R.]] in lead)||Color image||
+|-
+|73||[[File:Voyager Golden Record 73 schoolroom.gif|100px]]||[[Schoolroom]]||Color image||
+|-
+|74||[[File:Voyager Golden Record 74 children with globe.gif|100px]]||Children with [[globe]]||Color image||
+|-
+|75||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-075.png|100px]] --&gt;||[[Cotton]] [[harvest]]||Color image||Size
+|-
+|76||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-076.png|100px]] --&gt;||[[Grape]] [[Farmworker|picker]]||Color image||
+|-
+|77||[[File:Voyager golden record 77 supermarket.gif|100px]]||[[Supermarket]]||Color image||
+|-
+|78||||[[Underwater]] scene with [[Underwater diving|diver]] and [[fish]]||Color image|| Chemical composition
+|-
+|79||[[File:Voyager Golden Record 79 fishing boat with nets.gif|100px]]||[[Fishing boat]] with [[Fishing net|nets]]||Color image||
+|-
+|80||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-080.png|100px]] --&gt;||[[Cooking]] fish||Color image||
+|-
+|81||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-081.png|100px]] --&gt;||[[Culture of China|Chinese]] [[dinner]] party||Color image||
+|-
+|82||[[File:Voyager golden record 82 feeding.gif|100px]]||[[Demonstration (teaching)|Demonstration]] of [[licking]], [[eating]] and [[drinking]]||Color image||
+|-
+|83||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-083.png|100px]] --&gt;||[[Great Wall of China]]||Color image||
+|-
+|84||[[File:Voyager Golden Record 84 house construction (Africa).gif|100px]]||[[House]] [[construction]] ([[Africa]]n)||Color image||
+|-
+|85||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-085.png|100px]] --&gt;||Construction scene ([[Amish]] country)||Color image||
+|-
+|86||[[File:Voyager Golden Record 86 house (Africa).gif|100px]]||House (Africa)||Color image||
+|-
+|87||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-087.png|100px]] --&gt;||House ([[New England]])||Color image||
+|-
+|88||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-088.png|100px]] --&gt;||Modern house ([[Cloudcroft]], [[New Mexico]])||Color image||
+|-
+|89||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-089.png|100px]] --&gt;||"House interior with artist and fire" (Photo by Jim Amos of Jim Gray &amp; his wife)&lt;ref&gt;{{Cite web|url=http://ngm-beta.nationalgeographic.com/archive/great-smokies-national-park-solitude-for-millions/|title=Great Smokies National Park: Solitude for Millions|publisher=[[National Geographic Society]]}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://goldenrecord.org/jpg/089%20House%20interior%20with%20artist%20and%20fire.jpg|title=House interior with artist and fire|publisher=[[NASA]]}}&lt;/ref&gt;||Color image||
+|-
+|90||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-090.png|100px]] --&gt;||[[Taj Mahal]]||Color image||
+|-
+|91||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-091.png|100px]] --&gt;||English city ([[Oxford]])||Color image||
+|-
+|92||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-092.png|100px]] --&gt;||[[Boston]]||Color image||
+|-
+|93||[[File:Voyager Golden Record 93 UN building by day.gif|100px]]||[[headquarters of the United Nations|UN Building]] [[Day]]||Color image||
+|-
+|94||[[File:Voyager Golden Record 94 UN building at night.gif|100px]]||UN Building [[Night]]||Color image||
+|-
+|95||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-095.png|100px]] --&gt;||[[Sydney Opera House]]||Color image||Size
+|-
+|96||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-096.png|100px]] --&gt;||Artisan with [[drill]]||Black-and-white image||
+|-
+|97||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-097.png|100px]] --&gt;||[[Factory]] interior||Color image||
+|-
+|98||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-098.png|100px]] --&gt;||[[Museum]]||Color image||
+|-
+|99||[[File:Voyager golden record 99 xray.gif|100px]]||[[X-ray]] of [[hand]]||Color image||
+|-
+|100||[[File:Voyager Golden Record 100 woman with microscope.gif|100px]]||Woman with [[microscope]]||Color image||
+|-
+|101||[[File:Voyager Golden Record 101 street scene in Pakistan.gif|100px]]||[[Street]] scene, [[Asia]] ([[Pakistan]])||Color image||
+|-
+|102||[[File:Voyager Golden Record 102 rush hour traffic in Thailand.gif|100px]]||[[Rush hour]] traffic, [[Thailand]]||Color image||
+|-
+|103||[[File:Voyager golden record 103 highway.gif|100px]]||Modern [[highway]] ([[Ithaca, NY]])||Color image||
+|-
+|104||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-104.png|100px]] --&gt;||[[Golden Gate Bridge]]||Black-and-white image||Size
+|-
+|105||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-105.png|100px]] --&gt;||[[Train]]||Color image||Size
+|-
+|106||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-106.png|100px]] --&gt;||[[Airplane]] in [[flight]]||Color image||
+|-
+|107||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-107.png|100px]] --&gt;||[[Airport]] ([[Toronto]])||Black-and-white image||
+|-
+|108||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-108.png|100px]] --&gt;||[[Antarctic]] [[exploration|Expedition]]||Color image||
+|-
+|109||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-109.png|100px]] --&gt;||[[Radio telescope]] ([[Westerbork (village)|Westerbork]], [[Netherlands]])||Black-and-white image||
+|-
+|110||[[File:Voyager golden record 110 arecibo.gif|100px]]||Radio telescope ([[Arecibo]])||Color image||Size
+|-
+|111||[[File:Voyager golden record 111 systemoftheworld.gif|100px]]||Page of [[book]] ([[Isaac Newton|Newton]], ''[[Philosophiæ Naturalis Principia Mathematica|On the System of the World]]'')||Color image||
+|-
+|112||[[File:Voyager golden record 112 astronaut.gif|100px]]||[[Astronaut]] in [[space]]||Color image||
+|-
+|113||[[File:Voyager golden record 113 launch.gif|100px]]||[[Titan IIIE|Titan Centaur]] [[Rocket launch|launch]]||Color image||
+|-
+|114||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-114.png|100px]] --&gt;||[[Sunset]] with [[bird]]s||Color image||
+|-
+|115||&lt;!-- Deleted image removed: [[File:Voyager-Golden-Record-Pictures-115.png|100px]] --&gt;||[[String Quartet]] ([[Quartetto Italiano]])||Color image||
+|-
+|116||[[File:Voyager golden record 116 score.gif|100px]]||[[Violin]] with [[Sheet music|music score]] ([[Cavatina]])||Color image||
+|}
+
+== See also ==
+{{Commons category|Contents of the Voyager Golden Record}}
+* [[Communication with extraterrestrial intelligence]]
+
+== Notes and references ==
+'''Notes'''
+{{Reflist|group=n}}
+'''References'''
+{{Reflist|colwidth=30em}}
+{{refbegin}}
+{{refend}}
+
+== External links ==
+* [http://voyager.jpl.nasa.gov/spacecraft/goldenrec.html Official NASA JPL page about the Golden Record]
+* [http://goldenrecord.org/ Multimedia showcase with the contents of the Golden Record]
+* [http://re-lab.net/welcome/ Voyager Golden Record – all images, languages, and sounds – re-lab.net]
+* [http://web.mit.edu/lilybui/www/ The Infinite Voyager : The Golden Record - built by Lily Bui from MIT]
+* [https://archive.org/details/Voyager1 ''Voyager 1'' Audio on Internet Archive]
+* [https://soundcloud.com/nasa/sets/golden-record-sounds-of/ Official Nasa Soundcloud page with sounds from Golden Record]
+* [http://voyager.damninteresting.com/ Multimedia presentation of the images and audio of the Golden Records]
+
+{{Voyager Golden Record|state=expanded}}
+{{Voyager program}}
+{{Carl Sagan}}
+
+{{DEFAULTSORT:Contents Of The Voyager Golden Record}}
+[[Category:Voyager program]]
+[[Category:Contents of the Voyager Golden Record| ]]
+
+[[es:Disco de oro de las Voyager]]</text>
+      <sha1>dtdxbj5fxdzodo6e2w16bncuzvaoeyl</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,340 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.5</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Voyager Golden Record</title>
+    <ns>0</ns>
+    <id>144386</id>
+    <revision>
+      <id>925530619</id>
+      <parentid>925529934</parentid>
+      <timestamp>2019-11-10T18:45:34Z</timestamp>
+      <contributor>
+        <username>Rowan Forest</username>
+        <id>33701392</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/2A00:23C4:8695:5801:8C98:B54:66D2:F504|2A00:23C4:8695:5801:8C98:B54:66D2:F504]] ([[User talk:2A00:23C4:8695:5801:8C98:B54:66D2:F504|talk]]) to last version by JIP</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36451">{{short description|Two phonograph records included on both Voyager spacecraft launched in 1977}}
+{{redirect|Golden Disk|the Korean music awards|Golden Disc Awards}}
+{{Multiple image |direction=vertical |align=right |image1=The Sounds of Earth - GPN-2000-001976.jpg|caption1=The [[Voyager program|Voyager]] Golden Record|image2=The Sounds of Earth Record Cover - GPN-2000-001978.jpg|caption2=Cover of the Voyager Golden Record|image3=Voyager.jpg|caption3=The golden record's location on Voyager (middle-bottom-left)}}
+
+The '''Voyager Golden Records''' are two [[gramophone record|phonograph records]] that were included aboard both [[Voyager program|Voyager spacecraft]] launched in 1977.&lt;ref name="TA-20170630"&gt;{{cite magazine |last=Lafrance |first=Adrienne |title=Solving the Mystery of Whose Laughter Is On the Golden Record |url=https://www.theatlantic.com/technology/archive/2017/06/solving-the-mystery-of-whose-laughter-is-on-the-golden-record/532197/ |date=30 June 2017 |magazine=[[The Atlantic]] |accessdate=1 July 2017 }}&lt;/ref&gt; The records contain sounds and images selected to portray the diversity of life and culture on Earth, and are intended for any intelligent [[extraterrestrial life]] form who may find them. The records are a sort of [[time capsule]].
+
+Although neither Voyager spacecraft is heading toward any particular star, ''[[Voyager 1]]'' will pass within 1.6 [[light-year]]s' distance of the star [[Gliese 445]], currently in the constellation [[Camelopardalis]], in about [[Timeline of the far future#Spacecraft and space exploration|40,000 years]].&lt;ref&gt;{{cite web |url=http://voyager.jpl.nasa.gov/mission/interstellar.html |title=Voyager – Interstellar Mission |website=[[Jet Propulsion Laboratory]] |publisher=[[NASA]] |date=January 25, 2010}}&lt;/ref&gt;
+
+[[Carl Sagan]] noted that "The spacecraft will be encountered and the record played only if there are advanced space-faring [[civilization]]s in [[interstellar space|interstellar]] space, but the launching of this [[Message in a bottle|'bottle' into the cosmic 'ocean']] says something very hopeful about life on this planet."&lt;ref name="Voyager - Golden Record"&gt;{{cite web |url=http://voyager.jpl.nasa.gov/spacecraft/goldenrec.html |title=Voyager – Golden Record |website=Jet Propulsion Laboratory |publisher=NASA |accessdate=September 23, 2010}}&lt;/ref&gt;
+
+== Background ==
+The ''[[Voyager 1]]'' probe is currently the [[List of artificial objects leaving the Solar System|farthest human-made object]] from [[Earth]]. Both ''Voyager 1'' and ''Voyager 2'' have reached interstellar space, the region between stars where the [[Interstellar medium|galactic plasma]] is present.&lt;ref&gt;{{cite web |url=http://www.nasa.gov/mission_pages/voyager/voyager20130912.html |title=NASA Spacecraft Embarks on Historic Journey Into Interstellar Space |date=September 12, 2013 |publisher=NASA |accessdate=April 15, 2014}}&lt;/ref&gt; Like their predecessors ''[[Pioneer program|Pioneer]] [[Pioneer 10|10]]'' and ''[[Pioneer 11|11]]'', which featured a simple [[Pioneer plaque|plaque]], both ''Voyager 1'' and ''[[Voyager 2]]'' were launched by [[National Aeronautics and Space Administration|NASA]] with a message aboard—a kind of [[time capsule]], intended to communicate to extraterrestrials a story of the world of [[human]]s on Earth.&lt;ref name = "Voyager - Golden Record"/&gt;
+
+{{quote|This is a present from a small, distant world, a token of our sounds, our science, our images, our music, our thoughts and our feelings. We are attempting to survive our time so we may live into yours. |[[President of the United States|President]] [[Jimmy Carter]]}}
+
+== Contents ==
+{{Main|Contents of the Voyager Golden Record}}
+
+The contents of the record were selected for NASA by a committee chaired by [[Carl Sagan]] of [[Cornell University]]. The selection of content for the record took almost a year. Sagan and his associates assembled 115 images and a variety of natural sounds, such as those made by surf, wind, thunder and animals (including the songs of [[Birdsong|birds]] and [[whale sound|whales]]). To this they added musical selections from different cultures and eras, spoken greetings in 55 ancient and modern languages, other human sounds, like footsteps and laughter (Sagan's),&lt;ref name="TA-20170630" /&gt; and printed messages from U.S. president [[Jimmy Carter]] and [[United Nations|U.N.]] [[Secretary-General of the United Nations|Secretary-General]] [[Kurt Waldheim]]. The record also includes the inspirational message ''[[Per aspera ad astra]]'' in [[Morse code]].
+
+{{Listen
+| filename    =Voyager Golden Record greeting in English.ogg
+| title       = "Hello from the children of Planet Earth"
+| description = A child's greeting in English recorded on the Voyager Golden Record
+| type         = speech
+}}
+The collection of images includes many photographs and diagrams both in black and white, and color. The first images are of scientific interest, showing mathematical and physical quantities, the [[Solar System]] and its planets, [[DNA]], and human [[Outline of human anatomy|anatomy]] and [[Human reproduction|reproduction]]. Care was taken to include not only pictures of humanity, but also some of animals, insects, plants and landscapes. Images of humanity depict a broad range of cultures. These images show food, architecture, and humans in portraits as well as going about their day-to-day lives. Many pictures are annotated with one or more indications of scales of time, size, or mass. Some images contain indications of [[chemical composition]]. All measures used on the pictures are defined in the first few images using physical references that are likely to be consistent anywhere in the [[universe]].
+
+The musical selection is also varied, featuring works by composers such as [[J.S. Bach]] (interpreted by [[Glenn Gould]]), [[Wolfgang Amadeus Mozart|Mozart]], [[Ludwig van Beethoven|Beethoven]] (played by the [[Budapest String Quartet]]), and [[Igor Stravinsky|Stravinsky]]. The disc also includes music by [[Guan Pinghu]], [[Blind Willie Johnson]], [[Chuck Berry]], [[Kesarbai Kerkar]], [[Valya Balkanska]], and electronic composer [[Laurie Spiegel]], as well as [[Azerbaijani folk music]] ([[Mugham]]) by oboe player [[Kamil Jalilov]].&lt;ref&gt;Anne Kressler. [https://www.azer.com/aiweb/categories/magazine/22_folder/22_articles/22_extraterrestrial.html Azerbaijani Music Selected for Voyager Spacecraft] // Azerbaijan International. — Summer 1994 (2.2). — P. 24-25.&lt;/ref&gt;&lt;ref&gt;[[Natalie Angier]]. The Canon: The Beautiful Basics of Science. — Faber &amp; Faber, 2009. — P. 408.&lt;/ref&gt;&lt;ref&gt;Mike Wehner. [https://bgr.com/2017/11/28/golden-record-voyager-nasa-buy/ You can now buy the NASA audio record that we sent to aliens] // bgr.com. — November 28th, 2017.&lt;/ref&gt;&lt;ref&gt;Aida Huseynova. New images of Azerbaijani Mugham in Twentieth Century // The Music of Central Asia. — Indiana University Press, 2016. — P. 400.&lt;/ref&gt;&lt;ref&gt;Margaret Kaeter. Nations in Transitions: The Caucasian Republics. — Infobase Publishing, 2004. — P. 91.&lt;/ref&gt; The inclusion of Berry's "[[Johnny B. Goode]]" was controversial, with some claiming that rock music was "adolescent", to which Sagan replied, "There are a lot of adolescents on the planet."&lt;ref name=Smithsonian&gt;{{cite web |title=What Is on Voyager's Golden Record? |first=Megan |last=Gambino |url=http://www.smithsonianmag.com/science-nature/what-is-on-voyagers-golden-record-73063839/?no-ist=&amp;page=4 |date=April 22, 2012 |work=[[The Smithsonian]] |accessdate=December 7, 2015}}&lt;/ref&gt; The selection of music for the record was completed by a team composed of Carl Sagan as project director, [[Linda Salzman Sagan]], [[Frank Drake]], [[Alan Lomax]], [[Ann Druyan]] as creative director, artist [[Jon Lomberg]], [[Timothy Ferris]] as producer, and [[Jimmy Iovine]] as sound engineer.&lt;ref name=Smithsonian/&gt;&lt;ref name="TimFerris"&gt;{{cite magazine|last1=Ferris|first1=Timothy|title=How the Voyager Golden Record Was Made|url=https://www.newyorker.com/tech/elements/voyager-golden-record-40th-anniversary-timothy-ferris|accessdate=15 November 2017|magazine=The New Yorker|date=20 August 2017}}&lt;/ref&gt;
+
+The Golden Record also carries an hour-long recording of the brainwaves of [[Ann Druyan]].&lt;ref name=Smithsonian/&gt; During the recording of the brainwaves, Druyan thought of many topics, including Earth's history, civilizations and the problems they face, and what it was like to fall in love.&lt;ref&gt;{{cite book |last=Sagan |first=Carl |title=Billions and Billions: Thoughts on Life and Death at the Brink of the Millennium |publisher=Random House |location=New York |year=1997 |isbn=0-679-41160-7 |url=https://archive.org/details/billionsbillions00saga }}&lt;/ref&gt;
+
+After NASA had received [[Pioneer plaque#Criticism|criticism over the nudity on the Pioneer plaque]] (line drawings of a naked man and woman), the agency chose not to allow Sagan and his colleagues to include a photograph of a nude man and woman on the record. Instead, only a silhouette of the couple was included.&lt;ref&gt;Lomberg, Jon, "Pictures of Earth" in {{cite book |last=Sagan |first=Carl |title=Murmurs of Earth |publisher=Ballantine Books |location=New York |year=1979 |isbn=978-0-34528-396-2 |url=https://archive.org/details/murmursofearthvo00saga }}&lt;/ref&gt; However, the record does contain "Diagram of vertebrate evolution", by [[Jon Lomberg]], with drawings of an anatomically correct naked male and naked female, showing external organs.&lt;ref&gt;{{cite web |url=http://voyager.jpl.nasa.gov/spacecraft/sceneearth.html |title=Voyager Record Photograph Index |website=Jet Propulsion Laboratory |publisher=NASA | accessdate=December 20, 2014}}&lt;/ref&gt;
+
+The [[pulsar]] map and hydrogen molecule diagram are shared in common with the [[Pioneer plaque]].
+
+The 115 images are encoded in analogue form and composed of 512 vertical lines. The remainder of the record is audio, designed to be played at 16⅔ revolutions per minute.
+
+[[Jimmy Iovine]], who was still early in his career as a music producer, served as sound engineer for the project at the recommendation of [[John Lennon]], who was contacted to contribute but was unable to take part.&lt;ref name="Ferris"&gt;{{cite magazine |last1=Ferris |first1=Timothy |title=How the Voyager Golden Record Was Made |url=https://www.newyorker.com/tech/elements/voyager-golden-record-40th-anniversary-timothy-ferris |accessdate=November 15, 2017 |magazine=The New Yorker |date=August 20, 2017}}&lt;/ref&gt;
+
+It has been said that Carl Sagan suggested including the [[The Beatles|Beatles]] song "[[Here Comes the Sun]]" on the record but the record company [[EMI]], which held the copyrights, declined.&lt;ref&gt;{{cite web |url=http://www.kvart-bolge.com/#!The-Truly-Most-Expensive-Record-Ever-25-billion-dollars-no-Beatles-and-no-nudity/c1rr6/557a38940cf2c5991af3e149 |title=The Truly Most Expensive Record Ever: 2.5 billion dollars (no Beatles and no nudity) |date=June 12, 2015 |first=Arved |last=Deecke |publisher=Kvart &amp; Bølge |accessdate=November 30, 2015}}&lt;/ref&gt; However, this was refuted by [[Timothy Ferris]], who worked on the selection with Sagan; the song was never even considered for inclusion.&lt;ref name="Ferris" /&gt;
+
+In July 2015, NASA uploaded the audio contents of the record to the audio streaming service [[SoundCloud]].&lt;ref&gt;{{cite web |url=https://soundcloud.com/nasa/sets/golden-record-greetings-to-the |title=Greetings to the Universe |via=SoundCloud |access-date=April 20, 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://soundcloud.com/nasa/sets/golden-record-sounds-of |title=Sounds of Earth |via=SoundCloud |access-date=April 20, 2016}}&lt;/ref&gt;
+ 
+===Images===
+{{Gallery |align=center |width=300 |lines=3
+|title=Select images on the Voyager Golden Record
+|File:Voyager golden record 77 supermarket.gif|A woman in a supermarket
+|File:Voyager golden record 11 jupiter.gif|A photo of [[Jupiter]] with its diameter indicated
+|File:Voyager golden record 82 feeding.gif| This image depicts humans licking, eating, and drinking as modes of feeding.}}
+{{Gallery |align=center |width=300 |lines=3|File:Voyager golden record 110 arecibo.gif|This is a photograph of the Arecibo observatory marked with an indication of scale.
+|File:Voyager golden record 111 systemoftheworld.gif|This image is a photograph of page 6 from [[Isaac Newton]]{{'}}s ''[[Philosophiæ Naturalis Principia Mathematica]]'' Volume 3, ''De mundi systemate'' (On the system of the world).
+|File:Voyager golden record 13 earth.gif|This is a photograph of Egypt, Red Sea, Sinai Peninsula and the Nile from Earth orbit annotated with chemical composition of Earth's atmosphere.}}{{clear}}
+
+== Playback ==
+[[Image:Voyager Golden Record Cover Explanation.svg|thumb|Explanation of the Voyager record cover diagram, as provided by NASA]]
+
+In the upper left-hand corner is a drawing of the [[phonograph record]] and the stylus carried with it. The stylus is in the correct position to play the record from the beginning. Written around it in [[Binary Arithmetic|binary arithmetic]] is the correct time of one rotation of the record, 3.6 seconds, expressed in time units of 0.70 billionths of a second, the time period associated with a [[Hydrogen line|fundamental transition of the hydrogen atom]]. The drawing indicates that the record should be played from the outside in. Below this drawing is a side view of the record and stylus, with a binary number giving the time to play one side of the record—about an hour (more precisely, between 53 and 54 minutes).
+
+The information in the upper right-hand portion of the cover is designed to show how pictures are to be constructed from the recorded signals. The top drawing shows the typical signal that occurs at the start of a picture. The picture is made from this signal, which traces the picture as a series of vertical lines, similar to analog [[television]] (in which the picture is a series of horizontal lines). Picture lines 1, 2 and 3 are noted in binary numbers, and the duration of one of the "picture lines," about 8 milliseconds, is noted. The drawing immediately below shows how these lines are to be drawn vertically, with staggered "interlace" to give the correct picture rendition. Immediately below this is a drawing of an entire picture [[Raster scan|raster]], showing that there are 512 (2&lt;sup&gt;9&lt;/sup&gt;) vertical lines in a complete picture. Immediately below this is a replica of the first picture on the record to permit the recipients to verify that they are decoding the signals correctly. A circle was used in this picture to ensure that the recipients use the correct ratio of horizontal to vertical height in picture reconstruction. Color images were represented by three images in sequence, one each for red, green, and blue components of the image. A color image of the spectrum of the sun was included for calibration purposes.
+
+The drawing in the lower left-hand corner of the cover is the pulsar map previously sent as part of the plaques on Pioneers 10 and 11. It shows the location of the Solar System with respect to 14 [[pulsar]]s, whose precise periods are given. The drawing containing two circles in the lower right-hand corner is a drawing of the [[hydrogen atom]] in its two lowest states, with a connecting line and digit 1 to indicate that the time interval associated with the transition from one state to the other is to be used as the fundamental time scale, both for the time given on the cover and in the decoded pictures.&lt;ref&gt;{{cite web |url=http://www.jpl.nasa.gov/multimedia/voyager_record/index_voyager.html |title=Voyager Record |website=Jet Propulsion Laboratory |publisher=NASA |accessdate=May 26, 2010}}&lt;/ref&gt;
+
+==Manufacturing==
+{{Multiple image
+| image1  = Voyager golden record gold plating.jpg
+| width1  = 220
+| image2  = PIA17035 Mementos of Earth.jpg
+| width2  = 134
+| footer  = Gold plating at the James G. Lee Record Processing center in Gardena, California (left), and preparation for the record's packaging before the launch of ''[[Voyager 2]]'' (right).
+}}
+
+Blank records were provided by the [[Pyral]] S.A. of [[Créteil]], France. [[Sony Music|CBS Records]] contracted the JVC Cutting Center in [[Boulder, Colorado]], to cut the [[Audio mastering|lacquer masters]] which were then sent to the James G. Lee record-processing center in [[Gardena, California]], to cut and gold-plate eight Voyager records. After the records were plated they were mounted in aluminum containers and delivered to JPL.&lt;ref&gt;{{cite web |title=Voyager &amp; the Golden Record |url=https://www.flickr.com/photos/nasa-jpl/sets/72157676187916186 |via=Flickr |publisher=NASA/JPL}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Voyager Interstellar Record Collection, 1976-1977 |url=https://pub-lib.jpl.nasa.gov/docushare/dsweb/Get/Document-533/JPL151,%20Voyager%20Interstellar%20Record%20Collection,%20%201976-1977.pdf |website=Jet Propulsion Laboratory |publisher=NASA}}&lt;/ref&gt;
+
+The record is constructed of gold-plated copper and is {{convert|12|in|cm}} in diameter.&lt;ref name="Voyager - Golden Record"/&gt; The record's cover is [[Aluminium|aluminum]] and [[electroplating|electroplated]] upon it is an ultra-pure sample of the isotope [[uranium-238]]. Uranium-238 has a [[half-life]] of 4.468 billion years. It is possible (e.g. via [[Isotope-ratio mass spectrometry|mass-spectrometry]]) that a civilization that encounters the record will be able to use the ratio of remaining uranium to the other elements to determine the age of the record.
+
+The records also had the inscription ''"To the makers of music – all worlds, all times"'' hand-etched on its surface. The inscription was located in the "takeout grooves", an area of the record between the label and playable surface. Since this was not in the original specifications, the record was initially rejected, to be replaced with a blank disc. Sagan later convinced the administrator to include the record as is.&lt;ref&gt;{{cite news |url=https://www.nytimes.com/2007/09/05/opinion/05ferris.html |title=The Mix Tape of the Gods |accessdate=February 11, 2009 |newspaper=[[The New York Times]] |first=Timothy |last=Ferris |date=September 5, 2007}}&lt;/ref&gt;
+
+== Journey ==
+[[File:Record is attached to Voyager 1.jpg|thumb|Golden record is attached to the spacecraft.]]
+''[[Voyager 1]]'' was launched in 1977, passed the orbit of [[Pluto]] in 1990, and left the [[Solar System]] (in the sense of passing the [[Heliosphere|termination shock]]) in November 2004. It is now in the [[Kuiper belt]]. In about 40,000 years, it and ''[[Voyager 2]]'' will each come to within about 1.8 [[light-year]]s of two separate stars: ''Voyager 1'' will have approached star [[Gliese 445]], located in the constellation [[Camelopardalis]]; and ''Voyager 2'' will have approached star [[Ross 248]], located in the constellation of [[Andromeda (constellation)|Andromeda]].
+
+In March 2012, ''Voyager 1'' was over 17.9 billion km from the Sun and traveling at a speed of 3.6 [[Astronomical unit|AU]] per year (approximately {{convert|61000|km/h|abbr=on}}), while ''Voyager 2'' was over 14.7 billion km away and moving at about 3.3 AU per year (approximately {{convert|56000|km/h|abbr=on}}).&lt;ref&gt;{{cite web |title=Voyager – The Interstellar Mission |url=http://voyager.jpl.nasa.gov/mission/fastfacts.html |website=Jet Propulsion Laboratory |publisher=NASA |accessdate=November 26, 2012}}&lt;/ref&gt;
+
+''Voyager 1'' has entered the [[heliosheath]], the region beyond the termination shock. The termination shock is where the solar wind, a thin stream of electrically charged gas blowing continuously outward from the Sun, is slowed by pressure from gas between the stars. At the termination shock, the solar wind slows abruptly from its average speed of {{convert|300|-|700|km/s|mph|abbr=on}} and becomes denser and hotter.&lt;ref name="NASA"&gt;{{cite web |url=http://www.nasa.gov/vision/universe/solarsystem/voyager_agu.html |title=Voyager Enters Solar System's Final Frontier |date=May 24, 2005 |publisher=NASA |accessdate=November 30, 2015}}&lt;/ref&gt;
+
+Of the eleven instruments carried on ''Voyager 1'', five of them are still operational and continue to send back data today. It is expected that there will be insufficient energy to power any of the instruments beyond 2025.
+
+On September 12, 2013, NASA announced that ''Voyager 1'' had left the heliosheath and entered [[Outer space|interstellar space]],&lt;ref name="Voyager 1 Interstellar Space"&gt;{{cite web |url=http://www.nasa.gov/mission_pages/voyager/voyager20130912.html |title=NASA Spacecraft Embarks on Historic Journey Into Interstellar Space |date=September 12, 2013 |publisher=NASA |accessdate=November 30, 2015}}&lt;/ref&gt; although it still remains within the Sun's gravitational sphere of influence.
+
+== Depictions in culture ==
+[[Image:Voyager Sounds of Earth record - Udvar-Hazy Center.JPG|right|thumb|200px|A copy of the record on display at the Udvar-Hazy Center in [[Washington Dulles International Airport]].]]
+Several works of science fiction, such as the 1979 film ''[[Star Trek: The Motion Picture]]'', the 1984 film ''[[Starman (film)|Starman]]'' and the 2000 film ''[[Battlefield Earth (film)|Battlefield Earth]]'' feature extraterrestrial intelligences discovering the record and turning their attention to Earth as a result. Among these is included the computer animated television show ''[[Beast Wars: Transformers|Beast Wars]]'', which features one of the records as a central plot point in a continuation of the ''[[The Transformers (TV series)|Transformers]]'' storyline. Referred to as the Golden Disk, the record is stolen by [[Megatron#Beast Era|Megatron]] and his band of Predacons. The disk is revealed to contain a hidden message left by [[Megatron#Generation 1|the original Megatron]], instructing his descendants to venture back in time to prehistoric Earth and assassinate [[Optimus Prime]], to change history and ensure a [[Decepticon]] victory against the [[Autobot]]s.
+
+In a ''[[Saturday Night Live]]'' segment ("Next Week in Review") in episode 64 of the show's [[Saturday Night Live (season 3)|third season]] (originally aired 1978), [[Steve Martin]]'s character, a psychic named Cocuwa, announced that extraterrestrials had responded to the record with the four words "Send more Chuck Berry".&lt;ref&gt;{{cite web |url=http://snltranscripts.jt.org/77/77rreview.phtml |title=Saturday Night Live Transcripts, Season 3: Episode 18, 77r: Steve Martin / The Blues Brothers, Next Week In Review |date=April 22, 1978 |series=Season 3: 1977-1978 |layurl=http://snltranscripts.jt.org/77/77r.phtml}}&lt;/ref&gt;
+
+The recording is a major plot piece of "[[Little Green Men (The X-Files)|Little Green Men]]", a [[The X-Files (season 2)|season 2]] episode of ''[[The X-Files]]''.
+
+On ''[[Star Trek: Voyager]]'', the Greetings from Earth on the golden record are sent to ''[[USS Voyager (Star Trek)|Voyager]]'' by Rain Robinson in Season 3, Episode 8 "[[Future's End]]".
+
+It was also referenced in the 2005 animation known as ''[[Fafner in the Azure]]'' as being one of the objects that the aliens discover.
+
+In 2014, the [[podcast]] ''[[The Truth (podcast)|The Truth]]'' produced an episode titled "Voyager Found", where the ''Voyager'' crash-lands on the property of Dawn and Tad, an alien couple, who decide to play the record.&lt;ref&gt;{{cite web |url=http://www.thetruthpodcast.com/story/2015/10/6/voyager-found |title=Voyager Found |publisher=The Truth Podcast |accessdate=November 21, 2017}}&lt;/ref&gt;
+
+In 2014, composer [[Dario Marianelli]] wrote a ''Voyager Concerto'' for Violin and Orchestra, which was premiered in [[Brisbane]], Australia in November that year by the Queensland Symphony Orchestra (QSO), and in Stockholm the following April (2015), by the Swedish Radio Orchestra. The QSO, with British violinist Jack Liebeck, performed the piece over several concerts at the Queensland Performing Arts Centre; each performance was preceded by a lecture by physicist professor [[Brian Cox (physicist)|Brian Cox]], who talked at length about NASA's Voyager Mission, and introduced the concerto. The 30-minute piece, in one single movement, depicts the journey of the ''Voyager'' through the Solar System, using as references some of the music that is on board each probe, on the Golden Record.&lt;ref&gt;{{cite web|url=https://soundcloud.com/voyager-concerto/d-marianelli-voyager-concerto|title=D. Marianelli - Voyager Concerto|publisher=}}&lt;/ref&gt;
+
+An image of the Golden Record cover is printed on the physical CD of [[Mary Fahl]]'s 2014 release ''Love &amp; Gravity''.
+
+The 2015 feature documentary ''Sam Klemke's Time Machine'', compares the Golden Record's portrait of humanity to American man Sam Klemke's ongoing self-portraiture. In 1977—the same year that NASA launched Voyager with the Golden Record—Sam started obsessively documenting his entire life on film. ''Sam Klemke's Time Machine'', directed by Matthew Bate, premiered at the [[2015 Sundance Film Festival]].&lt;ref&gt;{{cite magazine |last1=Harvey |first1=Dennis |title=Sundance Film Review: 'Sam Klemke's Time Machine' |url=https://variety.com/2015/film/reviews/sundance-film-review-sam-klemkes-time-machine-1201407675/ |date=January 23, 2015 |magazine=[[Variety (magazine)|Variety]] |accessdate=15 April 2016}}&lt;/ref&gt;
+
+[[Jim Moray]], an English folk singer, released the album ''Upcetera'' in September 2016. It contains the track 'Sounds of Earth' in which he interweaves the stories of the production of the Golden Record and the romance between Carl Sagan and Ann Druyan. It refers to the recording of an EEG of Druyan as she thought of Sagan as the sound of someone falling in love.&lt;ref name="jimmoray.co.uk"&gt;{{cite web |url=http://jimmoray.co.uk/upcetera/2016/07/19/upcetera/ |title=Upcetera by Jim Moray |date=July 19, 2016 |publisher=jimmoray.co.uk |access-date=January 30, 2017}}&lt;/ref&gt;
+
+In October 2016, the podcast [[Science Friday]] featured an updated, [[crowd sourced]] version of the Golden Record which included, among other entries, [[I Have a Dream]], ''[[The Little Prince]]'', and the [[human genome]].&lt;ref name="Science Friday Updated Version"&gt;{{cite web |url=http://apps.sciencefriday.com/goldenrecord/ |title=Your Record |work=Science Friday |date=October 7, 2016 | accessdate=October 7, 2016}}&lt;/ref&gt;
+
+[[Grace Petrie]], an English songwriter and folk singer, released a track by the name of "The Golden Record" on her 2017 album ''Heart First Aid Kit,'' which is a love song based upon the story of Carl Sagan and Ann Druyan, referencing the additions made to the record intended to depict the sound of human beings in love.&lt;ref&gt;{{cite web |url=https://gracepetrie.bandcamp.com/album/heart-first-aid-kit |title=Heart First Aid Kit, by Grace Petrie &amp; the PC Brigade |date=June 2017 |publisher=Grace Petrie |access-date=July 4, 2017}}&lt;/ref&gt;
+
+The 2017 documentary ''The Farthest'', directed by Emer Reynolds, features those who worked on the Golden Record and [[Voyager program|Voyager]] missions including [[Frank Drake]], [[Timothy Ferris]], and [[Nick Sagan]].&lt;ref&gt;{{cite web |url=http://scienceandfilm.org/articles/2899/the-farthest-interview-with-director-emer-reynolds |title=Interview with Director Emer Reynolds |last=Epstein |first=Sonia |date=May 4, 2017 |publisher=Sloan Science &amp; Film |access-date=November 21, 2017}}&lt;/ref&gt;
+
+== Publications ==
+Most of the images used on the record (reproduced in black and white), together with information about its compilation, can be found in the 1978 book ''Murmurs of Earth: The Voyager Interstellar Record'' by [[Carl Sagan]], [[Frank Drake|F. D. Drake]], [[Ann Druyan]], [[Timothy Ferris]], [[Jon Lomberg]], and [[Linda Salzman]].&lt;ref name="Sagan, Carl 1978"&gt;{{cite book |last=Sagan |first=Carl |title=Murmurs of Earth |publisher=Random House |location=New York |year=1978 |isbn=0-394-41047-5}}&lt;/ref&gt; A [[CD-ROM]] version was issued by Warner New Media in 1992.&lt;ref&gt;Sagan, Carl ''et al.'' (1992) ''Murmurs of Earth'' (computer file): ''The Voyager Interstellar Record''. Burbank: Warner New Media.&lt;/ref&gt; Author Ann Druyan, who later married Carl Sagan, wrote about the Voyager Record in the epilogue of Sagan's final book ''[[Billions and Billions]]''.&lt;ref&gt;{{cite book |title=Billions and Billions: Thoughts on Life and Death at the Brink of the Millennium |last=Sagan |first=Carl |publisher=Random House |year=1997 |isbn=0-679-41160-7 |url=https://archive.org/details/billionsbillions00saga }}&lt;/ref&gt;
+
+To celebrate the 40th anniversary of the record, Ozma Records launched a [[Kickstarter]] project to release the record contents in [[LP record|LP]] format as part of a box set also containing a hardcover book, turntable slipmat, and art print.&lt;ref&gt;{{cite web |url=https://www.kickstarter.com/projects/ozmarecords/voyager-golden-record-40th-anniversary-edition |title=Voyager Golden Record: 40th Anniversary Edition |publisher=Kickstarter |access-date=December 15, 2016}}&lt;/ref&gt; The Kickstarter was successfully funded with over $1.4 million raised. Ozma Records then produced another edition of the three-disc LP vinyl record box set that also includes the audio content of the Golden Record, softcover book containing the images encoded on the record, images sent back by ''Voyager'', commentary from Ferris, art print, turntable slipmat, and a collector's box. This edition was released in February 2018 along with a 2xCD-Book edition.&lt;ref&gt;{{Cite web | url = https://pitchfork.com/news/nasas-voyager-golden-record-gets-new-vinyl-reissue/ | title = NASA's Voyager Golden Record Gets New Vinyl Reissue | first = Sam | last = Sodomsky | date = November 28, 2017 | accessdate = November 28, 2017 | work = [[Pitchfork (magazine)|Pitchfork]] }}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = https://www.washingtonpost.com/news/morning-mix/wp/2017/11/27/nasa-launched-this-record-into-space-in-1977-now-you-can-own-your-own-copy/ | title = NASA launched this record into space in 1977. Now, you can own your own copy. | first= Travis | last = Andrews | date = November 28, 2017 | accessdate = November 28, 2017 | work = [[The Washington Post]] }}&lt;/ref&gt; In January 2018, Ozma Records' "Voyager Golden Record; 40th Anniversary Edition" won a [[Grammy Award]] for best boxed or limited-edition package.&lt;ref&gt;{{cite web| url=https://www.space.com/39549-voyager-golden-record-reprint-wins-grammy.html| publisher=Space.com| title=Reprint of NASA's Golden Record Takes Home a Grammy| first=Calla| last=Cofield| date=January 31, 2018| access-date=April 13, 2018}}&lt;/ref&gt;
+
+A book called ''Hello World - A Time Capsule of Life, the Earth, and Humanity'' was inspired by Voyager's Golden Record. This book shares videos from around the world to create a time capsule of the planet Earth.&lt;ref&gt;{{cite web |url=http://www.prweb.com/releases/2017/08/prweb14581484.htm |title=Voyager Golden Record Inspires a Video Montage Book |publisher=PRweb |date= August 8, 2017}}&lt;/ref&gt;{{Better source|reason=Press releases aren't ideal sources because they can be self-published.|date=February 2018}}
+
+== Track listing ==
+{{main|Contents of the Voyager Golden Record}}
+The track listing is as it appears on the 2017 edition released by Ozma Records.
+;Disc one
+{{Track listing
+| all_writing = 
+| title1 = Greeting from [[Kurt Waldheim]], Secretary-General of the United Nations
+| note1 = 
+| length1 = 0:44
+| title2 = Greetings in 55 Languages
+| note2 = by Various Artists
+| length2 = 3:46
+| title3 = United Nations Greetings/Whale Songs
+| note3 = by Various Artists
+| length3 = 4:04
+| title4 = The Sounds of Earth
+| note4 = by Various Artists
+| length4 = 12:19
+| title5 = [[BWV 1047|Brandenburg Concerto No. 2 in F Major, BWV 1047]]: I. Allegro ([[Johann Sebastian Bach]])
+| note5 = by Munich Bach Orchestra/[[Karl Richter (conductor)|Karl Richter]]
+| length5 = 4:44
+| title6 = Ketawang: Puspåwårnå (Kinds of Flowers)
+| note6 = by Pura Paku Alaman Palace Orchestra/K.R.T. Wasitodipuro
+| length6 = 4:47
+| title7 = Cengunmé
+| note7 = by Mahi musicians of Benin
+| length7 = 2:11
+| title8 = Alima Song
+| note8 = by Mbuti of the Ituri Rainforest
+| length8 = 1:01
+| title9 = Barnumbirr (Morning Star) and Moikoi Song
+| note9 = by Tom Djawa, Mudpo, and Waliparu
+| length9 = 1:29
+| title10 = El Cascabel (Lorenzo Barcelata)
+| note10 = by Antonio Maciel and Los Aguilillas with Mariachi México de Pepe Villa/Rafael Carrión
+| length10 = 3:20
+| title11 = [[Johnny B. Goode]]
+| note11 = by [[Chuck Berry]]
+| length11 = 2:41
+| title12 = Mariuamangɨ
+| note12 = by Pranis Pandang and Kumbui of the Nyaura Clan
+| length12 = 1:25
+| title13 = Sokaku-Reibo (Depicting the Cranes in Their Nest)
+| note13 = by [[Goro Yamaguchi]]
+| length13 = 5:04
+| title14 = [[BWV 1006|Partita for Violin Solo No. 3 in E Major, BWV 1006]]: III. Gavotte en Rondeau (Johann Sebastian Bach)
+| note14 = by [[Arthur Grumiaux]]
+| length14 = 2:58
+| title15 = ''[[The Magic Flute]]'' (''Die Zauberflöte''), K. 620, Act II: [[Der Hölle Rache kocht in meinem Herzen|Hell's Vengeance Boils in My Heart]] (Wolfgang Amadeus Mozart)
+| note15 = by [[Edda Moser]]/[[Bayerische Staatsoper|Bavarian State Opera]] Orchestra and Chorus/[[Wolfgang Sawallisch]]
+| length15 = 3:00
+| title16 = [[Chakrulo]]
+| note16 = by Georgian State Merited Ensemble of Folk Song and Dance/Anzor Kavsadze
+| length16 = 2:21
+}}
+;Disc two
+{{Track listing
+| all_writing = 
+| title1 = Roncadoras and Drums
+| note1 = by Musicians from Ancash
+| length1 = 0:55
+| title2 = Melancholy Blues (Marty Bloom/[[Walter Melrose]])
+| note2 = by [[Louis Armstrong and His Hot Seven]]
+| length2 = 3:06
+| title3 = Muğam
+| note3 = by [[Kamil Jalilov]]
+| length3 = 2:35
+| title4 = ''[[The Rite of Spring]]'' (''Le Sacre du Printemps''), Part II—The Sacrifice: VI. Sacrificial Dance (The Chosen One) ([[Igor Stravinsky]])
+| note4 = by [[Columbia Symphony Orchestra]]/Igor Stravinsky
+| length4 = 4:38
+| title5 = ''[[The Well-Tempered Clavier]]'', Book II: Prelude and Fugue No. 1 in C Major, BWV 870 (Johann Sebastian Bach)
+| note5 = by [[Glenn Gould]]
+| length5 = 4:51
+| title6 = [[Symphony No. 5 in C Minor]], Opus 67: I. Allegro Con Brio ([[Ludwig van Beethoven]])
+| note6 = by [[Philharmonia Orchestra]]/[[Otto Klemperer]]
+| length6 = 8:49
+| title7 = [[Izlel e Delyu Haydutin]]
+| note7 = by [[Valya Balkanska]]
+| length7 = 5:04
+| title8 = Navajo Night Chant, Yeibichai Dance
+| note8 = Ambrose Roan Horse, Chester Roan, and Tom Roan
+| length8 = 1:01
+| title9 = The Fairie Round ([[Anthony Holborne]])
+| note9 = by [[Early Music Consort of London]]/[[David Munrow]]
+| length9 = 1:19
+| title10 = Naranaratana Kookokoo (The Cry of the Megapode Bird)
+| note10 = by Maniasinimae and Taumaetarau Chieftain Tribe of Oloha and Palasu'u Village Community
+| length10 = 1:15
+| title11 = Wedding Song
+| note11 = by Young girl of Huancavelica
+| length11 = 0:42
+| title12 = Liu Shui (Flowing Streams)
+| note12 = by Guan Pinghu
+| length12 = 7:36
+| title13 = Bhairavi: Jaat Kahan Ho
+| note13 = by Kesarbai Kerkar
+| length13 = 3:34
+| title14 = [[Dark Was the Night, Cold Was the Ground]]
+| note14 = by [[Blind Willie Johnson]]
+| length14 = 3:32
+| title15 = [[String Quartet No. 13 (Beethoven)|String Quartet No. 13 in B-flat Major]], Opus 130: V. Cavatina (Ludwig van Beethoven)
+| note15 = by [[Budapest String Quartet]]
+| length15 = 6:41
+| title16 = 
+| length16 = 
+| title17 = 
+| length17 = 
+| title18 = 
+| length18 = 
+| title19 = 
+| length19 = 
+| title20 = 
+| length20 = 
+| total_length = 
+}}
+
+== See also ==
+{{Portal|Astronomy|Biology}}
+* [[Arecibo message]]
+* [[Communication with extraterrestrial intelligence]]
+* [[Pioneer plaque]]
+* [[Time capsule]]
+
+== References ==
+{{Reflist|colwidth=30em}}
+{{refbegin}}
+* Originally based on public domain text from the [http://voyager.jpl.nasa.gov/spacecraft/goldenrec.html NASA website], where selected images and sounds from the record can be found.
+{{refend}}
+
+== External links ==
+{{Commons category}}
+&lt;!-- Please don't add more external links, except in exceptional cases. --&gt;
+* {{cite web |url=http://voyager.jpl.nasa.gov/spacecraft/goldenrec.html |title=The Golden Record |publisher=JPL/NASA}}
+* {{cite web |url=http://goldenrecord.org/ |title=The Golden Record Multimedia showcase |publisher=goldenrecord.org}}
+
+{{Voyager Golden Record}}
+{{Interstellar messages}}
+{{Voyager program}}
+{{Carl Sagan}}
+{{NASA space program}}
+
+[[Category:Voyager program|Golden record]]
+[[Category:Interstellar messages]]
+[[Category:Search for extraterrestrial intelligence]]
+[[Category:Time capsules]]
+[[Category:1977 albums]]
+[[Category:United States National Recording Registry recordings]]
+[[Category:Technology in society]]
+[[Category:Message artifacts]]
+[[Category:1977 in spaceflight]]
+[[Category:Music in space]]</text>
+      <sha1>4zats92epd73t63ymtkeuk7p3ojr9fw</sha1>
+    </revision>
+  </page>
+</mediawiki>
