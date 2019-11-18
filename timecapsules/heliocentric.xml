@@ -1,0 +1,153 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.5</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of artificial objects in heliocentric orbit</title>
+    <ns>0</ns>
+    <id>8427192</id>
+    <revision>
+      <id>882207755</id>
+      <parentid>880927150</parentid>
+      <timestamp>2019-02-07T14:50:24Z</timestamp>
+      <contributor>
+        <username>Hms1103</username>
+        <id>16869559</id>
+      </contributor>
+      <minor/>
+      <comment>/* United States */ Updated MarCO</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6714">Below is a list of artificial objects {{As of|2006|alt=currently}} in [[heliocentric orbit]]. This list does not include [[List of artificial objects escaping from the Solar System|objects that are escaping from the Solar System]], upper stages from robotic missions (only the [[S-IVB]] upper stages from Apollo missions with astronauts are listed), or objects in the Sun–Earth [[Lagrange point]]s.
+
+== United States ==
+The [[Federal government of the United States|United States]] has placed in heliocentric orbit: 
+* [[Pioneer 4]] &amp;ndash; [[Moon]] (1959)
+* [[Ranger 3]] &amp;ndash; Moon (1961)
+* [[Ranger 5]] &amp;ndash; Moon (1963)
+* [[Mariner 2]] &amp;ndash; [[Venus]] (1962)
+* [[Mariner 3]] &amp;ndash; Intended for [[Mars]], communication lost when launch shroud failed to separate (1964)
+* [[Mariner 4]] &amp;ndash; Mars (1964-1967)
+* [[Mariner 5]] &amp;ndash; Venus (1967)
+* [[Pioneer 5]], [[Pioneer 6]], [[Pioneer 7]], [[Pioneer 8]], and [[Pioneer 9]] &amp;ndash; Sun (1966-1969)
+* [[Apollo 8#Launch and trans-lunar injection|S-IVB]] for [[Apollo 8]] (1968)
+* [[Apollo 9#Mission highlights|S-IVB]] for [[Apollo 9]] (1969)
+* [[Apollo 10#Hardware disposition|S-IVB]] and [[Apollo 10#Mission highlights|LM ''Snoopy'']] (ascent stage) for [[Apollo 10]] (1969)
+* [[Apollo 11#Launch and flight to lunar orbit|S-IVB]] for [[Apollo 11]] (1969)
+* [[Mariner 6]] and [[Mariner 7]] &amp;ndash; Mars (1969)
+* [[Apollo 12#Launch and transfer|S-IVB]] for [[Apollo 12]] (1969) &amp;ndash; [[J002E3|temporarily recaptured in Earth orbit 2002, escaped again 2003]]
+* [[International Cometary Explorer|ICE]] &amp;ndash; Comets Giocabinni-Zinner and Halley (1974-1987)
+* ''[[Mariner 10]]'' &amp;ndash; Venus and [[Mercury (planet)|Mercury]] (1974-1975)
+* [[Mars Observer]] (1992) &amp;ndash; Intended for Mars, failed prior to orbital insertion (1993)
+* Protective cover of [[Cassini–Huygens#Description|Cassini CDA instrument]]  (1997)&lt;ref&gt;{{cite web |url=http://www.irs.uni-stuttgart.de/cosmicdust/news/CDA-Cover-Lost.html |title=Lost in Space - A Part of Cassini is Still Out There |publisher=[[University of Stuttgart]] |date=22 November 2017 |access-date=2019-01-30}}&lt;/ref&gt;
+* ''[[Stardust (spacecraft)|Stardust]]'' &amp;ndash; [[Comet Wild 2]] (1999-2006)
+* ''[[Genesis (spacecraft)|Genesis]]'' &amp;ndash; Solar wind sample mission (2001-2004)
+* [[CONTOUR]] &amp;ndash; Intended to flyby several comets, failed after launch (2002), seen as three separate fragments
+* [[Spitzer Space Telescope]] (2003-present)
+* [[Deep Impact (spacecraft)|Deep Impact]] &amp;ndash; [[Comet Tempel 1]] 
+* [[STEREO|STEREO-A and STEREO-B]] (2006-2016)
+* [[Kepler Mission]] (2009-2018)
+* [[Mars Cube One|MarCO-A and MarCO-B]] &amp;ndash; [[CubeSat]] relays for ''[[InSight]]'' (2018-2019)
+* [[Parker Solar Probe]] (2018-present)
+
+On Apollos 8 and 10–17, each S-IVB upper stage jettisoned four sections of a truncated conical adapter that supported the [[Apollo service module]] and (except for Apollo 8) enclosed the [[Apollo Lunar Module]]. These panels are in heliocentric orbit, including those from Apollos 13–17 whose S-IVBs impacted the Moon, as the S-IVBs jettisoned them before maneuvering themselves into lunar impact trajectories. The panels continued on lunar flyby trajectories into heliocentric orbit. (The adapter panels on Apollo 9 were jettisoned in Earth orbit before the S-IVB burned into an Earth escape trajectory. They eventually decayed.)
+
+U.S.-based commercial spaceflight companies have placed in heliocentric orbit:
+* [[Elon Musk's Tesla Roadster]] with Falcon Heavy second stage (2018)
+
+== Soviet Union/Russian Federation ==
+The [[Soviet Union]] or the [[Russian Federation]] has placed in heliocentric orbit:
+* [[Luna 1]] &amp;ndash; Intended to crash on Moon (1959)
+* [[Venera 1]] &amp;ndash; Intended for Venus, communication lost en route (1961)
+* [[Mars 1]] &amp;ndash; Intended for Mars, communication lost en route (1962)
+* [[Zond 2]] &amp;ndash; Intended for Mars, communication lost en route (1964)
+* [[Zond 3]] &amp;ndash; Moon (far side) and interplanetary space (1965)
+* [[Venera 2]] &amp;ndash; Venus (1966)
+* [[Mars 4]] &amp;ndash; Intended to orbit Mars, but retrorocket failed, mission partial success (1974)
+* [[Mars 6]] coast stage &amp;ndash; Mars (1974)
+* [[Mars 7]] coast stage &amp;ndash; Mars (1974)
+* Mars 7 lander &amp;ndash; Intended to land on Mars, but missed planet (1974)
+* [[Venera 11 cruise stage]] &amp;ndash; Venus (1978){{citation needed|date=August 2012}}
+* [[Venera 12 cruise stage]] &amp;ndash; Venus (1978){{citation needed|date=August 2012}}
+* [[Venera 13 cruise stage]] &amp;ndash; Venus (1982)
+* [[Venera 14 cruise stage]] &amp;ndash; Venus (1982)
+* [[Vega 1]] &amp;ndash; Venus and [[Halley's Comet]] (1984-1986){{citation needed|date=August 2012}}
+* [[Vega 2]] &amp;ndash; Venus and [[Halley's Comet]] (1984-1986)
+* [[Phobos 1]] &amp;ndash; Intended for Mars and moon [[Phobos (moon)|Phobos]], communication lost en route (1988)
+
+== European Space Agency (ESA) ==
+The [[European Space Agency]] has placed in heliocentric orbit:
+* [[Helios probes|Helios 1]] (joint U.S./Germany) &amp;ndash; Sun (1975-1985)
+* [[Helios 2 (NASA)|Helios 2]] (joint U.S./Germany) &amp;ndash; Sun (1976-1979)
+* [[Giotto mission]] &amp;ndash; Halley's Comet (1985-1992)
+* ''[[Ulysses probe|Ulysses]]'' (joint U.S./ESA) &amp;ndash; [[Jupiter]] and Sun's north and south poles (1990-2009)
+
+== Japan ==
+[[Japan]] has placed in heliocentric orbit:
+* [[Sakigake]] &amp;ndash; Halley's Comet (1985-1999)
+* [[Suisei (spacecraft)|Suisei]] &amp;ndash; Halley's Comet (1985-1991)
+* [[Nozomi (probe)|Nozomi]] &amp;ndash; Intended for Mars, but retrorocket failed (1998-2003)
+* [[Hayabusa#MINERVA mini-lander|MINERVA mini-lander]] &amp;ndash; Intended for asteroid [[25143 Itokawa|Itokawa]] but missed (2005) 
+* [[IKAROS]] &amp;ndash; Venus flyby ('''active''')&lt;ref&gt;{{cite news |url=http://global.jaxa.jp/projects/sat/ikaros/topics.html#topics4577 |title=IKAROS wakes up from hibernation mode for the 4th time |work=[[JAXA]] |date=30 April 2015 |accessdate=2015-05-24 }}&lt;/ref&gt;
+* [[IKAROS|DCAM1 &amp; DCAM2]] &amp;ndash; Ejected from IKAROS (2010)
+* [[Shin'en (spacecraft)|SHIN-EN]] &amp;ndash; failed mission to Venus
+* [[Shin'en 2|SHIN-EN 2]] &amp;ndash; [[amateur radio satellite]],  material demonstration ('''possibly active''')&lt;ref&gt;{{cite web |url=http://kit-okuyama-lab.com/en/ |title=Keiichi Okuyama-Lab |publisher=[[Kyushu Institute of Technology]] |date= |access-date=2015-12-01}}&lt;/ref&gt;
+* [[DESPATCH|ARTSAT2:DESPATCH]] &amp;ndash; Deep space artwork (2014)
+
+== China ==
+[[China]] has placed in heliocentric orbit:
+* [[Chang'e 2]] &amp;ndash; asteroid [[4179 Toutatis]] flyby
+
+==References==
+{{Reflist}}
+
+{{Planetary exploration}}
+{{Spacecraft by destination}}
+
+[[Category:Artificial satellites orbiting the Sun|*]]
+[[Category:Lists of satellites]]
+[[Category:Orbiters (space probe)|*]]</text>
+      <sha1>4ghuzcr61uizlhkwlklqb10w714hyqn</sha1>
+    </revision>
+  </page>
+</mediawiki>

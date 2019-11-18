@@ -1,0 +1,813 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.5</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of artificial objects on the Moon</title>
+    <ns>0</ns>
+    <id>537458</id>
+    <revision>
+      <id>926185009</id>
+      <parentid>919736311</parentid>
+      <timestamp>2019-11-14T19:11:49Z</timestamp>
+      <contributor>
+        <username>Ohsin</username>
+        <id>26512264</id>
+      </contributor>
+      <comment>/* Table of objects */ Longjiang-2 impact location added</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43970">[[File:Moon map grid showing artificial objects on moon.PNG|thumb|Locations of major spacecraft on the Moon superimposed on data from the ''[[Clementine (spacecraft)|Clementine]]'' mission in [[equirectangular projection]].]]
+This is a partial list of artificial materials left on the [[Moon]]. The table below does not separately list lesser artificial objects such as [[List of retroreflectors on the Moon|retroreflector]]s, [[Apollo Lunar Surface Experiment Package]]s, tools such as a hammer, or the commemorative, artistic, and personal objects left there by [[Project Apollo|Apollo]] [[astronauts]], such as the [[Lunar Flag Assembly|US flags]], [[Lunar plaque|commemorative plaques]] attached to the ladders of the [[Apollo Lunar Module]]s, the silver [[astronaut pin]] left by [[Alan Bean]] in honor of [[Clifton C. Williams]] whom he replaced, the Bible left by [[David Scott]], the ''[[Fallen Astronaut]]'' statuette and memorial plaque left by the crew of [[Apollo 15]], the [[Apollo 11 goodwill messages]] disc, or the golf balls [[Alan Shepard]] hit during an [[Apollo 14]] moonwalk.
+
+The remains of five [[S-IVB]] third stages of [[Saturn V]] rockets from the Apollo program are the heaviest single pieces sent to the lunar surface. Humans have left over {{convert|187,400|kg|lb}} of material on the Moon, and {{convert|838|lb|kg|order=flip}} of [[Moon rock]] was brought back to Earth by Apollo and [[Luna program|Luna]] missions. The only artificial objects on the Moon that are still in use are the retroreflectors for the [[lunar laser ranging experiment]]s left there by the [[Apollo 11]], 14 and 15 astronauts, and by the [[Lunokhod 1]] and [[Lunokhod 2]] missions.&lt;ref&gt;[https://books.google.com/books?id=aq_uDo2shjAC&amp;pg=PA300 Slava G. Turyshev – From Quantum to Cosmos: Fundamental Physics Research in Space (2009) – Page 300]&lt;/ref&gt;
+
+Objects at greater than 90 degrees east or west are on the [[Far side (Moon)|far side of the Moon]], including [[Ranger 4]], [[Lunar Orbiter 1]], [[Lunar Orbiter 2]] and [[Lunar Orbiter 3]].
+
+== Legend ==
+
+{| class="wikitable" style="width:20%; text-align:center;"
+ |-
+ ! style="background:" colspan="2" | Colors
+ |-
+ | style="background:white; width:20px;" |
+ | No data collection
+ |-
+ | style="background:#EFE7B8; width:20px;" |
+ | Transmitted data
+ |-
+ | style="background:#CCFFD9; width:20px;" |
+ | Operational
+ |}
+
+==Table of objects==
+{| class="wikitable sortable"
+|-
+! align=left   | Artificial object
+! align=left   | Image
+! align=center | Nationality
+! align=center | Year
+! align=center | Mass ([[kilogram|kg]])
+! align=left   | Status
+! align=right  | Location
+|-
+| [[Luna 2]]
+|
+| {{flag|USSR}}
+| align=center| 1959
+| align=right | 390.2
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|29.1|N|0|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1959-014A|title = NASA NSSDC Master Catalog – Luna 2|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| Third stage of [[Luna 2]] [[Vostok (rocket family)|Vostok]] rocket
+| [[File:Vostok rocket drawing.png|80px|right]]
+| {{flag|USSR}}
+| align=center| 1959
+| align=right | 9100
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|29.1|N|0|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1959-014A|title = NASA NSSDC Master Catalog – Luna 2|accessdate = 2015-07-16}}&lt;/ref&gt;
+|-
+| [[Ranger 4]]
+|[[File:1964 71394L.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1962
+| align=right | 331
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|15.5|S|130.7|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1962-012A|title = NASA NSSDC Master Catalog – Ranger 4|accessdate = 2010-12-23}}&lt;/ref&gt;
+|-
+| [[Ranger 6]]
+|[[File:The Ranger Spacecraft GPN-2000-001979.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1964
+| align=right | 381
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|9.358|N| 21.480|E|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1964-007A|title = NASA NSSDC Master Catalog – Ranger 6|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Ranger 7]]
+|[[File:The Ranger Spacecraft GPN-2000-001979.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1964
+| align=right | 365.7
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|10.63|S|20.60|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1964-041A|title = NASA NSSDC Master Catalog – Ranger 7|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Luna 5]]
+|
+| {{flag|USSR}}
+| align=center| 1965
+| align=right | 1474
+| align=left  | Crashed
+| align=left  | {{Coord|8|N|23|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-036A|title = NASA NSSDC Master Catalog – Luna 5|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Luna 7]]
+|
+| {{flag|USSR}}
+| align=center| 1965
+| align=right | 1504
+| align=left  | Crashed
+| align=left  | {{Coord|9.8|N|47.8|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-077A|title = NASA NSSDC Master Catalog – Luna 7|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Luna 8]]
+|
+| {{flag|USSR}}
+| align=center| 1965
+| align=right | 100
+| align=left  | Crashed
+| align=left  | {{Coord|9.1|N|63.3|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-099A|title = NASA NSSDC Master Catalog – Luna 8|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Ranger 8]]
+|[[File:The Ranger Spacecraft GPN-2000-001979.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1965
+| align=right | 367
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|2.638|N|24.787|E|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-010A|title = NASA NSSDC Master Catalog - Ranger 8|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Ranger 9]]
+|[[File:The Ranger Spacecraft GPN-2000-001979.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1965
+| align=right | 367
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|12.828|S|2.387|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1965-023A|title = NASA NSSDC Master Catalog - Ranger 9|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Luna 9]]
+||[[File:Luna-9-1.jpg|80px|right]]
+| {{flag|USSR}}
+| align=center| 1966
+| align=right | 100
+| align=left  | Landed
+| align=left  | {{Coord|7.08|N|64.37|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-006A|title = NASA NSSDC Master Catalog - Luna 9|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Luna 10]]
+|[[File:Luna-10.jpg|80px|right]]
+| {{flag|USSR}}
+| align=center| 1966
+| align=right | 1600
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | ? &lt;ref name="note1"&gt;Spacecraft was in lunar orbit but is assumed to have decayed from orbit and crashed into the Moon, location unknown.&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-027A|title = NASA NSSDC Master Catalog - Luna 10|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Luna 11]]
+|[[File:Luna-11 12.jpg|80px|right]]
+| {{flag|USSR}}
+| align=center| 1966
+| align=right | 1640
+| align=left  | Crashed
+| align=left  | ? &lt;ref name="note1"/&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-078A|title = NASA NSSDC Master Catalog - Luna 11|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Luna 12]]
+|[[File:Luna-11 12.jpg|80px|right]]
+| {{flag|USSR}}
+| align=center| 1966
+| align=right | 1670
+| align=left  | Crashed
+| align=left  | ? &lt;ref name="note1"/&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-094A|title = NASA NSSDC Master Catalog - Luna 12|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Surveyor 1]]
+|[[File:Surveyor NASA lunar lander.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1966
+| align=right | 270
+| align=left  | Landed
+| align=left  | {{Coord|2.474|S|43.339|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-045A|title = NASA NSSDC Master Catalog - Surveyor 1|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Luna 13]]
+|
+| {{flag|USSR}}
+| align=center| 1966
+| align=right | 1700
+| align=left  | Landed
+| align=left  | {{Coord|18.87|N|62.05|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-116A|title = NASA NSSDC Master Catalog - Luna 13|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Lunar Orbiter|Lunar Orbiter 1]]
+| [[File:Lunar orbiter 1 (large).jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1966
+| align=right | 386
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | {{Coord|6.70|N|162|E|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A|title = NASA NSSDC Master Catalog - Lunar Orbiter 1|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Surveyor 2]]
+|[[File:Surveyor NASA lunar lander.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1966
+| align=right | 292
+| align=left  | Crashed
+| align=left  | {{Coord|5.5|S|12|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-084A|title = NASA NSSDC Master Catalog - Surveyor 2|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Lunar Orbiter 2]]
+|[[File:Lunar orbiter 1 (large).jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1966
+| align=right | 385
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | {{Coord|3.0|N|119|E|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-100A|title = NASA NSSDC Master Catalog - Lunar Orbiter 2|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Lunar Orbiter 3]]
+| [[File:Lunar orbiter 1 (large).jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1966
+| align=right | 386
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | {{Coord|14.3|N|97.7|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-008A|title = NASA NSSDC Master Catalog - Lunar Orbiter 3|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Surveyor 3]]
+| [[File:Surveyor 3 on the Moon.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1967
+| align=right | 281&lt;ref&gt;Apollo 12 returned about 10 kg of the Surveyor 3's original landing mass of 302 kg to Earth to study the effects of long term exposure.&lt;/ref&gt;
+| align=left  | Landed&lt;br&gt;(portions recovered&lt;br&gt;by [[Apollo 12|Apollo 12 crew]])
+| align=left  | {{Coord|3.015|S|23.418|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-035A|title = NASA NSSDC Master Catalog - Surveyor 3|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Lunar Orbiter 4]]
+| [[File:Lunar orbiter 1 (large).jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1967
+| align=right | 386
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | ? &lt;ref name="note1"/&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-041A|title = NASA NSSDC Master Catalog - Lunar Orbiter 4|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Surveyor 4]]
+|[[File:Surveyor NASA lunar lander.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1967
+| align=right | 283
+| align=left  | Crashed
+| align=left  | {{Coord|0.4|N|1.33|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-068A|title = NASA NSSDC Master Catalog - Surveyor 4|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Explorer 35|Explorer 35 (IMP-E)]]
+| [[File:IMP-E.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1967
+| align=right | 104.3
+| align=left  | Crashed &lt;br&gt; (post mission)
+| align=left  | ? &lt;ref name="note1"/&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-070A|title = NASA NSSDC Master Catalog - Explorer 35 (IMP-E)|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Lunar Orbiter 5]]
+|[[File:Lunar orbiter 1 (large).jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1967
+| align=right | 386
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | {{Coord|3|S|83|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-075A|title = NASA NSSDC Master Catalog - Lunar Orbiter 5|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Surveyor 5]]
+|[[File:Surveyor NASA lunar lander.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1967
+| align=right | 281
+| align=left  | Landed
+| align=left  | {{Coord|1.461|N|23.195|E|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-084A|title = NASA NSSDC Master Catalog - Surveyor 5|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Surveyor 6]]
+|[[File:Surveyor NASA lunar lander.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1967
+| align=right | 282
+| align=left  | Landed
+| align=left  | {{Coord|0.49|N|1.40|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-112A|title = NASA NSSDC Master Catalog - Surveyor 6|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Surveyor 7]]
+|[[File:Surveyor NASA lunar lander.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1968
+| align=right | 290
+| align=left  | Landed
+| align=left  | {{Coord|40.86|S|11.47|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1968-001A|title = NASA NSSDC Master Catalog - Surveyor 7|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Luna 14]]
+|[[File:Luna-11 12.jpg|80px|right]]
+| {{flag|USSR}}
+| align=center| 1968
+| align=right | 1670
+| align=left  | Crashed
+| align=left  | ? &lt;ref name="note1"/&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1968-027A|title = NASA NSSDC Master Catalog - Luna 14|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Apollo 10]] [[Apollo Lunar Module|LM]]-4 ''Snoopy'' descent stage
+|[[File:LEM-linedrawing.png|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1969
+| align=right | 2211
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | ? &lt;ref name="note1"/&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-043A|title = NASA NSSDC Master Catalog - Apollo 10 LM(Snoopy) descent stage|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Apollo 11]] LM-5 ''Eagle'' descent stage
+| [[File:Apollo 11 Lunar Lander - 5927 NASA.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1969
+| align=right | 2034
+| align=left  | Landed
+| align=left  | {{Coord|0.6741|N|23.4730|E|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C|title = NASA NSSDC Master Catalog - Apollo 11 LM descent stage|accessdate = 2010-12-25}}&lt;/ref&gt;
+|-
+| [[Luna 15]]
+|[[File:Luna-16.jpg|80px|right]]
+| {{flag|USSR}}
+| align=center| 1969
+| align=right | 2718
+| align=left  | Crashed
+| align=left  | ? &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-058A|title = NASA NSSDC Master Catalog - Luna 15|accessdate = 2010-12-25}}&lt;/ref&gt;
+|-
+| [[Apollo 11]] LM-5 ''Eagle'' ascent stage&lt;ref name="note2"&gt;The ascent stage of [[Apollo 10]] was commanded to fire its engine, left lunar orbit and entered solar orbit. The ascent stage of [[Apollo 11]] was left in orbit and thereafter its orbit decayed and it crashed onto the Moon at an unknown location. The [[Apollo 16]] ascent stage failed to crash onto moon when commanded and it decayed from orbit at a later date and also crashed at an unknown location. The ascent stages of the remaining successful missions (Apollo [[Apollo 12|12]], [[Apollo 14|14]], [[Apollo 15|15]], and [[Apollo 17|17]]) were each deliberately crashed onto the Moon. [[Apollo 13]]'s complete [[Apollo Lunar Module]] re-entered Earth's atmosphere after having served as a lifeboat during the aborted mission.&lt;/ref&gt;
+|[[File:Apollo 17 LM Ascent Stage.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1969
+| align=right | 2184
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | ? &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-059C|title = NASA NSSDC Master Catalog - Apollo 11 LM ascent stage|accessdate = 2010-12-25}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Apollo 12]] LM-6 ''Intrepid'' descent stage
+|[[File:Bean Descends Intrepid - GPN-2000-001317.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1969
+| align=right | 2211
+| align=left  | Landed
+| align=left  | {{Coord|3.0124|S|23.4216|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-099C|title = NASA NSSDC Master Catalog - Apollo 12 LM descent stage|accessdate = 2010-12-25}}&lt;/ref&gt;
+|-
+| [[Apollo 12]] LM-6 ''Intrepid'' ascent stage&lt;ref name="note2"/&gt;
+|[[File:Apollo 17 LM Ascent Stage.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1969
+| align=right | 2164
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | {{Coord|3.94|S|21.20|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1969-099C|title = NASA NSSDC Master Catalog - Apollo 12 LM ascent stage|accessdate = 2010-12-25}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Luna 16]] descent stage&lt;ref name="note3"&gt;[[Luna program]] sample return mission; mass listed is for both ascent and descent stages, though only the descent stage was left on the Moon.&lt;/ref&gt;
+| [[File:Luna-16.jpg|80px|right]]
+| {{flag|USSR}}
+| align=center| 1970
+| align=right | 1380
+| align=left  | Landed
+| align=left  | {{Coord|0.68|S|56.3|E|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1970-072A|title = NASA NSSDC Master Catalog - Luna 16 descent stage |accessdate = 2010-12-25}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Luna 17]] and [[Lunokhod 1]] 
+|
+| {{flag|USSR}}
+| align=center| 1970
+| align=right | 5600
+| align=left  | Landed
+| align=left  | {{Coord|38.28|N|35.0|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1970-095A|title = NASA NSSDC Master Catalog - Luna 17/Lunokhod 1 |accessdate = 2010-12-25}}&lt;/ref&gt;
+|-
+| [[Apollo 13]] [[S-IVB]] (S-IVB-508)&lt;ref&gt;Astronautix.com, [http://www.astronautix.com/flights/apollo13.htm ''Apollo 13''] {{webarchive|url=https://web.archive.org/web/20040104212104/http://www.astronautix.com/flights/apollo13.htm |date=2004-01-04 }}: ''The S-IVB/IU impacted the lunar surface at 8:10 p.m. EST on April 14 at a speed of 259 meters per second (incorrect, should probably be 2590 meters/sec), […] 137.1 kilometers from the Apollo 12 seismometer.''&lt;/ref&gt;
+|[[File:AS17-148-22714 crop.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1970
+| align=right | 13454
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|2.75|S|27.86|W|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1970-029B|title = NASA NSSDC Master Catalog - Apollo 13 S-IVB |accessdate = 2010-12-25}}&lt;/ref&gt;
+|-
+| [[Luna 18]]
+|[[File:Luna-16.jpg|80px|right]]
+| {{flag|USSR}}
+| align=center| 1971
+| align=right | 1880
+| align=left  | Crashed
+| align=left  | {{Coord|3.57|N|56.5|E|globe:Moon|display=inline}} &lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-073A|title = NASA NSSDC Master Catalog - Luna 18 |accessdate = 2010-12-25}}&lt;/ref&gt;
+|-
+| [[Luna 19]]
+|[[File:Luna-22.jpg|80px|right]]
+| {{flag|USSR}}
+| align=center| 1971
+| align=right | 1880
+| align=left  | Crashed
+| align=left  | ? &lt;ref name="note1"/&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-082A|title = NASA NSSDC Master Catalog - Luna 19 |accessdate = 2010-12-25}}&lt;/ref&gt;
+|-
+| [[Apollo 14]] S-IVB (S-IVB-509)
+|[[File:AS17-148-22714 crop.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1971
+| align=right | 14016
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|8.09|S|26.02|W|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-008B|title = NASA NSSDC Master Catalog - Apollo 14 SIVB|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Apollo 14]] LM-8 ''Antares'' descent stage
+|[[File:LRO Apollo14 landing site 369228main ap14labeled 540.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1971
+| align=right | 2144
+| align=left  | Landed
+| align=left  | {{Coord|3.6453|S|17.4714|W|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-008C|title = NASA NSSDC Master Catalog - Apollo 14 LM descent stage|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Apollo 14]] LM-8 ''Antares'' ascent stage&lt;ref name="note2"/&gt;
+|[[File:Apollo 17 LM Ascent Stage.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1971
+| align=right | 2132
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | {{Coord|3.42|S|19.67|W|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-008C|title = NASA NSSDC Master Catalog - Apollo 14 LM ascent stage|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Apollo 15]] S-IVB (S-IVB-510)
+|[[File:AS17-148-22714 crop.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1971
+| align=right | 14036
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|1.51|S|11.81|W|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063B|title = NASA NSSDC Master Catalog - Apollo 15 SIVB|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Apollo 15]] LM-10 ''Falcon'' descent stage
+|[[File:Apollo16LM.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1971
+| align=right | 2809
+| align=left  | Landed
+| align=left  | {{Coord|26.1322|N|3.6339|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C|title = NASA NSSDC Master Catalog - Apollo 15 LM descent stage|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Apollo 15]] [[Lunar Roving Vehicle]] (LRV-1)
+|[[File:Apollo15LunarRover.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1971
+| align=right | 210
+| align=left  | Landed
+| align=left  | {{Coord|26.08|N|3.66|E|globe:Moon|display=inline}}
+|-
+| [[Apollo 15]] LM-10 ''Falcon'' ascent stage&lt;ref name="note2"/&gt;
+|[[File:Apollo 17 LM Ascent Stage.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1971
+| align=right | 2132
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | {{Coord|26.36|N|0.25|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063C|title = NASA NSSDC Master Catalog - Apollo 15 LM ascent stage|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| Apollo 15 subsatellite
+|[[File:Apollo 15 Subsatellite.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1971
+| align=right | 36
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | ?&lt;ref name="note1"/&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-063D|title = NASA NSSDC Master Catalog - Apollo 15 subsatellite|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Luna 20]] descent stage&lt;ref name="note3"/&gt;
+| [[File:Luna-16.jpg|80px|right]]
+| {{flag|USSR}}
+| align=center| 1972
+| align=right | {{sort|5727|&lt; 5727}}
+| align=left  | Landed
+| align=left  | {{Coord|3.57|N|56.5|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-007A|title = NASA NSSDC Master Catalog - Luna 20|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Apollo 16]] S-IVB (S-IVB-511)
+|[[File:AS17-148-22714 crop.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1972
+| align=right | 14002
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|1.3|N|23.8|W|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-031B|title = NASA NSSDC Master Catalog - Apollo 16 S-IVB|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Apollo 16]] LM-11 ''Orion'' descent stage
+|[[File:Apollo16LM.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1972
+| align=right | 2765
+| align=left  | Landed
+| align=left  | {{Coord|8.9730|S|15.5002|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-031C|title = NASA NSSDC Master Catalog - Apollo 16 descent stage|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Apollo 16]] [[Lunar Roving Vehicle]] (LRV-2)
+|[[File:AS16-110-18009 (21673657156).jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1972
+| align=right | 210
+| align=left  | Landed
+| align=left  | {{Coord|8.97|S|15.51|E|globe:Moon|display=inline}}
+|-
+| [[Apollo 16]] LM-11 ''Orion'' ascent stage&lt;ref name="note2"/&gt;
+|[[File:Apollo 17 LM Ascent Stage.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1972
+| align=right | 2138
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | ?&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-031C|title = NASA NSSDC Master Catalog - Apollo 16 ascent stage|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| Apollo 16 subsatellite
+|[[File:Apollo 15 Subsatellite.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1972
+| align=right | 36
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | ?&lt;ref name="note1"/&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-031D|title = NASA NSSDC Master Catalog - Apollo 16 Subsatellite|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Apollo 17]] S-IVB (S-IVB-512)
+|[[File:AS17-148-22714 crop.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1972
+| align=right | 13960
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|4.21|S|12.31|W|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-096B|title = NASA NSSDC Master Catalog - Apollo 17 S-IVB|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Apollo 17]] LM-12 ''Challenger'' descent stage
+|[[File:Apollo16LM.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1972
+| align=right | 2798
+| align=left  | Landed
+| align=left  | {{Coord|20.1908|N|30.7717|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-096C|title = NASA NSSDC Master Catalog - Apollo 17 descent stage|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| Apollo 17 [[Lunar Roving Vehicle]] (LRV-3)
+|[[File:Apollo 17 rover at final resting site.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1972
+| align=right | 210
+| align=left  | Landed
+| align=left  | {{Coord|20.17|N|30.77|E|globe:Moon|display=inline}}
+|-
+| [[Apollo 17]] LM-12 ''Challenger'' ascent stage&lt;ref name="note2"/&gt;
+|[[File:Apollo 17 LM Ascent Stage.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1972
+| align=right | 2150
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | {{Coord|19.96|N|30.50|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1972-096C|title = NASA NSSDC Master Catalog - Apollo 17 ascent stage|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| 96 bags of human waste&lt;ref&gt;{{cite news|url=https://timesofindia.indiatimes.com/home/science/why-nasa-wants-to-bring-back-96-bags-of-poop-from-moon/articleshow/68788626.cms|title=Why Nasa wants to bring back 96 bags of poop from Moon|work=[[The Times of India]]|date=2019-04-09|accessdate=2019-04-11}}&lt;/ref&gt;
+|
+| {{flag|US}}
+| align=center| 1969-1972
+| align=right | 
+| align=left  | 
+| align=left  | 
+|-
+|-style="background:#EFE7B8"
+| [[Luna 21]] and [[Lunokhod 2]]&lt;ref name="note4"&gt;Lander and rover weighed 1814 kg; the rest assumed to have decayed in orbit and impacted the Moon.&lt;/ref&gt;
+|
+| {{flag|USSR}}
+| align=center| 1973
+| align=right | 4850
+| align=left  | Landed
+| align=left  | {{Coord|25.85|N|30.45|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1973-001A|title = NASA NSSDC Master Catalog - Luna 21/Lunokhod 2|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Explorer 49]] ([[RAE-B]])
+|[[File:RAE B.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1973
+| align=right | 328
+| align=left  | Crashed
+| align=left  | ?&lt;ref name="note1"/&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1973-039A|title = NASA NSSDC Master Catalog - Explorer 49/RAE-B|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Luna 22]]
+|[[File:Luna-22.jpg|80px|right]]
+| {{flag|USSR}}
+| align=center| 1974
+| align=right | 4000
+| align=left  | Crashed
+| align=left  | ?&lt;ref name="note1"/&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1974-037A|title = NASA NSSDC Master Catalog - Luna 22|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Luna 23]]
+|
+| {{flag|USSR}}
+| align=center| 1974
+| align=right | 5600
+| align=left  | Landed
+| align=left  | ~12.75ºN, ~62.2ºE&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1974-084A|title = NASA NSSDC Master Catalog - Luna 23|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Luna 24]] descent stage&lt;ref name="note3"/&gt;
+|
+| {{flag|USSR}}
+| align=center| 1976
+| align=right | {{sort|5800|&lt; 5800}}   
+| align=left  | Landed
+| align=left  | {{Coord|12.75|N|62.2|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1976-081A|title = NASA NSSDC Master Catalog - Luna 24|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Hiten|Hagoromo / Hiten]] &lt;ref name="note5"&gt;Was injected into lunar orbit in 1990, assumed to have decayed from orbit.&lt;/ref&gt;
+| [[File:Hiten.gif|80px|right]]
+| {{flag|Japan}}
+| align=center| 1990
+| align=right | 12
+| align=left  | Crashed&lt;br&gt;(orbit / crash &lt;br&gt;not confirmed)
+| align=left  | ?&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1990-007B|title = NASA NSSDC Master Catalog - Hagoromo/Hiten Orbiter|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Hiten]]
+|[[File:Hiten.gif|80px|right]]
+| {{flag|Japan}}
+| align=center| 1993
+| align=right | 143
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|34.3|S|55.6|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1990-007A|title = NASA NSSDC Master Catalog - Hiten|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Lunar Prospector]]
+|[[File:Lunar Prospector orbiter.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 1998
+| align=right | 126
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|87.7|S|42.35|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1998-001A|title = NASA NSSDC Master Catalog - Lunar Prospector|accessdate = 2011-01-01}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://research.ae.utexas.edu/cfpl/lunar/pressrelease/discussion.html|title = University of Texas Engineering News - Lunar Prospector Impact Location Estimate|accessdate = 2011-01-01|url-status = dead|archiveurl = https://web.archive.org/web/20101229085520/http://research.ae.utexas.edu/cfpl/lunar/pressrelease/discussion.html|archivedate = 2010-12-29}}&lt;/ref&gt;
+|-
+| [[SMART-1]]
+|[[File:SMART-1 Impact flash.jpg|80px|right]]
+| [[File:Flag of Europe.svg|25px]] [[European Space Agency|ESA]]
+| align=center| 2006
+| align=right | 307
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|34.262|S|46.193|W|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url=http://astronomy.com/news/2017/09/a-lunar-orbiters-final-resting-place|title=New observations reveal a lunar orbiter’s final resting place|last=Klesman|first=Alison|date=22 Sep 2017|website=[[Astronomy (magazine)|Astronomy Magazine]]|accessdate=27 Sep 2017}}&lt;/ref&gt;
+|-
+| [[Moon Impact Probe|Moon Impact Probe (MIP)]] / [[Chandrayaan-1]]
+|[[File:CY1 2007 (cropped).jpg|right|80x80px]][[File:Chandrayaan-1-MIP2.jpg|right|80x80px]]
+| {{flag|India}}
+| align=center| 2008
+| align=right | 35
+| align=left  | Intentionally crashed
+| align=left  |{{Coord|89.76|S|39.40|W|globe:Moon|display=inline}}.&lt;ref&gt;{{Cite web|url=http://www.unoosa.org/documents/pdf/ser570E.pdf|title=Information furnished in conformity with the Convention on Registration of Objects Launched into Outer Space|date=10 November 2009|website=UNOOSA|archive-url=https://web.archive.org/web/20190328215138/http://www.unoosa.org/documents/pdf/ser570E.pdf|archive-date=28 March 2019|url-status=|access-date=28 March 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2008-052A|title = NASA NSSDC Master Catalog - Moon Impact Probe / Chandrayaan 1|accessdate = 2011-01-01}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://www.flonnet.com/fl2720/stories/20101008272009000.htm|title = Frontline India's National Magazine - Moon Mystery - Moon Impact Probe impact coordinates |accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[SELENE#Okina (small relay satellite)|SELENE Rstar (Okina)]]
+|
+| {{flag|Japan}}
+| align=center| 2009
+| align=right | 53
+| align=left  | Crashed
+| align=left  | {{Coord|28.213|N|159.033|W|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = http://www.jaxa.jp/press/2009/02/20090218_sac_kaguya.pdf|title = JAXA Press Release (PDF)|language = Japanese|publisher = JAXA|date = 2009-02-18|accessdate = 2009-02-20}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-039A|title = NASA NSSDC Master Catalog - Okina (Rstar) - Kaguya|accessdate = 2011-01-01}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://www.jaxa.jp/press/2009/02/20090218_sac_kaguya.pdf|title = JAXA 18 February 2009 SELENE status - Okina (Rstar) impact estimate position - (page 3 in Japanese translated with Babelfish) |accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Chang'e 1]]
+|[[File:Chang e 1.jpg|80px|right]]
+| {{flag|China}}
+| align=center| 2009
+| align=right | 2000&lt;ref name="pptdrymass"&gt;{{cite web|url=http://ssedso.gsfc.nasa.gov/initiatives/lunar/LESWG/pubs_presentations/4thGM/bk_International_missions_lakew.ppt|title=Upcoming International Missions to the Moon|publisher=NASA|date=2007-01-11|accessdate=2009-04-12|format=PPT}} / cf. 2.3t with fuel ({{cite web|url=http://claudelafleur.qc.ca/Spacecrafts-2007.html#Change-1|title=Spacecrafts launched in 2007|accessdate=2009-04-12}})&lt;/ref&gt;
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|1.50|S|52.36|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-051A|title = NASA NSSDC Master Catalog - Chang'e 1|accessdate = 2011-01-01}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://english.peopledaily.com.cn/90001/90781/90876/6603492.html|title = China People's Daily Online, 2 March 2009 -  Chang'e-1 impacts moon (coordinates) |accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[SELENE|SELENE (Kaguya) main orbiter]]
+|&lt;!-- [[File:Kaguya mark.jpg|80px|right]] nonfree image --&gt;
+| {{flag|Japan}}
+| align=center| 2009
+| align=right | 1984&lt;ref name="pptdrymass" /&gt;
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|65.5|S|80.5|E|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url = http://www.jaxa.jp/topics/2009/06_e.html|title = JAXA HOT TOPICS|publisher = JAXA|date = 2009-06-11|accessdate = 2009-06-11|url-status = dead|archiveurl = https://web.archive.org/web/20090607212035/http://www.jaxa.jp/topics/2009/06_e.html|archivedate = 2009-06-07}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-039A|title = NASA NSSDC Master Catalog - KAGUYA (SELENE)|accessdate = 2011-01-01}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://www.jaxa.jp/projects/sat/selene/index_e.html|title = JAXA Selenological &amp; Engineering Explorer - KAGUYA (SELENE) impact coordinates |accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Lcross|LCROSS Shepherding Spacecraft]]
+| [[File:LCROSS Centaur.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 2009
+| align=right | 700
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|84.729|S|49.36|W|globe:Moon|display=inline}},&lt;br&gt; -3.80909&amp;nbsp;km elevation&lt;br&gt; (Cabeus crater) &lt;ref&gt;{{cite web|url = http://spacefellowship.com/2009/10/08/guide-to-seeing-the-lcross-lunar-impact/|title = Guide to Seeing the LCROSS Lunar Impact|accessdate = 2009-10-27}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-051A|title = NASA NSSDC Master Catalog - LCROSS Shepherding Spacecraft|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Centaur (rocket stage)|LCROSS Centaur]]
+|[[File:LCROSS Centaur 1.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 2009
+| align=right | 2270
+| align=left  | Intentionally crashed
+| align=left  | {{Coord|84.675|S|48.725|W|globe:Moon|display=inline}},&lt;br&gt; -3.82693&amp;nbsp;km elevation&lt;br&gt; (Cabeus crater) &lt;ref&gt;{{cite web|url =http://spacefellowship.com/2009/10/08/guide-to-seeing-the-lcross-lunar-impact/|title = Guide to Seeing the LCROSS Lunar Impact|accessdate = 2009-10-27}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-051A|title = NASA NSSDC Master Catalog - LCROSS Centaur|accessdate = 2011-01-01}}&lt;/ref&gt;
+|-
+| [[Gravity Recovery and Interior Laboratory|GRAIL]]
+|[[File:GRAIL.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 2012
+| align=right | 132.6
+| align=left  | Crashed&lt;br&gt;(post-mission)
+| align=left  | {{Coord|75.62|N|26.63|W|globe:Moon|display=inline}}&lt;ref&gt;{{cite web|url=http://www.jpl.nasa.gov/news/news.php?release=2012-396&amp;cid=release_2012-396|title=NASA Probes Prepare for Mission-Ending Moon Impact|accessdate=2012-12-13}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Chang'e 3]] and [[Yutu (rover)|Yutu]]
+|&lt;!-- [[WP:NFCC]] violation: [[File:Chang%27E-3_lunar_lander.jpg|80px|right]] --&gt;
+| {{flag|China}}
+| align=center| 2013
+| align=right | 1200
+| align=left  | Rover ceased transmission March 2015.&lt;ref name="layered"&gt;{{cite news |last=Wall |first=Mike |url=http://www.space.com/28810-moon-history-chinese-lunar-rover.html?adbid=10152690360766466&amp;adbpl=fb&amp;adbpr=17610706465 |title=The Moon's History Is Surprisingly Complex, Chinese Rover Finds |work=Space.com |date=March 12, 2015 |accessdate=13 March 2015}}&lt;/ref&gt;&lt;br/&gt;Lander operational as of June 2018.&lt;ref&gt;{{cite web|url=https://gbtimes.com/chinas-telescope-moon-still-working-and-could-do-30-years|title=China’s telescope on the Moon is still working, and could do for 30 years|publisher=GBTimes|author=Andrew Jones}}&lt;/ref&gt;&lt;ref name="gbtimesfiveyears"&gt;{{cite news |title=The Chang'e-3 lunar lander is still waking up after nearly five years on the Moon |url=https://gbtimes.com/the-change-3-lunar-lander-is-still-waking-up-after-nearly-five-years-on-the-moon |accessdate=25 June 2018 |agency=GB Times |date=25 June 2018}}&lt;/ref&gt;
+| align=left  | {{Lunar coords and quad cat|44.12|N|19.51|W}} &lt;!--Planned, not the outcome: &lt;ref name='Zarya Diary'&gt;{{cite web | url = http://www.zarya.info/Diaries/China/ChangE/ChangE3Diary.php#end | title = Chang'e 3 Diary | accessdate = 2013-12-09 | date = 6 December 2013 | work = Zarya.info}}&lt;/ref&gt;--&gt;&lt;br/&gt;
+|-
+| [[Lunar Atmosphere and Dust Environment Explorer|LADEE]]
+| [[File:LADEE fires small engines.jpg|80px|right]]
+| {{flag|US|1960}}
+| align=center| 2014&lt;!-- year of impact--&gt;
+| align=right | 248.2
+| align=left  | Intentionally crashed
+| align=left  | Eastern rim of [[Sundman (crater)|Sundman V crater]]
+|-style="background:#CCFFD9;
+| [[Chang'e 4]]
+|
+| {{flag|China}}
+| align=center|2019
+| align=right | 1200
+| align=left | Lander deployed ''[[Chang'e 4|Yutu-2]]'' rover
+| {{Sort|077.250|{{Coord|45.5|S|177.6|E|globe:Moon|display=inline}}}}
+|-
+| ''[[Beresheet]]''
+| [[File:Beresheet model on Habima Square 20190222 01.jpg|80px|right]]
+| {{flag|Israel}}
+| align=center|2019
+| align=right | 150
+| Crashed&lt;ref&gt;{{cite web |last1=Robinson |first1=Mark |title=Beresheet Crash Site Spotted! |url=https://www.lroc.asu.edu/posts/1101 |website=www.lroc.asu.edu |accessdate=30 May 2019}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://phys.org/news/2019-05-israeli-spacecraft-beresheet-site-moon.html|title=Israeli spacecraft Beresheet crash site spotted on moon|website=phys.org|language=en-us|access-date=2019-05-30}}&lt;/ref&gt;
+| align=left  | {{Coord|32.5956|N|19.3496|E|globe:Moon|display=inline}}
+|-
+|[[Chang'e 4#Longjiang microsatellites|Longjiang-2]]
+|
+|{{flag|China}}
+|align=center|2019
+|align=right|47
+|Intentionally crashed&lt;ref&gt;{{Cite web|url=http://www.planetary.org/blogs/guest-blogs/2019/longjiang-2-impacts-moon.html|title=Lunar Orbiter Longjiang-2 Smashes into Moon|website=www.planetary.org|language=en|access-date=2019-08-07}}&lt;/ref&gt;
+|{{Coord|16.6956|N|159.5170|E|globe:moon|display=inline|name=Longjiang-2 impact site}}&lt;ref&gt;{{Cite web|url=http://lroc.sese.asu.edu/posts/1132|title=Longjiang-2 Impact Site Found! {{!}} Lunar Reconnaissance Orbiter Camera|website=lroc.sese.asu.edu|access-date=2019-11-14}}&lt;/ref&gt;
+|-
+|[[Chandrayaan-2#Vikram lander|''Vikram'' lander]]&lt;br&gt;[[Pragyan (rover)|''Pragyan'' rover]]
+| [[File:GSLV_Mk_III_M1,_Chandrayaan-2_-_Pragyan_rover_mounted_on_the_ramp_of_Vikram_lander.jpg|80px|right]]
+|{{flag|India}}
+|align=center|2019
+|align=right|1471
+|Communication with lander lost during landing&lt;ref&gt;{{Cite web|url=https://www.oneindia.com/india/chandrayaan-2-live-isro-around-30-mins-left-for-historic-landing-revised-touchdown-1-52-am-2943398.html|title=Chandrayaan 2 LIVE: Anxiety at ISRO as signal from Vikram lander is awaited|website=www.oneindia.com|language=en|access-date=2019-09-06}}&lt;/ref&gt;
+| align=left  | Targeted {{Coord|70.90267|S|22.78110|E|globe:Moon|display=inline}}
+|-
+| colspan="4" align="center" |'''Total estimated dry mass (kg)'''
+| align="right" | 191,012
+| colspan="3" |
+|}
+&lt;!-- 
+XXXX-XX-XX: total mass is 163,648 + 127 + 127 + 1000, where 1254 was added to match masses reported in the three Luna program sample return mission articles
+YYYY-YY-YY: Mass adjusted by (-2249 + 2270 + 700) to reflect actual masses of LCROSS Centaur and spacecraft - ~~~~ 
+2013-12-16: New mass after [[Chang'e 3]] is 178,796 + 1,200 = 179,996
+--&gt;
+
+==Image gallery==
+{|
+|[[File:Moon landing map.jpg|thumb|Map of the Moon showing some landing sites. ''(Click to enlarge)'']]
+|
+|[[File:Surveyor 3 on the Moon.jpg|thumb|[[Surveyor 3]] on the Moon, photographed by [[Alan Bean]] (1969)]]
+|-
+|[[File:Lunar retroreflector locations.jpg|thumb|Locations of retro reflector experiments]]
+|[[File:Apollo 11 Lunar Laser Ranging Experiment.jpg|thumb|[[Lunar Laser Ranging experiment]] (LRRR)]]
+|}
+
+==See also==
+*[[Apollo Lunar Surface Experiments Package]]
+*[[List of artificial objects on extra-terrestrial surfaces]]
+*[[List of retroreflectors on the Moon]]
+*[[Lunar plaque]]s
+*[[Timeline of Solar System exploration]]
+*[[Tourism on the Moon]]
+
+==Notes==
+{{Reflist|2}}
+
+==External links==
+* [https://history.nasa.gov/FINAL%20Catalogue%20of%20Manmade%20Material%20on%20the%20Moon.pdf NASA catalogue of manmade material on the Moon]
+* [https://web.archive.org/web/20131205190556/http://spacegrant.nmsu.edu/lunarlegacies/artifactlist.html List of Apollo 11 artifacts on the Moon]
+* [http://lunarlitter.com/ ''Lunar Litter'': A short film about debris left behind on manned Moon missions]
+
+{{Moon spacecraft}}
+{{Manned lunar spacecraft}}
+{{Planetary exploration}}
+{{The Moon}}
+
+[[Category:Missions to the Moon|*]]
+[[Category:Spaceflight timelines|Artificial Objects On The Moon]]
+[[Category:Lists of coordinates|Artificial Objects On The Moon]]
+[[Category:Spacecraft that impacted the Moon|*]]
+[[Category:Spacecraft by disposition|Moon]]</text>
+      <sha1>rncmuu0xgb13ez937u18mq5k2727fhw</sha1>
+    </revision>
+  </page>
+</mediawiki>

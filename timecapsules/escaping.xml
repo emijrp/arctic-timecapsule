@@ -1,0 +1,197 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.5</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of artificial objects leaving the Solar System</title>
+    <ns>0</ns>
+    <id>8427933</id>
+    <revision>
+      <id>925903240</id>
+      <parentid>925815880</parentid>
+      <timestamp>2019-11-13T01:19:59Z</timestamp>
+      <contributor>
+        <username>Nrco0e</username>
+        <id>35915815</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18958">[[Image:1e13m comparison Hale Bopp and smaller - HQ no transparency.png|thumb|350px|right|The red and green arrows indicate the positions of ''Voyager 1'' and ''Pioneer 10'' respectively at the end of 2008; the blue shell indicates the estimated size of the [[Heliosphere#Termination shock|termination shock]] they have entered, whereas the grey annulus shows the [[Kuiper belt]]. The yellow shell indicates one [[Light-second#Use in astronomy|light-day]] distance from the Sun, and the yellow arrow, the [[:wiktionary:vernal point|vernal point]]. Click on image for larger view and links to other scales.]]
+{{multiple image | align = right | direction = vertical | width = 280
+| header = Trajectories of distant spacecraft from launch to 2030
+| image1 = Trajectories of distant spacecrafts.svg
+| caption1 = 
+| image2 = Trajectories of distant spacecrafts - equatorial view.svg
+| caption2 = 
+| footer =Top: Polar view; Bottom: Equatorial view
+}}
+
+[[File:Voyager 2 velocity vs distance from sun.svg|thumb|Plot of ''Voyager 2''′s heliocentric velocity against its distance from the Sun, illustrating the use of gravity assist to accelerate the spacecraft by Jupiter, Saturn and Uranus, and finally its encounter with Neptune's Triton. Gravity assists are akin to bouncing the spacecraft off a planet, but because the planet is moving it doesn't just bounce but is pushed by the planet, like when a baseball is hit by a moving baseball bat.]]
+Below is a '''list of artificial objects''' leaving the [[Solar System]]. All of these objects are space probes and their upper stages launched by [[NASA]].
+
+Of the major spacecraft, ''[[Voyager 1]]'', ''[[Voyager 2]]'', and ''[[New Horizons]]'' are still functioning and are regularly contacted by radio communication, while ''[[Pioneer 10]]'' and ''[[Pioneer 11]]'' are now derelict. In addition to these spacecraft, some third stages and [[Yo-yo de-spin|de-spin weights]] are leaving the Solar System, assuming they continue on their trajectories.
+
+These objects are ''leaving'' the Solar System because their velocity and direction are taking them away from the Sun, and at their distance from the Sun, its gravitational pull is not sufficient to pull these objects back or into orbit. They are not impervious to the gravitational pull of the Sun and are being slowed down, but they have enough velocity to coast into interstellar space, i.e. retaining sufficient [[escape velocity]] to leave the Solar System.
+
+==Planetary exploration probes==
+*'''''[[Pioneer 10]]''''' – launched in 1972, flew past [[Jupiter]] in 1973 and is heading in the direction of [[Aldebaran]] (65 light years away) in the constellation of [[Taurus (constellation)|Taurus]]. Contact was lost in January 2003, and it is estimated to have passed 120 AU.&lt;ref&gt;{{Cite web|url=https://theskylive.com/pioneer10-tracker|title=Pioneer 10 Live Position and Data|website=TheSkyLive.com|access-date=2019-08-11}}&lt;/ref&gt;
+*'''''[[Pioneer 11]]''''' – launched in 1973, flew past Jupiter in 1974 and [[Saturn]] in 1979. Contact was lost in November 1995, and it is estimated to be at around 100 AU.&lt;ref&gt;{{Cite web|url=https://theskylive.com/pioneer11-tracker|title=Pioneer 11 Live Position and Data|website=TheSkyLive.com|access-date=2019-08-11}}&lt;/ref&gt;  The spacecraft is headed toward the constellation of [[Aquila (constellation)|Aquila]], northwest of the constellation of [[Sagittarius (constellation)|Sagittarius]]. Barring an  incident, ''Pioneer 11'' will pass near one of the stars in the constellation in about 4 million years.&lt;ref&gt;{{cite web|url=http://www.nasa.gov/centers/ames/missions/archive/pioneer.html|title=The Pioneer Missions|work=NASA}}&lt;/ref&gt;
+*'''''[[Voyager 2]]''''' – launched in August 1977, flew past Jupiter in 1979, Saturn in 1981, [[Uranus]] in 1986, and [[Neptune]] in 1989. The probe left the [[heliosphere]] for [[interstellar space]] at 119 AU on 5 November 2018.&lt;ref name="BBC-20181210"&gt;{{cite news |last=Gill |first=Victoria |title=Nasa's Voyager 2 probe 'leaves the Solar System' |url=https://www.bbc.com/news/science-environment-46502820 |date=December 10, 2018 |work=[[BBC News]] |accessdate=December 10, 2018 }}&lt;/ref&gt; ''Voyager 2'' is still active. It is not headed toward any particular star, although in roughly 40,000 years it should pass 1.7 light-years from the star [[Ross 248]].&lt;ref&gt;{{cite web |date=June 22, 2007 |url=https://voyager.jpl.nasa.gov/mission/interstellar.html |title=Voyager – Mission – Interstellar Mission |publisher=NASA | accessdate=August 14, 2013}}&lt;/ref&gt; If undisturbed for [[Timeline of the far future#Spacecraft and space exploration|296,000 years]], it should pass by the star [[Sirius]] at a distance of 4.3 light-years.
+*'''''[[Voyager 1]]''''' – launched in September 1977, flew past Jupiter in 1979 and Saturn in 1980, making a special close approach to Saturn's moon [[Titan (moon)|Titan]]. The probe passed the [[Heliopause (astronomy)#Heliopause|heliopause]] at 121 AU on 25 August 2012 to enter [[Interstellar medium|interstellar space]].&lt;ref&gt;
+{{cite news |title=Voyager 1 finally crosses into interstellar space |first=William|last=Harwood |work=[[CBS News]] |date=September 12, 2013 |url=http://www.cbsnews.com/8301-205_162-57602736/voyager-1-finally-crosses-into-interstellar-space/}}&lt;/ref&gt; ''Voyager 1'' is still active. It is headed towards an encounter with star AC +79 3888, which lies 17.6 light-years from Earth, in about 40,000 years.&lt;ref&gt;{{cite news |last1=Wall |first1=Mike |title=Interstellar Traveler: NASA's Voyager 1 Probe On 40,000-Year Trek to Distant Star |url=https://www.space.com/22783-voyager-1-interstellar-space-star-flyby.html |accessdate=4 June 2018 |date=13 September 2015}}&lt;/ref&gt;
+*'''''[[New Horizons]]''''' – launched in 2006, the probe flew past Jupiter in 2007 and [[Pluto]] on 14 July 2015. It flew past the [[Kuiper belt]] object [[486958 Arrokoth]] on January 1, 2019, as part of the Kuiper Belt Extended Mission (KEM).&lt;ref&gt;{{cite press release |last=Brown |first=Dwayne |date=2016-07-01 |title=New Horizons Receives Mission Extension to Kuiper Belt, Dawn to Remain at Ceres |url=https://www.nasa.gov/feature/new-horizons-receives-mission-extension-to-kuiper-belt-dawn-to-remain-at-ceres |location=Washington, DC |publisher= |agency=NASA |access-date=2016-10-06}}&lt;/ref&gt;
+
+Although other probes were launched first, ''Voyager 1'' has achieved a higher speed and overtaken all others. ''Voyager 1'' overtook ''Voyager 2'' a few months after launch, on 19 December 1977.&lt;ref&gt;{{cite web|last1=Gebhardt|first1=Chris|last2=Goldader|first2=Jeff|title=Thirty-four years after launch, Voyager 2 continues to explore|url=http://www.nasaspaceflight.com/2011/08/thirty-four-years-voyager-2-continues-explore/|website=nasaspaceflight.com|accessdate=15 July 2015}}&lt;/ref&gt; It overtook ''Pioneer 11'' in 1983,&lt;ref name="NMP"&gt;{{cite web|last1=Cranor|first1=David|title=When the Voyagers passed the Pioneers|url=http://nothingmorepowerful.blogspot.com/2017/12/when-voyagers-passed-pioneers.html|website=Nothing More Powerful|accessdate=4 December 2017}}&lt;/ref&gt; and then ''Pioneer 10''—becoming the probe farthest from Earth—on February 17, 1998.&lt;ref&gt;{{cite web|url=http://voyager.jpl.nasa.gov/mission/fastfacts.html|title=Voyager - The Interstellar Mission|work=Jet Propulsion Laboratory|publisher=NASA}}&lt;/ref&gt;
+
+''Voyager 2'' is also moving faster than the probes launched earlier: having overtaken ''Pioneer 11'' by March 1988,&lt;ref name="NMP"/&gt; it is projected to overtake ''Pioneer 10'' in 2023.&lt;ref&gt;https://www.heavens-above.com/SolarEscape.aspx&lt;/ref&gt;
+
+Depending on how the "[[Pioneer anomaly|''Pioneer'' anomaly]]" affects it, ''New Horizons'' will also probably pass the ''Pioneer'' probes, but will need many years to do so. It will not overtake ''Pioneer 11'' until the 22nd century, will not overtake ''Pioneer 10'' until the end of that century, and will never overtake the ''Voyagers''.&lt;ref name="NMP"/&gt;
+
+== Speed and Distance from the Sun ==
+{| class="wikitable sortable"
+|-
+! align=left | Name
+! align=left | Launched
+! align=left | Current distance ([[Astronomical unit|AU]])
+! align=right | Speed ([[kilometers per second|km/s]])
+|-
+| ''[[Voyager 1]]''
+| align=right | 1977
+| align=right | 145
+| align=right | 17
+|-
+| ''[[Pioneer 10]]''
+| align=right | 1972
+| align=right | 123
+| align=right | 12
+|-
+| ''[[Voyager 2]]''
+| align=right | 1977
+| align=right | 120
+| align=right | 15
+|-
+| ''[[Pioneer 11]]''
+| align=right | 1973
+| align=right | 100
+| align=right | 11
+|-
+| ''[[New Horizons]]''
+| align=right | 2006
+| align=right | 43
+| align=right | 14
+|}
+&lt;small&gt;Source: Heavens Above&lt;ref&gt;[http://www.heavens-above.com/SolarEscape.aspx Spacecraft escaping the Solar System, 2018]&lt;/ref&gt; and JPL&lt;ref name="voyager"&gt;{{Cite web |url=http://voyager.jpl.nasa.gov/where/ |title=Voyager – Mission Status |website=[[Jet Propulsion Laboratory]] |publisher=[[NASA]] |access-date=January 2, 2018}}&lt;/ref&gt;&lt;/small&gt;
+
+Solar [[escape velocity]] is a function of distance (r) from the Sun's center, given by
+
+:&lt;math&gt;v_e = \sqrt{\frac{2GM_{sun}}{r}},&lt;/math&gt;
+
+where the product ''[[Gravitational constant|G]]'' ''[[solar mass|M&lt;sub&gt;sun&lt;/sub&gt;]]'' is the heliocentric [[Standard gravitational parameter|gravitational parameter]].  The initial speed required to escape the Sun from its surface is {{convert|618|km/s|mph|abbr=on}},&lt;ref&gt;{{Cite web|url=http://www.qrg.northwestern.edu/projects/vss/docs/space-environment/2-whats-escape-velocity.html|title=What is escape velocity?|website=www.qrg.northwestern.edu|access-date=2018-10-25}}&lt;/ref&gt; and drops down to {{convert|42.1|km/s|mph|abbr=on}} at Earth's distance from the Sun (1 [[Astronomical unit|AU]]), and {{convert|4.21|km/s|mph|abbr=on}} at a distance of 100 AU.&lt;ref&gt;{{Cite web|url=https://www.wolframalpha.com/input/?i=solar+escape+velocity+at+100+AU|title=WolframAlpha: solar escape velocity at 100 AU}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.wikihow.com/Calculate-Escape-Velocity|title=WikiHow: How to Calculate Escape Velocity|access-date=2018-12-17}}&lt;/ref&gt;
+&lt;gallery mode="packed" heights="190px"&gt;
+File:Voyager speed and distance from Sun.svg|Voyager 1 and 2 speed and distance from the Sun
+File:Pioneer speed and distance from Sun.svg|Pioneer 10 and 11 speed and distance from the Sun
+File:New Horizons Speed and distance from Sun.svg|New Horizons speed and distance from the Sun.
+&lt;/gallery&gt;
+
+==Propulsion stages==
+[[File:PAM-D rocket stage.jpg|thumb|right|upright|A Star-48 rocket motor like the one used to launch the ''New Horizons'' probe]]
+Every planetary probe was placed into its escape trajectory by a [[multistage rocket]], the last stage of which ends up on nearly the same trajectory as the probe it launched. Because these stages cannot be actively guided, their trajectories are now different from the probes they launched (the probes were guided with small thrusters that allow course changes). However, in cases where the spacecraft acquired escape velocity because of a gravity assist, the stages may not have a similar course and there is the remote possibility that they collided with something. Some objects in heliocentric orbit have been reidentified with a telescope, and so their trajectories can be confirmed. The stages on an escape trajectory are:
+* ''Pioneer 10 third stage'', a TE364-4 variant of the [[Star 37|Star-37]] solid fuel rocket.&lt;ref&gt;{{cite web|url=http://www.nasa.gov/centers/glenn/about/history/pioneer.html|title=NASA - NASA Glenn Pioneer Launch History|work=NASA}}&lt;/ref&gt;
+* ''Voyager 1 third stage'', a Star 37E solid fuel rocket.&lt;ref name="space.stackexchange.com"&gt;{{cite web|url=http://space.stackexchange.com/questions/1940/where-are-the-upper-stages-for-the-voyager-pioneer-stages.html|title=rockets - Where are the upper stages for the Voyager/Pioneer stages? - Space Exploration Stack Exchange|website=stackexchange.com}}&lt;/ref&gt;
+* ''Voyager 2 third stage'', a Star 37E solid fuel rocket.&lt;ref name="space.stackexchange.com"/&gt;
+* ''New Horizons third stage'', a [[Star 48B]] solid fuel rocket, is on a similar escape trajectory out of the Solar System as ''New Horizons'', even arriving at Jupiter by 6 hours before ''New Horizons''. On October 15, 2015 it passed through Pluto's orbit at a distance of 213 million kilometers (over 1 AU) distant from [[Pluto]].&lt;ref name=stern&gt;{{cite news |url=http://pluto.jhuapl.edu/News-Center/News-Article.php?page=20101028 |first1=Alan|last1=Stern |first2=Yanping|last2=Guo |title=Where Is the New Horizons Centaur Stage? |date=October 28, 2010 |work=Johns Hopkins University Applied Physics Laboratory}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.unmannedspaceflight.com/index.php?s=&amp;showtopic=2079&amp;view=findpost&amp;p=37667|title=Star 48b Third-stage Motor - Unmanned Spaceflight.com|website=unmannedspaceflight.com}}&lt;/ref&gt; This was four months after the ''New Horizons'' probe did.&lt;ref name='space_nh'&gt;{{cite web|url=http://www.space.com/1991-derelict-booster-beat-pluto-probe-jupiter.html|title=Derelict Booster to Beat Pluto Probe to Jupiter|last=Malik|first=Tariq|website=Space.com|date=26 January 2006|accessdate=2 January 2019}}&lt;/ref&gt;
+
+In addition, two small [[yo-yo de-spin]] weights on wires were used to reduce the spin of the ''New Horizons'' probe prior to its release from the third-stage rocket. Once the spin rate was lowered, these masses and the wires were released, and so are also on an escape trajectory out of the Solar System.&lt;ref&gt;{{cite web|url=http://weebau.com/satplan/new%20horizons.htm|title=New Horizons|author=Pierre Bauduin|website=weebau.com}}&lt;/ref&gt;&lt;ref name="johnstonarchive"&gt;{{cite web|url=http://www.johnstonsarchive.net/astro/awrjp493.html|title=Deep space probes and other manmade objects beyond near Earth space|website=johnstonsarchive.net}}&lt;/ref&gt; None of these objects are trackable (they have no power or radio antennae, spin uncontrollably, and are too small to be detected), and their exact positions are unknowable beyond their projected Solar System escape trajectories.
+
+The third stage of ''Pioneer 11'' is thought to be in solar orbit because its encounter with Jupiter would not have resulted in escape from the Solar System.&lt;ref name="space.stackexchange.com"/&gt;{{better source||That stackexchange discussion quotes this WP article as source, so it seems to be circular sourcing. Even without that problem, an internet forum like Stackexchange is hardly a reliable source (except for those posts by competent scientists who write there under their real name).|date=December 2018}} ''Pioneer 11'' gained the required [[Escape velocity|velocity]] to escape the Solar System in its subsequent encounter with Saturn.{{dubious||contradicts previous sentence|date=December 2018}}
+
+The only objects to date to be launched directly into a solar escape trajectory were the ''New Horizons'' spacecraft, its third stage, and the two de-spin masses. The ''New Horizons'' [[Centaur (rocket stage)|Centaur]] (second) stage is not escaping; it is in a 2.83-year heliocentric (solar) orbit.&lt;ref name=stern/&gt;
+
+The ''Pioneer 10'' and ''11'', and ''Voyager 1'' and ''2'' Centaur (second) stages are also in heliocentric orbits.&lt;ref name="johnstonarchive"/&gt;&lt;ref&gt;https://usspaceobjectsregistry.state.gov/Lists/SpaceObjects/DispFormaspx?ID=3348.html{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+In order to leave the Solar System, the probe needs to reach the [[escape velocity]]. After leaving Earth, the Sun's escape velocity is 42.1&amp;nbsp;km/s.&lt;!-- According to [[escape velocity]]--&gt; In order to reach this speed, it is highly advantageous to use the orbital speed of the Earth around the Sun, which is 29.78&amp;nbsp;km/s. By passing near a planet, a probe can gain extra speed.
+
+On January 19, 2006 the ''[[New Horizons]]'' spacecraft to Pluto was launched directly into a solar-escape trajectory at {{convert|16.26|km/s|km/h mph|0|sp=us}} from Cape Canaveral using an Atlas V version with 5 of the [[AJ-60A]] SRBs and the [[Common Core Booster]], [[Centaur (rocket stage)|Centaur]] upper stage, and [[Star 48|Star 48B]] third stage.&lt;ref name="sciam20130225"&gt;{{cite web |url=https://blogs.scientificamerican.com/life-unbounded/the-fastest-spacecraft-ever/ |title=The Fastest Spacecraft Ever? |work=Scientific American |first=Caleb A. |last=Scharf |date=February 25, 2013 |accessdate=July 12, 2017}}&lt;/ref&gt; ''New Horizons'' passed the Moon's orbit in just nine hours.&lt;ref name="airspace20150710"&gt;{{cite web |url=https://airandspace.si.edu/stories/editorial/first-mission-pluto-difficult-birth-new-horizons |title=First Mission to Pluto: The Difficult Birth of New Horizons |publisher=Smithsonian |first=Michael |last=Neufeld |date=July 10, 2015 |accessdate=April 21, 2018}}&lt;/ref&gt;&lt;ref name="ils200601"&gt;{{cite web |url=http://pluto.jhuapl.edu/Mission/The-Path-to-Pluto/FINAL-PLUTO_MO.pdf |title=New Horizons: Mission Overview |publisher=International Launch Services |date=January 2006 |accessdate=April 21, 2018}}&lt;/ref&gt;
+
+Propulsive units for ''New Horizons'', which was launched directly to a solar escape velocity from Earth:&lt;ref name="sciam20130225"/&gt;
+*[[Atlas V]]
+*[[Common Core Booster]] (first stage)
+*[[AJ-60A]] (strap on boosters)
+* [[Centaur (rocket stage)|Centaur]] upper stage
+*[[Star 48|Star 48B]]
+*''New Horizon''{{'}}s spacecraft thrusters.&lt;ref name="pluto.jhuapl.edu"&gt;{{Cite web|url=http://pluto.jhuapl.edu/Mission/Spacecraft/Systems-and-Components.php|title=New Horizons {{!}} Systems and Components|website=pluto.jhuapl.edu|access-date=2019-08-11}}&lt;/ref&gt;
+**77 kilograms (170 pounds) of hydrazine feeding four 4.4 newton (1 lb thrusters) and twelve 0.8 newtons (about 3 ounces) (16 thrusters total)&lt;ref name="pluto.jhuapl.edu"/&gt;
+
+== Gallery ==
+&lt;gallery&gt;
+File:Voyager.jpg|Photograph of ''Voyager 1'' / ''Voyager 2''
+File:Pioneer10-11.jpg|Artist's concept of ''Pioneer 10'' / ''Pioneer 11''
+File:Pioneer 10 at Jupiter.gif|Artist's concept of ''Pioneer 10'' near Jupiter
+File:15-011a-NewHorizons-PlutoFlyby-ArtistConcept-14July2015-20150115.jpg|Artist's concept of ''New Horizons'' approaching [[Pluto]].
+File:PIA19703-PlutoFlyby-NewHorizons-ArtistConcept-20150709.jpg|Artist's concept of ''New Horizons'' near [[Pluto]].
+&lt;/gallery&gt;
+
+==See also==
+* [[List of artificial objects in heliocentric orbit]]
+* [[List of artificial objects on extra-terrestrial surfaces]]
+* [[Deliberate crash landings on extraterrestrial bodies]]
+* [[Oberth effect]]
+* [[Interstellar probe]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://www.heavens-above.com/SolarEscape.aspx Spacecraft escaping the Solar System] in heavens-above.com
+*[https://solarsystem.nasa.gov/basics/primer/ NASA = Explaining planetary gravity assists]
+*[http://www2.mpia-hd.mpg.de/~calj/voyager_gdr2.html Future stellar flybys of the Voyager and Pioneer spacecraft determined using Gaia Data Release 2]
+
+{{Planetary exploration}}
+{{Space exploration lists and timelines}}
+
+[[Category:Lists of Solar System objects|Artificial leaving]]
+[[Category:Spacecraft escaping the Solar System| ]]</text>
+      <sha1>5txhbgzc3865pw7q3lfn6fbddnnrz7i</sha1>
+    </revision>
+  </page>
+</mediawiki>

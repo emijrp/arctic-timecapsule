@@ -1,0 +1,363 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.5</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of artificial objects on Mars</title>
+    <ns>0</ns>
+    <id>1632896</id>
+    <revision>
+      <id>921990168</id>
+      <parentid>921490838</parentid>
+      <timestamp>2019-10-19T04:57:39Z</timestamp>
+      <contributor>
+        <username>Waggie</username>
+        <id>20883229</id>
+      </contributor>
+      <comment>fix ref error</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18981">[[File:22g144 netoyee.jpg|thumb|An example of an additional object from a spacecraft landing is the metal shroud ejected by the ''[[Viking 2]]'' lander, as seen in this 1977 view of Mars. The shroud covered the surface sampler instrument and could be seen in images taken by the lander while it was active on the surface.&lt;ref&gt;[http://nssdc.gsfc.nasa.gov/imgcat/html/object_page/vl2_22g144.html]&lt;/ref&gt;]]
+The following table is a partial '''list of artificial objects''' on the surface of [[Mars]], consisting of [[spacecraft]] which were launched from Earth. Most are defunct after having served their purpose, but the ''[[Mars Science Laboratory|Curiosity]]'' rover and the ''[[InSight]]'' lander are still operational as of 2019. ''InSight'' is the most recent artificial object to land safely on Mars. The table does not include smaller objects, such as springs, fragments, [[parachute]]s and [[heat shield]]s. As of November 5, 2016, there are about 14 spacecraft missions on the surface of Mars: some of these missions have multiple spacecraft.
+
+== Legend ==
+
+{| class="wikitable" style="width:20%; text-align:center;"
+ |-
+ ! style="background:" colspan="2" | Colors
+ |-
+ | style="background:white; width:20px;" |
+ | No data collection
+ |-
+ | style="background:#EFE7B8; width:20px;" |
+ | Transmitted data
+ |-
+ | style="background:#CCFFD9; width:20px;" |
+ | Operational
+ |}
+
+==Table of objects==
+In this listing, it is implied that each mission left debris according to its design. For example, the ''Schiaparelli'' EDM lander likely exploded on impact, creating an unknown number of fragments at one location. At another location, there may be a lower heat shield, and at another location, a parachute and upper heat shield. Another example is the [[counterweight]]s ejected by [[Mars Science Laboratory|MSL]] during its descent. In some cases, the nature and location of this additional debris has been determined and, in other cases, even the location of the main spacecraft has remained unknown. The identification of ''Beagle 2'' after 11 years is one of the greatest breakthroughs yet, since prior to that, it could not be confirmed what had happened.&lt;ref&gt;[https://www.theguardian.com/science/2015/jan/16/lost-beagle-2-spacecraft-found-mars]&lt;/ref&gt; Spacecraft that have not been precisely located include ''Mars 2'', ''Mars 3'', ''Mars 6'', Mars Polar Lander, and the two Deep Space 2 probes.
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;"
+|-
+| align=left | '''Artificial object'''
+! align=left | Image
+| align=center | '''Nationality'''
+| align=center | '''Landed'''
+| align=center | '''Mass (kg)'''
+| align=center | '''Status'''
+| align=right  | '''Location'''
+|-
+| [[Mars 2]]
+| align=right |[[File:1972._Марс-3.jpg|80px|right]]
+| [[Soviet Union|USSR]]
+| align=right | 1971
+| align=right | 1210 
+| align=center | Failure during descent; crashed on surface
+| align=right | Estimated @ {{Coord|45|S|313|W|globe:Mars|name=Mars 2}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-045A|title = NASA NSSDC Master Catalog - Mars 2|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+|-style="background:#EFE7B8"
+| [[Mars 3]]
+| align=right |[[File:1972._Марс-3.jpg|80px|right]]
+| [[Soviet Union|USSR]]
+| align=right | 1971
+| align=right | 1210 
+| align=center | Transmission failure 14.5 seconds after soft landing
+| align=right | Estimated @ [[Sirenum Terra]], {{Coord|45|S|158|W|globe:Mars|name=Mars 3}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-049A|title = NASA NSSDC Master Catalog - Mars 3|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-style="background:#EFE7B8"
+| [[Mars 6]]
+| align=right |[[File:Mars6.gif|80px|right]]
+| [[Soviet Union|USSR]]
+| align=right | 1973
+| align=right | 635
+| align=center | Returned corrupted data for 224 seconds during its descent but contact lost before reaching surface&lt;ref&gt;[https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1973-052A]&lt;/ref&gt;
+| align=right | Estimated @ [[Margaritifer Terra]], {{Coord|23.90|S|19.42|W|globe:Mars|name=Mars 6}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1973-052A|title = NASA NSSDC Master Catalog - Mars 6|accessdate = 2010-12-24}}&lt;/ref&gt;
+
+|-style="background:#EFE7B8"
+| [[Viking 1|''Viking 1'' lander]]
+| align=right |[[File:Viking lander model.jpg|80px|right]]
+| [[United States]]
+| align=right | 1976
+| align=right | 657
+| align=center| Operated 2245 [[Martian sols|sols]]. Last contact Nov 11, 1982
+| align=right | [[Chryse Planitia]], {{Coord|22.697|N|48.222|W|globe:Mars|name=Viking 1}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-075C|title = NASA NSSDC Master Catalog - Viking 1 lander|accessdate = 2010-12-24}}&lt;/ref&gt;
+
+|-style="background:#EFE7B8"
+| [[Viking 2|''Viking 2'' lander]]
+| align=right |[[File:Viking lander model.jpg|80px|right]]
+| [[United States]]
+| align=right | 1976
+| align=right | 657
+| align=center | Operated 1281 sols. Last contact Apr 11, 1980
+| align=right | [[Utopia Planitia]], {{Coord|48.269|N|225.990|W|globe:Mars|name=Viking 2}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-083C|title = NASA NSSDC Master Catalog - Viking 2 lander|accessdate = 2010-12-24}}&lt;/ref&gt;
+
+|-style="background:#EFE7B8"
+| ''[[Mars Pathfinder]]'' lander and [[Sojourner (rover)|''Sojourner'']] rover
+| align=right |[[File:Lander and rover drawing.gif|80px|right]]
+| [[United States]]
+| align=right | 1997
+| align=right | 360
+| align=center | Operated 83 sols. Last contact Sep 27, 1997&lt;ref&gt;{{cite web|url = http://www.marsnews.com/missions/pathfinder/|title = Mars Pathfinder|accessdate = 2011-12-07}}&lt;/ref&gt;
+| align=right | [[Ares Vallis]], {{Coord|19.33|N|33.55|W|globe:Mars|name=Mars Pathfinder and Sojourner}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1996-068A|title = NASA NSSDC Master Catalog - Mars Pathfinder|accessdate = 2010-12-24}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=MESURPR|title = NASA NSSDC Master Catalog - Mars Pathfinder Rover|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| [[Mars Climate Orbiter]]
+| align=right | [[File:Mars Climate Orbiter 2.jpg|80px|right]]
+| [[United States]]
+| align=right | 1999
+| align=right | 629
+| align=center | Destroyed by atmospheric stresses &amp; friction.&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1998-073A|title = NASA NSSDC Master Catalog - Mars Climate Orbiter|accessdate = 2010-12-24}}&lt;/ref&gt;
+| align=right | Unknown
+|-
+| [[Mars Polar Lander]] and [[Deep Space 2]]
+| align=right | [[File:Mars polar lander.jpg|80px|right]]
+| [[United States]]
+| align=right | 1999
+| align=right | 500
+| align=center | Unknown failure during descent; crashed on surface
+| align=right | Estimated @ [[Ultimi Scopuli]], {{Coord|76|S|195|W|globe:Mars|name=Mars Polar Lander and Deep Space 2}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1999-001A|title = NASA NSSDC Master Catalog - Mars Polar Lander|accessdate = 2010-12-24}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=DEEPSP2|title = NASA NSSDC Master Catalog - Deep Space 2|accessdate = 2010-12-24}}&lt;/ref&gt;
+|-
+| ''[[Beagle 2]]''
+| align=right | [[File:Beagle 2 model at Liverpool Spaceport.jpg|80px|right]]
+| [[United Kingdom]]
+| align=right | 2003
+| align=right | 33.2
+| align=center | Landed safely; solar panels failed to deploy
+| align=right | [[Isidis Planitia]], {{Coord|11.5265|N|90.4295|E|globe:Mars|name=Beagle 2 landing site}}
+
+|-style="background:#EFE7B8"
+| '''[[Spirit rover|''Spirit'' rover]] (MER-A)'''
+| align=right | [[File:NASA Mars Rover.jpg|80px|right]]
+| [[United States]]
+| align=right | 2004
+| align=right | 185
+| align=center | Operated 2210 sols. Last contact Mar 22, 2010
+| align=right | [[Gusev crater]], {{Coord|14.5718|S|175.4785|E|globe:Mars|name=Spirit rover}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2003-027A|title = NASA NSSDC Master Catalog - Spirit Rover (MER-A)|accessdate = 2010-12-24}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://www.esa.int/export/SPECIALS/Mars_Express/SEM2UE1PGQD_1.html|title = ESA Mars Express - Spirit Rover landing site image and coordinates|accessdate = 2010-12-24}}&lt;/ref&gt;
+
+|-style="background:#EFE7B8"
+| '''[[Opportunity rover|''Opportunity'' rover]] (MER-B)'''
+| align=right | [[File:NASA Mars Rover.jpg|80px|right]]
+| [[United States]]
+| align=right | 2004
+| align=right | 185
+| align=center | Operated 5111 sols. Last contact June 10, 2018
+| align=right | [[Meridiani Planum]], {{Coord|1.9462|S|354.4734|E|globe:Mars|name=Opportunity rover}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2003-032A|title = NASA NSSDC Master Catalog - Opportunity Rover (MER-B)|accessdate = 2010-12-24}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal
+ |last1           = Squyres
+ |first1          = S. W.
+ |last2           = Arvidson
+ |first2          = R. E.
+ |last3           = Bollen
+ |first3          = D.
+ |last4           = Bell
+ |first4          = J. F.
+ |last5           = Brückner
+ |first5          = J.
+ |last6           = Cabrol
+ |first6          = N. A.
+ |last7           = Calvin
+ |first7          = W. M.
+ |last8           = Carr
+ |first8          = M. H.
+ |last9           = Christensen
+ |first9          = P. R.
+ |last10          = Clark
+ |first10         = B. C.
+ |last11          = Crumpler
+ |first11         = L.
+ |last12          = Des Marais
+ |first12         = D. J.
+ |last13          = d'Uston
+ |first13         = C.
+ |last14          = Economou
+ |first14         = T.
+ |last15          = Farmer
+ |first15         = J.
+ |last16          = Farrand
+ |first16         = W. H.
+ |last17          = Folkner
+ |first17         = W.
+ |last18          = Gellert
+ |first18         = R.
+ |last19          = Glotch
+ |first19         = T. D.
+ |last20          = Golombek
+ |first20         = M.
+ |last21          = Gorevan
+ |first21         = S.
+ |last22          = Grant
+ |first22         = J. A.
+ |last23          = Greeley
+ |first23         = R.
+ |last24          = Grotzinger
+ |first24         = J.
+ |last25          = Herkenhoff
+ |first25         = K. E.
+ |last26          = Hviid
+ |first26         = S.
+ |last27          = Johnson
+ |first27         = J. R.
+ |last28          = Klingelhöfer
+ |first28         = G.
+ |last29          = Knoll
+ |first29         = A. H.
+ |last30          = Landis
+ |first30         = G.
+ |title           = Overview of the ''Opportunity'' Mars Exploration Rover Mission to Meridiani Planum: Eagle Crater to Purgatory Ripple
+ |doi             = 10.1029/2006JE002771
+ |journal         = Journal of Geophysical Research
+ |volume          = 111
+ |year            = 2006
+ |url             = http://www.gps.caltech.edu/~grotz/Publications/Publications_files/2006_Squyres_Meridiani_Eagle_Purgatory.pdf
+ |id              = E12S12
+ |accessdate      = 2010-12-24
+ |display-authors = 29
+ |bibcode         = 2006JGRE..11112S12S
+ |url-status         = dead
+ |archiveurl      = https://web.archive.org/web/20120319210046/http://www.gps.caltech.edu/~grotz/Publications/Publications_files/2006_Squyres_Meridiani_Eagle_Purgatory.pdf
+ |archivedate     = 2012-03-19
+}} Opportunity Rover (MER-B) coordinates on pg. 2.&lt;/ref&gt;
+
+|-style="background:#EFE7B8"
+| '''[[Phoenix (spacecraft)|''Phoenix'' Mars Lander]]'''
+| align=right |[[File:Pia09344.jpg|80px|right]]
+| [[United States]]
+| align=right | 2008
+| align=right | 350
+| align=center | Operated 155 sols. Last contact Nov 2, 2008
+| align=right | [[Vastitas Borealis]], unofficially named [[Green Valley (Mars)|Green Valley]], {{Coord|68.15|N|125.9|W|globe:Mars|name=Phoenix}}&lt;ref&gt;{{cite web|url = https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2007-034A|title = NASA NSSDC Master Catalog - Phoenix Mars Lander|accessdate = 2010-12-24}}&lt;/ref&gt;
+
+|-style="background:#CCFFD9"
+| '''[[Mars Science Laboratory]] ''(Curiosity)'''''
+| align=right | [[File:Mars Science Laboratory Curiosity rover.jpg|80px|right]]
+| [[United States]]
+| align=right | 2012
+| align=right | 900
+| align=center | Still in operation, {{age in sols|2012|08|06}} sols
+| align=right | [[Aeolis Palus]] in [[Gale (crater)|Gale Crater]], {{Coord|4|36|0|S|137|12|0|E|globe:mars}}
+
+|-style="background:#EFE7B8"
+| '''[[Schiaparelli EDM lander|''Schiaparelli'' EDM lander]]'''
+| align=right | [[File:Maquette EDM salon du Bourget 2013 DSC 0192.JPG|80px|right]]
+| Europe ([[European Space Agency|ESA]]) &lt;br /&gt; Russia ([[Roscosmos]])
+| align=right | 2016
+| align=right | 577
+| align=center | Crashed on impact; transmitted descent telemetry
+| align=right | [[Meridiani Planum]], {{Coord|2|3|17|S|6|12|48|W|globe:mars}}
+
+|-style="background:#CCFFD9"
+| '''[[InSight|''InSight'' lander]]'''
+| align=right | [[File:PIA22743-Mars-InSightLander-ArtistConcept-20181024.jpg|80px|right]]
+| [[United States]]
+| align=right | 2018
+| align=right | 358
+| align=center | Still in operation, {{age in sols|2018|11|26}} sols
+| align=right | [[Elysium Planitia]]&lt;ref name=landing&gt;{{cite web |url=http://www.nasa.gov/mission_pages/insight/news/insight20130904.html |title=NASA Evaluates Four Candidate Sites for 2016 Mars Mission |publisher=NASA |date=4 September 2013 |accessdate=4 September 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://insight.jpl.nasa.gov/newsdisplay.cfm?Subsite_News_ID=37592 |title=Single Site on Mars Advanced for 2016 NASA Lander |publisher=NASA |date=4 March 2015 |accessdate=16 December 2015}}&lt;/ref&gt; &lt;br /&gt; {{Coord|4.5|N|135.0|E|globe:Mars|name=''InSight'' landing site}}
+
+|-
+| colspan=4 align=center | '''Total estimated [[mass]] [[kilogram|(kg)]]'''
+| align=right | 10,240
+|}
+*Orbiters whose orbit could eventually [[Orbital decay|decay]] and impact the surface, include: ''[[Viking 1]]'' and ''[[Viking 2]]'' orbiters, [[Mars Reconnaissance Orbiter|MRO]], [[2001 Mars Odyssey]], [[Mars Express]], [[Mars Global Surveyor]], [[Phobos 2]], [[Mars 2]], [[Mars 3]], and [[Mars 5]] orbiters, and [[Mariner 9]]. (See also [[List of Mars orbiters]].) 
+*[[Mariner 9]], which entered Mars orbit in 1971, is expected to remain in orbit until approximately 2022, when the spacecraft is projected to enter the Martian atmosphere and either burn up or crash into the planet's surface.&lt;ref&gt;[http://www.nasa.gov/offices/oce/appel/ask-academy/issues/volume4/ata_4-9_mariner_9_prt.htm NASA - This Month in NASA History: Mariner 9], November 29, 2011 – Vol. 4, Issue 9 {{webarchive |url=https://web.archive.org/web/20130514043808/http://www.nasa.gov/offices/oce/appel/ask-academy/issues/volume4/ata_4-9_mariner_9_prt.htm |date=May 14, 2013 }}&lt;/ref&gt;
+
+==Examples (surface)==
+{|
+|[[File:PIA05117 Empty Nest.jpg|thumb|right|MER-A ''Spirit'' rover lander]]
+|[[File:Opportunity heat shield Sol335B P2364 L456-B339R1.jpg|thumb|right|MER-B ''Opportunity''{{'}}s heat shield]]
+|[[File:PIA20844-MarsCuriosityRover-SelfPortrait-Sol1466-20160920.jpg|thumb|right|MSL ''Curiosity'' self-portrait, 2016]]
+|}
+
+==From orbit==
+{|
+|[[File:PSP 001521 2025 RED VL-1 lander.png|thumb|''Viking 1'' lander in 2006 (HiRise)]]
+|[[File:PSP 001501 2280 RED VL-2 lander.png|thumb|''Viking 2'' lander in 2006 (HiRise)]]
+|-
+|[[File:Phoenix Lander from HiRISE.JPG|thumb|''Phoenix'' lander and heat-shield in 2009 (HiRise)]]
+|[[File:MPT Hardware on the Surface MRO picture.jpg|thumb|left|''Mars Pathfinder'' seen from space by the [[Mars Reconnaissance Orbiter|MRO]] [[HiRISE]]]]
+|-
+|[[File:Oppland02a.jpg|thumb|MER-B ''Opportunity'' lander in Eagle crater (2006)]]
+|[[File:PIA19107-Beagle2-Found-MRO-20140629.jpg|thumb|''Beagle 2'', after 11 years found and showing that it made it to the surface but did not expand fully to transmit]]
+|-
+|[[File:PIA15696-HiRISE-MSL-Sol11 2 -br2.jpg|thumb|''Curiosity'' landing remnants]]
+|[[File:PIA21131 - Closer Look at Schiaparelli Impact Site on Mars.jpg|thumb|''Schiaparelli'' remnants (2016)]]
+|}
+
+==Landing site namings and memorials==
+{{see also|List of extraterrestrial memorials#Mars}}
+Several landing sites have been named, either the spacecraft itself or the landing site:
+* Pennants of Soviet Union on [[Mars 2]] and [[Mars 3]] landers (1971).&lt;ref&gt;[http://burro.cwru.edu/stu/advanced/20th_soviet_mars.html Soviet Craft - Mars (1960-1974)] {{webarchive|url=https://web.archive.org/web/20130708214014/http://burro.cwru.edu/stu/advanced/20th_soviet_mars.html |date=2013-07-08 }}&lt;/ref&gt;
+* [[Viking 1#Lander|Thomas Mutch Memorial Station]], the ''[[Viking 1]]'' lander (1976).&lt;ref&gt;[https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-075C NSSDC - Viking 1 lander]&lt;/ref&gt; 
+* [[Gerald Soffen|Gerald Soffen Memorial Station]], the ''[[Viking 2]]'' lander (1976).&lt;ref&gt;[https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-083C NSSDC - Viking 2 lander]&lt;/ref&gt;
+* [[Mars Pathfinder#Landing site|Carl Sagan Memorial Station]], [[Mars Pathfinder]] (''[[Sojourner (rover)|Sojourner]]'') base (1997).&lt;ref&gt;[https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1996-068A NSSDC - Mars Pathfinder]&lt;/ref&gt;
+* [[Opportunity (rover)#Honors|''Challenger'' Memorial Station]], [[MER-B]] (''[[Opportunity (rover)|Opportunity]]'') landing site area (2004).&lt;ref&gt;[http://marsrovers.jpl.nasa.gov/newsroom/pressreleases/20040128a.html NASA - Space Shuttle Challenger Crew Memorialized on Mars]&lt;/ref&gt;
+* [[Spirit (rover)#Landing site: Columbia Memorial Station|''Columbia'' Memorial Station]], [[MER-A]] (''[[Spirit (rover)|Spirit]]'') landing site area (2004).&lt;ref&gt;[http://www.jpl.nasa.gov/releases/2004/6.cfm NASA - Space Shuttle Columbia Crew Memorialized on Mars]&lt;/ref&gt;
+* [[Green Valley (Mars)|Green Valley]], the ''[[Phoenix (spacecraft)|Phoenix]]'' lander (2008).
+* [[Bradbury Landing]], [[Curiosity Rover|''Curiosity'' rover]] landing site (August 6, 2012).&lt;ref&gt;{{cite web|url=http://www.nasa.gov/multimedia/videogallery/index.html?media_id=150917411 |title=Curiosity Landing Site Named for Ray Bradbury |date=August 22, 2012 |publisher=NASA |accessdate=August 24, 2012}}&lt;/ref&gt; (Note: Due to the nature of the landing system, there is no actual space hardware at the touchdown location of Bradbury Landing, see [[Curiosity (rover)|''Curiosity'' (rover)]])
+* [[InSight|InSight Landing]], the ''[[InSight]]'' lander (2018).
+{{Features and memorials on Mars}}
+{{clear}}
+
+==See also==
+* [[Exploration of Mars]]
+* [[Life on Mars]]
+* [[List of artificial objects on extra-terrestrial surfaces]] 
+* [[List of extraterrestrial memorials]]
+* [[List of missions to Mars]]
+* [[Timeline of planetary exploration]]
+
+==References==
+{{Reflist|30em}}
+
+{{Features and artificial objects on Mars}}
+{{Mars}}
+{{Planetary exploration}}
+
+{{Portal bar|Solar System}}
+
+[[Category:Missions to Mars|*]]
+[[Category:Lists of coordinates|Artificial objects on Mars]]
+[[Category:Surface features of Mars|Artificial objects on Mars]]
+[[Category:Spacecraft by disposition|Mars]]</text>
+      <sha1>5qhbi6uljht99d27owon2iopmtqow8o</sha1>
+    </revision>
+  </page>
+</mediawiki>
