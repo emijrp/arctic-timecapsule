@@ -1,1 +1,1 @@
-See also https://github.com/emijrp/all-human-knowledge
+See also: https://github.com/emijrp/all-human-knowledge
