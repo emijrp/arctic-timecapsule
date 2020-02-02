@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikibooks</sitename>
+    <dbname>enwikibooks</dbname>
+    <base>https://en.wikibooks.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikibooks</namespace>
+      <namespace key="5" case="first-letter">Wikibooks talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Cookbook</namespace>
+      <namespace key="103" case="first-letter">Cookbook talk</namespace>
+      <namespace key="108" case="first-letter">Transwiki</namespace>
+      <namespace key="109" case="first-letter">Transwiki talk</namespace>
+      <namespace key="110" case="first-letter">Wikijunior</namespace>
+      <namespace key="111" case="first-letter">Wikijunior talk</namespace>
+      <namespace key="112" case="first-letter">Subject</namespace>
+      <namespace key="113" case="first-letter">Subject talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>C</title>
+    <ns>0</ns>
+    <id>178578</id>
+    <redirect title="Subject:C programming language" />
+    <revision>
+      <id>1580581</id>
+      <parentid>1580580</parentid>
+      <timestamp>2009-07-27T03:08:25Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor/>
+      <comment>Protected "[[C]]": This page should not be created ([edit=sysop] (indefinite) [move=sysop] (indefinite))</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" xml:space="preserve">#REDIRECT [[Subject:C programming language]]</text>
+      <sha1>2tlmcyuu2vkjrdtlpsmz3e5sxmfwzxb</sha1>
+    </revision>
+  </page>
+</mediawiki>
