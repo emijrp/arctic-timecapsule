@@ -1,0 +1,1452 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Messier object</title>
+    <ns>0</ns>
+    <id>20608</id>
+    <revision>
+      <id>926582163</id>
+      <parentid>924894950</parentid>
+      <timestamp>2019-11-17T10:28:17Z</timestamp>
+      <contributor>
+        <username>Onel5969</username>
+        <id>10951369</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguating links to [[Monoceros]] (link changed to [[Monoceros (constellation)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="64412" xml:space="preserve">{{Use dmy dates|date=April 2019}}
+{{short description|Astronomical objects catalogued by Charles Messier}}
+{{Infobox astronomical survey
+| type = astronomical catalogue
+}}
+The '''Messier objects''' are a set of 110 [[astronomical objects]] catalogued by the French astronomer [[Charles Messier]] in his ''Catalogue des Nébuleuses et des Amas d'Étoiles'' ("Catalogue of Nebulae and Star Clusters"). 
+Because Messier was only interested in finding [[comet]]s, he created a list of non-comet objects that frustrated his hunt for them. The compilation of this list, in collaboration with his assistant [[Pierre Méchain]], is known as ''the Messier catalogue.'' This catalogue of objects is one of the most famous lists of astronomical objects, and many Messier objects are still referenced by their Messier number.&lt;ref&gt;
+{{cite web
+ | title= Original Messier Catalog of 1781
+ | url= http://messier.seds.org/xtra/Mcat/mcat1781.html#messier1781
+ | date= 10 November 2007
+}}
+&lt;/ref&gt; 
+The catalogue includes some astronomical objects that can be observed from Earth's [[Northern Hemisphere]] such as [[deep-sky object]]s, a characteristic which makes the Messier objects extremely popular targets for amateur astronomers.&lt;ref name="Hubble"&gt;{{Cite web |url=https://www.nasa.gov/content/goddard/hubble-s-messier-catalog |title=NASA |last=Garner |first=Rob |date=18 December 2018 |publisher=[[NASA]] |url-status=live |access-date=17 January 2019}}&lt;/ref&gt;
+
+A preliminary version first appeared in the ''Memoirs'' of the [[French Academy of Sciences]] in 1771.&lt;ref&gt;
+{{cite web
+ | title= Charles Messier's Original Catalog of 1771
+ | date= 15 June 2007
+ | work= Students for the Exploration and Development of Space
+ | url= https://web.archive.org/web/20170313190707/http://messier.seds.org/xtra/history/m-cat71.html
+ | accessdate= 5 November 2015
+}}
+&lt;/ref&gt;&lt;ref name=Britannica&gt;
+{{cite web
+ | title= Messier catalog
+ | website= Encyclopædia Britannica
+ | url= http://www.britannica.com/EBchecked/topic/377197/Messier-catalog
+ | accessdate= 27 May 2015
+}}
+&lt;/ref&gt;
+The first version of Messier's catalogue contained 45 objects and was published in 1774 in the journal of the French Academy of Sciences in Paris. Eighteen of the objects were discovered by Messier, the rest being previously observed by other astronomers.&lt;ref&gt;{{cite magazine |last=Gingerich |first=Owen |date=September 1953 |title=Messier and His Catalogue II |url= https://archive.org/details/Sky_and_Telescope_1953-09-cbr |magazine=Sky &amp; Telescope |issue=142}}&lt;/ref&gt;
+By 1780 the catalogue had increased to 80 objects. The final version of the catalogue containing 103 objects was published in 1781 in the ''[[Connaissance des Temps]]'' for the year 1784.&lt;ref&gt;Charles Messier, 1781. Catalogue des Nébuleuses &amp; des amas d'Étoiles. Connoissance des Temps pour l'Année 1784 (published 1781), pp. 227–267 {{Bibcode|1781CdT..1784..227M}}.&lt;br /&gt;
+{{cite web
+ | title= Original Messier Catalog of 1781
+ | url= http://messier.seds.org/xtra/Mcat/mcat1781.html#messier1781
+ | accessdate= 10 November 2007
+}}
+&lt;/ref&gt;
+However, due to what was thought for a long time to be the incorrect addition of [[Messier 102]], the total number remained 102. Other astronomers, using side notes in Messier's texts, eventually filled out the list up to 110 objects.&lt;ref&gt;
+{{cite web
+ | title= SEDS Messier Database
+ | work= The Messier Catalog
+ | date= 27 May 2015
+ | url= http://messier.seds.org/
+}}
+&lt;/ref&gt;
+
+The catalogue consists of a diverse range of astronomical objects, from [[star clusters]] and [[nebulae]] to [[galaxies]]. For example, Messier 1 is a [[supernova remnant]], known as the [[Crab Nebula]], and the great [[spiral galaxy|spiral]] [[Andromeda Galaxy]] is M31. Many further inclusions followed in the next century when the first addition came from [[Nicolas Camille Flammarion]] in 1921, who added [[Messier 104]] after finding Messier's side note in his 1781 edition exemplar of the catalogue. [[Messier 105|M105]] to [[Messier 107|M107]] were added by [[Helen Sawyer Hogg]] in 1947, [[Messier 108|M108]] and [[Messier 109|M109]] by [[Owen Gingerich]] in 1960, and [[Messier 110|M110]] by Kenneth Glyn Jones in 1967.&lt;ref&gt;
+{{cite book
+ | first= Patrick
+ | last= Moore
+ | date= 1979
+ | title= The Guinness Book of Astronomy
+ | publisher= [[Guinness Superlatives]]
+ | isbn= 978-0-900424-76-2
+ | url-access= registration
+ | url= https://archive.org/details/guinnessbookofas00moor
+ }}
+&lt;/ref&gt;
+
+==Lists and editions==
+[[File:Charles Messier.jpg|275px|thumb|[[Charles Messier]]|alt=Painting of Charles Messier]]
+
+The first edition of 1771 covered 45 objects numbered [[Crab Nebula|M1]] to [[Pleiades|M45]]. The total list published by Messier in 1781 contained 103 objects, but the list was expanded through successive additions by other astronomers, motivated by notes in Messier's and Méchain's texts indicating that at least one of them knew of the additional objects. The first such addition came from [[Nicolas Camille Flammarion]] in 1921, who added [[Messier 104]] after finding a note Messier made in a copy of the 1781 edition of the catalogue. [[Messier 105|M105]] to [[Messier 107|M107]] were added by [[Helen Sawyer Hogg]] in 1947, [[Messier 108|M108]] and [[Messier 109|M109]] by [[Owen Gingerich]] in 1960, and [[Messier 110|M110]] by Kenneth Glyn Jones in 1967.&lt;ref&gt;
+
+{{cite book
+ |author=Patrick Moore
+ |date=1979
+ |title=The Guinness Book of Astronomy
+ |publisher=[[Guinness Superlatives]]
+ |isbn=0-900424-76-1
+ |url-access=registration
+ |url=https://archive.org/details/guinnessbookofas00moor
+ }}&lt;/ref&gt; [[Messier 102|M102]] was observed by Méchain, who communicated his notes to Messier. Méchain later concluded that this object was simply a re-observation of M101, though some sources suggest that the object Méchain observed was the galaxy [[NGC 5866]] and identify that as M102.&lt;ref&gt;{{Cite web |url=http://www.messier.seds.org/xtra/supp/m102art.txt |title= Messier 102  |last=Frommert    |first=Hartmut  |date=10 May 1995 |publisher=MSFC X-Ray Astronomy's InterNetNews site |url-status=live |access-date=24 February 2019}}&lt;/ref&gt;
+
+Messier's final catalogue was included in the ''[[Connaissance des Temps]] pour l'Année 1784'' (''Knowledge of Time''; published in 1781), the French official yearly publication of astronomical [[ephemerides]].&lt;ref&gt;
+{{cite book
+ |author=Charles Messier
+ |date=1781
+ |chapter=Catalogue des Nébuleuses &amp; des amas d'Étoiles
+ |title=Connaissance des Temps pour l'Année 1784
+ |pages=227–267
+}}&lt;/ref&gt;&lt;ref&gt;
+{{cite web
+ | title=Original Messier Catalog of 1781
+ | work=Original Messier Catalog of 1781
+ | url=http://messier.seds.org/xtra/Mcat/mcat1781.html
+ | publisher=[[Students for the Exploration and Development of Space|SEDS]]
+ | accessdate=17 May 2014
+}}&lt;/ref&gt;
+
+Messier lived and did his astronomical work at the Hôtel de Cluny (now the [[Musée national du Moyen Âge]]), in [[Paris]], France.  The list he compiled contains only objects found in the sky area he could observe: from the north [[celestial pole]] to a celestial latitude of about −35.7°. He did not observe or list objects visible only from farther south, such as the [[Large Magellanic Cloud|Large]] and [[Small Magellanic Cloud|Small]] [[Magellanic Clouds]].&lt;ref&gt;{{cite book |last1=English |first1=Neil |title=Chronicling the golden age of astronomy : a history of visual observing from Harriot to Moore |date=2018 |publisher=Springer |isbn=3319977075 |page=91 |url=https://books.google.se/books?id=b9p1DwAAQBAJ&amp;pg=PA91&amp;lpg=PA91&amp;source=bl&amp;ots=jf8JWJ7Moa&amp;sig=ACfU3U0albF2cMdSvroUUIzkND47wAwP_Q&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwipp9GyhZDlAhVKAxAIHTlkA4wQ6AEwDXoECAkQAQ#v=onepage&amp;q&amp;f=false |accessdate=9 October 2019}}&lt;/ref&gt;
+
+==Observations==
+The Messier catalogue comprises nearly all the most spectacular examples of the five types of [[deep-sky object]] – [[diffuse nebulae]], [[planetary nebula]]e, [[open cluster]]s, [[globular cluster]]s, and [[galaxy|galaxies]] – visible from European latitudes. Furthermore, almost all of the Messier objects are among the closest to Earth in their respective classes, which makes them heavily studied with professional class instruments that today can resolve very small and visually spectacular details in them. A summary of the astrophysics of each Messier object can be found in the ''Concise Catalog of Deep-sky Objects.''&lt;ref&gt;
+{{cite book
+ |author=W.H. Finlay
+ |date=2003
+ |title=Concise Catalog of Deep-sky Objects: Astrophysical Information for 500 Galaxies
+ |publisher=[[Springer (publisher)|Springer]]
+ |isbn=1-85233-691-9
+}}&lt;/ref&gt;
+
+Since these objects could be observed visually with the relatively small-aperture [[refracting telescope]] (approximately 100&amp;nbsp;mm, or 4 inches) used by Messier to study the sky, they are among the brightest and thus most attractive [[astronomical object]]s (popularly called [[deep-sky object]]s) observable from Earth, and are popular targets for visual study and [[astrophotography]] available to modern [[amateur astronomy|amateur astronomers]] using larger aperture equipment. In early spring, astronomers sometimes gather for "[[Messier marathon]]s", when all of the objects can be viewed over a single night.&lt;ref&gt;
+{{cite web
+ |date=19 March 2013
+ |title=The Messier Marathon
+ |url=http://messier.seds.org/xtra/marathon/marathon.html
+ |publisher=[[Students for the Exploration and Development of Space|SEDS]]
+ |accessdate=17 May 2014
+}}&lt;/ref&gt;&lt;ref&gt;{{cite book |last1=Stoyan |first1=Ronald |last2=Binnewies |first2=Stefan |last3=Friedrich |first3=Susanne |title=Atlas of the Messier Objects: Highlights of the Deep Sky |date=2008 |publisher=Cambridge University Press |isbn=9783319977072}}&lt;/ref&gt;
+== Messier objects ==
+
+{{legend4|#eeeeff|[[Open cluster]]|border=1px solid #aaaaaa}}
+{{legend4|#ffe4b5|[[Globular cluster]]|border=1px solid #aaaaaa}}
+{{legend4|#ffcccc|[[Diffuse nebula]]|border=1px solid #aaaaaa}}
+{{legend4|#ccffee|[[Planetary nebula]]|border=1px solid #aaaaaa}}
+{{legend4|#ffccee|[[Supernova remnant]]|border=1px solid #aaaaaa}}
+{{legend4|#ffffcc|[[Galaxy]]|border=1px solid #aaaaaa}}
+{{legend4|#ffffff|Other|border=1px solid #aaaaaa}}
+{{Clear}}
+{| class="wikitable sortable" 
+|-
+
+! scope="col" | Messier number
+
+! scope="col" |[[New General Catalogue|NGC]]/[[Index Catalogue|IC]] number
+
+! scope="col" |Common name
+
+! scope="col" class="unsortable"|Picture
+
+! scope="col" |Object type
+
+! scope="col" |Distance ([[Light-year|kly]])
+
+! scope="col" |[[Constellation]]
+
+! scope="col" |[[Apparent magnitude]]
+
+! scope="col" |[[Right ascension]]
+
+! data-sort-type=number scope="col" |[[Declination]]
+
+|- style="background:#fce;"
+! scope="row" |{{hs|001}}[[Crab Nebula|M1]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m001.html |title=Messier 1 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+
+| NGC 1952
+| ''Crab Nebula''
+| style="text-align:center;"| [[File:Crab Nebula.jpg|75px]]
+| [[Supernova remnant]]
+| {{ntsh|6.5}}4.9–8.1
+| [[Taurus (constellation)|Taurus]]
+| 8.4
+|05&lt;sup&gt;h&lt;/sup&gt; 34&lt;sup&gt;m&lt;/sup&gt; 31.94&lt;sup&gt;s&lt;/sup&gt;
+| +22° 00′ 52.2″
+|- style="background:moccasin;"
+! scope="row" | {{hs|002}}[[Messier 2|M2]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m002.html |title=Messier 2 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 7089
+| –
+| style="text-align:center;"| [[File:Messier 2 Hubble WikiSky.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|33}}
+| [[Aquarius (constellation)|Aquarius]]
+| 6.3
+|21&lt;sup&gt;h&lt;/sup&gt; 33&lt;sup&gt;m&lt;/sup&gt; 27.02&lt;sup&gt;s&lt;/sup&gt;
+|−00° 49′ 23.7″
+|- style="background:moccasin;"
+! scope="row" | {{hs|003}}[[Messier 3|M3]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m003.html |title=Messier 3 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 5272
+| –
+| style="text-align:center;"| [[File:M3LRGB 891x674.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|33.9}}
+| [[Canes Venatici]]
+| 6.2
+|13&lt;sup&gt;h&lt;/sup&gt; 42&lt;sup&gt;m&lt;/sup&gt; 11.62&lt;sup&gt;s&lt;/sup&gt;
+| +28° 22′ 38.2″
+|- style="background:moccasin;"
+! scope="row" | {{hs|004}}[[Messier 4|M4]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m004.html |title=Messier 4 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6121
+| –
+| style="text-align:center;"| [[File:Messier 4 Hubble WikiSky.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|7.2}}
+| [[Scorpius]]
+| 5.9
+|16&lt;sup&gt;h&lt;/sup&gt; 23&lt;sup&gt;m&lt;/sup&gt; 35.22&lt;sup&gt;s&lt;/sup&gt;
+|−26° 31′ 32.7″
+|- style="background:moccasin;"
+! scope="row" | {{hs|005}}[[Messier 5|M5]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m005.html |title=Messier 5 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 5904
+| –
+| style="text-align:center;"| [[File:Messier 5 Hubble WikiSky.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|24.5}}
+| [[Serpens]]
+| 6.7
+|15&lt;sup&gt;h&lt;/sup&gt; 18&lt;sup&gt;m&lt;/sup&gt; 33.22&lt;sup&gt;s&lt;/sup&gt;
+| +02° 04′ 51.7″
+|- style="background:#eef;"
+! scope="row" | {{hs|006}}[[Butterfly Cluster|M6]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m006.html |title=Messier 6 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6405
+| ''Butterfly Cluster''
+| style="text-align:center;"| [[File:M6a.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|1.6}}
+| [[Scorpius]]
+| 4.2
+|17&lt;sup&gt;h&lt;/sup&gt; 40.1&lt;sup&gt;m&lt;/sup&gt;
+|−32° 13′
+|- style="background:#eef;"
+! scope="row" | {{hs|007}}[[Ptolemy Cluster|M7]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m007.html |title=Messier 7 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6475
+| ''Ptolemy Cluster''
+| style="text-align:center;"| [[File:Open-cluster-Messier-7.jpeg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{ntsh|0.98}}0.65–1.31
+| [[Scorpius]]
+| 3.3
+|17&lt;sup&gt;h&lt;/sup&gt; 53&lt;sup&gt;m&lt;/sup&gt; 51.2&lt;sup&gt;s&lt;/sup&gt;
+|−34° 47′ 34″
+|- style="background:#fcc;"
+! scope="row" | {{hs|008}}[[Lagoon Nebula|M8]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m008.html |title=Messier 8 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6523
+| ''Lagoon Nebula''
+| style="text-align:center;"| [[File:LagoonHunterWilson.jpg|75px]]
+| [[Nebula]] with cluster
+| {{nts|4.1}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 6.0
+|18&lt;sup&gt;h&lt;/sup&gt; 03&lt;sup&gt;m&lt;/sup&gt; 37&lt;sup&gt;s&lt;/sup&gt;
+|−24° 23′ 12″
+|- style="background:moccasin;"
+! scope="row" | {{hs|009}}[[Messier 9|M9]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m009.html |title=Messier 9 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6333
+| –
+| style="text-align:center;"| [[File:Messier object 009.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|25.8}}
+| [[Ophiuchus]]
+| 8.4
+|17&lt;sup&gt;h&lt;/sup&gt; 19&lt;sup&gt;m&lt;/sup&gt; 11.78&lt;sup&gt;s&lt;/sup&gt;
+|−18° 30′ 58.5″
+|- style="background:moccasin;"
+! scope="row" | {{hs|010}}[[Messier 10|M10]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m010.html |title=Messier 10 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6254
+| –
+| style="text-align:center;"| [[File:Messier 10 Hubble WikiSky.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|14.3}}
+| [[Ophiuchus]]
+| 6.4
+|16&lt;sup&gt;h&lt;/sup&gt; 57&lt;sup&gt;m&lt;/sup&gt; 8.92&lt;sup&gt;s&lt;/sup&gt;
+|−04° 05′ 58.07″
+|- style="background:#eef;"
+! scope="row" | {{hs|011}}[[Wild Duck Cluster|M11]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m011.html |title=Messier 11 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6705
+| ''Wild Duck Cluster''
+| style="text-align:center;"| [[File:Messier11.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|6.2}}
+| [[Scutum (constellation)|Scutum]]
+| 6.3
+|18&lt;sup&gt;h&lt;/sup&gt; 51.1&lt;sup&gt;m&lt;/sup&gt;
+|−06° 16′
+|- style="background:moccasin;"
+! scope="row" | {{hs|012}}[[Messier 12|M12]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m012.html |title=Messier 12 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6218
+| –
+| style="text-align:center;"| [[File:M12 Hubble.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|15.7}}
+| [[Ophiuchus]]
+| 7.7
+|16&lt;sup&gt;h&lt;/sup&gt; 47&lt;sup&gt;m&lt;/sup&gt; 14.18&lt;sup&gt;s&lt;/sup&gt;
+|−01° 56′ 54.7″
+|- style="background:moccasin;"
+! scope="row" | {{hs|013}}[[Messier 13|M13]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m013.html |title=Messier 13 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6205
+| ''Great Globular Cluster in Hercules''
+| style="text-align:center;"| [[File:Messier 13 Hubble WikiSky.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|22.2}}
+| [[Hercules (constellation)|Hercules]]
+| 5.8
+|16&lt;sup&gt;h&lt;/sup&gt; 41&lt;sup&gt;m&lt;/sup&gt; 41.24&lt;sup&gt;s&lt;/sup&gt;
+| +36° 27′ 35.5″
+|- style="background:moccasin;"
+! scope="row" | {{hs|014}}[[Messier 14|M14]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m014.html |title=Messier 14 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6402
+| –
+| style="text-align:center;"| [[File:Messier object 014.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|30.3}}
+| [[Ophiuchus]]
+| 8.3
+|17&lt;sup&gt;h&lt;/sup&gt; 37&lt;sup&gt;m&lt;/sup&gt; 36.15&lt;sup&gt;s&lt;/sup&gt;
+|−03° 14′ 45.3″
+|- style="background:moccasin;"
+! scope="row" | {{hs|015}}[[Messier 15|M15]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m015.html |title=Messier 15 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 7078
+| –
+| style="text-align:center;"| [[File:Messier 15 Hubble WikiSky.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|33}}
+| [[Pegasus (constellation)|Pegasus]]
+| 6.2
+|21&lt;sup&gt;h&lt;/sup&gt; 29&lt;sup&gt;m&lt;/sup&gt; 58.33&lt;sup&gt;s&lt;/sup&gt;
+| +12° 10′ 01.2″
+|- style="background:#fcc;"
+! scope="row" | {{hs|016}}[[Eagle Nebula|M16]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m016.html |title=Messier 16 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6611
+| ''Eagle Nebula''
+| style="text-align:center;"| [[File:Stellar spire eagle nebula.jpg|37px]]
+| {{sort|Nebula, H II region with cluster|[[H II region]] nebula  with cluster}}
+| {{nts|7}}
+| [[Serpens]]
+| 6.0
+|18&lt;sup&gt;h&lt;/sup&gt; 18&lt;sup&gt;m&lt;/sup&gt; 48&lt;sup&gt;s&lt;/sup&gt;
+|−13° 49′
+|- style="background:#fcc;"
+! scope="row" | {{hs|017}}[[Omega Nebula|M17]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m017.html |title=Messier 17 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6618
+| ''Omega, Swan, Horseshoe, or Lobster Nebula''
+| style="text-align:center;"| [[File:Messier 17.jpg|75px]]
+| {{sort|Nebula, H II region with cluster|[[H II region]] nebula with cluster}}
+| {{ntsh|5.5}}5–6
+| [[Sagittarius (constellation)|Sagittarius]]
+| 6.0
+|18&lt;sup&gt;h&lt;/sup&gt; 20&lt;sup&gt;m&lt;/sup&gt; 26&lt;sup&gt;s&lt;/sup&gt;
+|−16° 10′ 36″
+|- style="background:#eef;"
+! scope="row" | {{hs|018}}[[Messier 18|M18]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m018.html |title=Messier 18 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6613
+| –
+| style="text-align:center;"| [[File:Messier18.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|4.9}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 7.5
+|18&lt;sup&gt;h&lt;/sup&gt; 19.9&lt;sup&gt;m&lt;/sup&gt;
+|−17° 08′
+|- style="background:moccasin;"
+! scope="row" | {{hs|019}}[[Messier 19|M19]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m019.html |title=Messier 19 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6273
+| –
+| style="text-align:center;"| [[File:Messier object 019.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|28.7}}
+| [[Ophiuchus]]
+| 7.5
+|17&lt;sup&gt;h&lt;/sup&gt; 02&lt;sup&gt;m&lt;/sup&gt; 37.69&lt;sup&gt;s&lt;/sup&gt;
+|−26° 16′ 04.6″
+|- style="background:#fcc;"
+! scope="row" | {{hs|020}}[[Trifid Nebula|M20]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m020.html |title=Messier 20 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6514
+| ''Trifid Nebula''
+| style="text-align:center;"| [[File:Trifid.nebula.arp.750pix.jpg|75px]]
+| {{sort|Nebula, H II region|[[H II region]] nebula}} with cluster
+| {{nts|5.2}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 6.3
+|18&lt;sup&gt;h&lt;/sup&gt; 02&lt;sup&gt;m&lt;/sup&gt; 23&lt;sup&gt;s&lt;/sup&gt;
+|−23° 01′ 48″
+|- style="background:#eef;"
+! scope="row" | {{hs|021}}[[Messier 21|M21]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m021.html |title=Messier 21 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6531
+| –
+| style="text-align:center;"| [[File:Messier object 021.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|4.25}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 6.5
+|18&lt;sup&gt;h&lt;/sup&gt; 04.6&lt;sup&gt;m&lt;/sup&gt;
+|−22° 30′
+|- style="background:moccasin;"
+! scope="row" | {{hs|022}}[[Messier 22|M22]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m022.html |title=Messier 22 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6656
+| ''Sagittarius Cluster''
+| style="text-align:center;"| [[File:Messier object 022.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{ntsh|10.6}}9.6–11.6
+| [[Sagittarius (constellation)|Sagittarius]]
+| 5.1
+|18&lt;sup&gt;h&lt;/sup&gt; 36&lt;sup&gt;m&lt;/sup&gt; 23.94&lt;sup&gt;s&lt;/sup&gt;
+|−23° 54′ 17.1″
+|- style="background:#eef;"
+! scope="row" | {{hs|023}}[[Messier 23|M23]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m023.html |title=Messier 23 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6494
+| –
+| style="text-align:center;"| [[File:Messier object 023.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|2.15}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 6.9
+|17&lt;sup&gt;h&lt;/sup&gt; 56.8&lt;sup&gt;m&lt;/sup&gt;
+|−19° 01′
+|- style="background:#fff;"
+! scope="row" | {{hs|024}}[[Sagittarius Star Cloud|M24]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m024.html |title=Messier 24 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| IC 4715
+| ''Sagittarius Star Cloud''
+| style="text-align:center;"| [[File:Messier 024 2MASS.jpg|75px]]
+| [[Milky Way]] [[star cloud]]
+| {{ntsh|10}}~10
+| [[Sagittarius (constellation)|Sagittarius]]
+| 4.6
+|18&lt;sup&gt;h&lt;/sup&gt; 17&lt;sup&gt;m&lt;/sup&gt;
+|−18° 29′
+|- style="background:#eef;"
+! scope="row" | {{hs|025}}[[Messier 25|M25]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m025.html |title=Messier 25 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| IC 4725
+| –
+| style="text-align:center;"| [[File:Messier object 025.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|2.0}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 4.6
+|18&lt;sup&gt;h&lt;/sup&gt; 31.6&lt;sup&gt;m&lt;/sup&gt;
+|−19° 15′
+|- style="background:#eef;"
+! scope="row" | {{hs|026}}[[Messier 26|M26]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m026.html |title=Messier 26 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6694
+| –
+| style="text-align:center;"|[[File:Messier object 026.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|5.0}}
+| [[Scutum (constellation)|Scutum]]
+| 8.0
+|18&lt;sup&gt;h&lt;/sup&gt; 45.2&lt;sup&gt;m&lt;/sup&gt;
+|−09° 24′
+|- style="background:#cfe;"
+! scope="row" | {{hs|027}}[[Dumbbell Nebula|M27]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m027.html |title=Messier 27 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6853
+| ''Dumbbell Nebula''
+| style="text-align:center;"| [[File:Messier27.jpg|75px]]
+| {{sort|Nebula, planetary|[[Planetary nebula]]}}
+| {{ntsh|1.334}}1.148–1.52
+| [[Vulpecula]]
+| 7.5
+|19&lt;sup&gt;h&lt;/sup&gt; 59&lt;sup&gt;m&lt;/sup&gt; 36.340&lt;sup&gt;s&lt;/sup&gt;
+| +22° 43′ 16.09″
+|- style="background:moccasin;"
+! scope="row" | {{hs|028}}[[Messier 28|M28]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m028.html |title=Messier 28 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6626
+| –
+| style="text-align:center;"| [[File:Messier28.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|17.9}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 7.7
+|18&lt;sup&gt;h&lt;/sup&gt; 24&lt;sup&gt;m&lt;/sup&gt; 32.89&lt;sup&gt;s&lt;/sup&gt;
+|−24° 52′ 11.4″
+|- style="background:#eef;"
+! scope="row" | {{hs|029}}[[Messier 29|M29]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m029.html |title=Messier 29 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6913
+| '' Cooling Tower ''
+| style="text-align:center;"| [[File:Messier object 029.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|7.2}}
+| [[Cygnus (constellation)|Cygnus]]
+| 7.1
+|20&lt;sup&gt;h&lt;/sup&gt; 23&lt;sup&gt;m&lt;/sup&gt; 56&lt;sup&gt;s&lt;/sup&gt;
+| +38° 31′ 24″
+|- style="background:moccasin;"
+! scope="row" | {{hs|030}}[[Messier 30|M30]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m030.html |title=Messier 30 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 7099
+| –
+| style="text-align:center;"| [[File:Messier object 030.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{ntsh|29.4}}27.8–31
+| [[Capricornus]]
+| 7.7
+|21&lt;sup&gt;h&lt;/sup&gt; 40&lt;sup&gt;m&lt;/sup&gt; 22.12
+|−23° 10′ 47.5″
+|- style="background:#ffc;"
+! scope="row" | {{hs|031}}[[Andromeda Galaxy|M31]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m031.html |title=Messier 31 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 224
+| ''Andromeda Galaxy''
+| style="text-align:center;"| [[File:Andromeda galaxy.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|2540}}2,430–2,650
+| [[Andromeda (constellation)|Andromeda]]
+| 3.4
+|00&lt;sup&gt;h&lt;/sup&gt; 42&lt;sup&gt;m&lt;/sup&gt; 44.3&lt;sup&gt;s&lt;/sup&gt;
+| +41° 16′ 9″
+|- style="background:#ffc;"
+! scope="row" | {{hs|032}}[[Messier 32|M32]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m032.html |title=Messier 32 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 221
+| –
+| style="text-align:center;"| [[File:M32 Lanoue.png|75px]]
+| {{sort|Galaxy, dwarf elliptical|[[Dwarf elliptical galaxy]]}}
+| {{ntsh|2490}}2,410–2,570
+| [[Andromeda (constellation)|Andromeda]]
+| 8.1
+|00&lt;sup&gt;h&lt;/sup&gt; 42&lt;sup&gt;m&lt;/sup&gt; 41.8&lt;sup&gt;s&lt;/sup&gt;
+| +40° 51′ 55″
+|- style="background:#ffc;"
+! scope="row" | {{hs|033}}[[Triangulum Galaxy|M33]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m033.html |title=Messier 33 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 598
+| ''Triangulum Galaxy''
+| style="text-align:center;"|[[File:M33.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|2725}}2,380–3,070
+| [[Triangulum]]
+| 5.7
+|01&lt;sup&gt;h&lt;/sup&gt; 33&lt;sup&gt;m&lt;/sup&gt; 50.02&lt;sup&gt;s&lt;/sup&gt;
+| +30° 39′ 36.7″
+|- style="background:#eef;"
+! scope="row" | {{hs|034}}[[Messier 34|M34]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m034.html |title=Messier 34 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 1039
+| –
+| style="text-align:center;"|[[File:M34 2mass atlas.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|1.5}}
+| [[Perseus (constellation)|Perseus]]
+| 5.5
+|02&lt;sup&gt;h&lt;/sup&gt; 42.1&lt;sup&gt;m&lt;/sup&gt;
+|&lt;nowiki&gt;+42° 46′&lt;/nowiki&gt;
+|- style="background:#eef;"
+! scope="row" | {{hs|035}}[[Messier 35|M35]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m035.html |title=Messier 35 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 2168
+| –
+| style="text-align:center;"|[[File:M35atlas.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|2.8}}
+| [[Gemini (constellation)|Gemini]]
+| 5.3
+|06&lt;sup&gt;h&lt;/sup&gt; 09.1&lt;sup&gt;m&lt;/sup&gt;
+| +24° 21′
+|- style="background:#eef;"
+! scope="row" | {{hs|036}}[[Messier 36|M36]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m036.html |title=Messier 36 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 1960
+| –
+| style="text-align:center;"|[[File:M36a.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|4.1}}
+| [[Auriga (constellation)|Auriga]]
+| 6.3
+|05&lt;sup&gt;h&lt;/sup&gt; 36&lt;sup&gt;m&lt;/sup&gt; 12&lt;sup&gt;s&lt;/sup&gt;
+| +34° 08′ 4″
+|- style="background:#eef;"
+! scope="row" | {{hs|037}}[[Messier 37|M37]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m037.html |title=Messier 37 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 2099
+| –
+| style="text-align:center;"|[[File:M37a.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|4.511}}
+| [[Auriga (constellation)|Auriga]]
+| 6.2
+|05&lt;sup&gt;h&lt;/sup&gt; 52&lt;sup&gt;m&lt;/sup&gt; 18&lt;sup&gt;s&lt;/sup&gt;
+| +32° 33′ 02″
+|- style="background:#eef;"
+! scope="row" | {{hs|038}}[[Messier 38|M38]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m038.html |title=Messier 38 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 1912
+| –
+| style="text-align:center;"|[[File:Messier object 038.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|4.2}}
+| [[Auriga (constellation)|Auriga]]
+| 7.4
+|05&lt;sup&gt;h&lt;/sup&gt; 28&lt;sup&gt;m&lt;/sup&gt; 42&lt;sup&gt;s&lt;/sup&gt;
+| +35° 51′ 18″
+|- style="background:#eef;"
+! scope="row" | {{hs|039}}[[Messier 39|M39]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m039.html |title=Messier 39 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 7092
+| –
+| style="text-align:center;"|[[File:Messier object 039.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|0.8244}}
+| [[Cygnus (constellation)|Cygnus]]
+| 5.5
+|21&lt;sup&gt;h&lt;/sup&gt; 31&lt;sup&gt;m&lt;/sup&gt; 42&lt;sup&gt;s&lt;/sup&gt;
+| +48° 26′ 00″
+|-
+! scope="row" | {{hs|040}}[[Winnecke 4|M40]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m040.html |title=Messier 40 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| –
+| ''Winnecke 4''
+| style="text-align:center;"|[[File:Messier object 40.jpg|75px]]
+| [[Double star]]
+| {{nts|0.51}}
+| [[Ursa Major]]
+| 9.7
+|12&lt;sup&gt;h&lt;/sup&gt; 22&lt;sup&gt;m&lt;/sup&gt; 12.5&lt;sup&gt;s&lt;/sup&gt;
+| +58° 4′ 59″
+|- style="background:#eef;"
+! scope="row" | {{hs|041}}[[Messier 41|M41]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m041.html |title=Messier 41 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 2287
+| –
+| style="text-align:center;"|[[File:Messier 041 2MASS.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|2.3}}
+| [[Canis Major]]
+| 4.5
+|06&lt;sup&gt;h&lt;/sup&gt; 46.0&lt;sup&gt;m&lt;/sup&gt;
+|−20° 46′
+|- style="background:#fcc;"
+! scope="row" | {{hs|042}}[[Orion Nebula|M42]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m042.html |title=Messier 42 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 1976
+| ''Orion Nebula''
+| style="text-align:center;"|[[File:Orion Nebula - Hubble 2006 mosaic 18000.jpg|75px]]
+| {{sort|Nebula, H II region|[[H II region]] nebula}}
+| {{ntsh|1.344}}1.324–1.364
+| [[Orion (constellation)|Orion]]
+| 4.0
+|05&lt;sup&gt;h&lt;/sup&gt; 35&lt;sup&gt;m&lt;/sup&gt; 17.3
+|−05° 23′ 28″
+|- style="background:#fcc;"
+! scope="row" | {{hs|043}}[[Messier 43|M43]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m043.html |title=Messier 43 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 1982
+| ''De Mairan's Nebula''
+| style="text-align:center;"|[[File:Messier object 043.jpg|75px]]
+| {{sort|Nebula, H II region (part of the Orion Nebula)|[[H II region]] nebula (part of the Orion Nebula)}}&lt;br /&gt;
+| {{nts|1.6}}
+| [[Orion (constellation)|Orion]]
+| 9.0
+|05&lt;sup&gt;h&lt;/sup&gt; 35.6&lt;sup&gt;m&lt;/sup&gt;
+|−05° 16′
+|- style="background:#eef;"
+! scope="row" | {{hs|044}}[[Beehive Cluster|M44]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m044.html |title=Messier 44 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 2632
+| ''Beehive Cluster''
+| style="text-align:center;"|[[File:Messier 044 2MASS.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|0.577}}
+| [[Cancer (constellation)|Cancer]]
+| 3.7
+|08&lt;sup&gt;h&lt;/sup&gt; 40.4&lt;sup&gt;m&lt;/sup&gt;
+| +19° 59′
+|- style="background:#eef;"
+! scope="row" | {{hs|045}}[[Pleiades|M45]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m045.html |title=Messier 45 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| –
+| ''Pleiades''
+| style="text-align:center;"|[[File:Bob Star - M45 Carranza Field (by).jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{ntsh|0.425}}0.39–0.46
+| [[Taurus (constellation)|Taurus]]
+| 1.6
+|03&lt;sup&gt;h&lt;/sup&gt; 47&lt;sup&gt;m&lt;/sup&gt; 24&lt;sup&gt;s&lt;/sup&gt;
+| +24° 07′ 00″
+|- style="background:#eef;"
+! scope="row" | {{hs|046}}[[Messier 46|M46]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m046.html |title=Messier 46 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 2437
+| –
+| style="text-align:center;"|[[File:M46a.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|5.4}}
+| [[Puppis]]
+| 6.1
+|07&lt;sup&gt;h&lt;/sup&gt; 41.8&lt;sup&gt;m&lt;/sup&gt;
+|−14° 49′
+|- style="background:#eef;"
+! scope="row" | {{hs|047}}[[Messier 47|M47]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m047.html |title=Messier 47 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 2422
+| –
+| style="text-align:center;"|[[File:M47a.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|1.6}}
+| [[Puppis]]
+| 4.2
+|07&lt;sup&gt;h&lt;/sup&gt; 36.6&lt;sup&gt;m&lt;/sup&gt;
+|−14° 30′
+|- style="background:#eef;"
+! scope="row" | {{hs|048}}[[Messier 48|M48]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m048.html |title=Messier 48 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 2548
+| –
+| style="text-align:center;"|[[File:M48a.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|1.5}}
+| [[Hydra (constellation)|Hydra]]
+| 5.5
+|08&lt;sup&gt;h&lt;/sup&gt; 13.7&lt;sup&gt;m&lt;/sup&gt;
+|−05° 45′
+|- style="background:#ffc;"
+! scope="row" | {{hs|049}}[[Messier 49|M49]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m049.html |title=Messier 49 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4472
+| –
+| style="text-align:center;"|[[File:Messier 49 Hubble WikiSky.jpg|75px]]
+| {{sort|Galaxy, elliptical|[[Elliptical galaxy]]}}
+| {{ntsh|55900}}53,600–58,200
+| [[Virgo (constellation)|Virgo]]
+| 9.4
+|12&lt;sup&gt;h&lt;/sup&gt; 29&lt;sup&gt;m&lt;/sup&gt; 46.7&lt;sup&gt;s&lt;/sup&gt;
+| +08° 00′ 02″
+|- style="background:#eef;"
+! scope="row" | {{hs|050}}[[Messier 50|M50]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m050.html |title=Messier 50 |accessdate=17 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 2323
+| –
+| style="text-align:center;"|[[File:M50a.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|3.2}}
+| [[Monoceros (constellation)|Monoceros]]
+| 5.9
+|07&lt;sup&gt;h&lt;/sup&gt; 03.2&lt;sup&gt;m&lt;/sup&gt;
+|−08° 20′
+|- style="background:#ffc;"
+! scope="row" | {{hs|051}}[[Whirlpool Galaxy|M51]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m051.html |title=Messier 51 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 5194, [[NGC 5195]]
+| ''Whirlpool Galaxy''
+| style="text-align:center;"|[[File:Whirlpool (M51).jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|23000}}19,000–27,000
+| [[Canes Venatici]]
+| 8.4
+|13&lt;sup&gt;h&lt;/sup&gt; 29&lt;sup&gt;m&lt;/sup&gt; 52.7&lt;sup&gt;s&lt;/sup&gt;
+| +47° 11′ 43″
+|- style="background:#eef;"
+! scope="row" | {{hs|052}}[[Messier 52|M52]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m052.html |title=Messier 52 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 7654
+| –
+| style="text-align:center;"|[[File:M52atlas.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|5.0}}
+| [[Cassiopeia (constellation)|Cassiopeia]]
+| 5.0
+|23&lt;sup&gt;h&lt;/sup&gt; 24.2&lt;sup&gt;m&lt;/sup&gt;
+| +61° 35′
+|- style="background:moccasin;"
+! scope="row" | {{hs|053}}[[Messier 53|M53]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m053.html |title=Messier 53 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 5024
+| –
+| style="text-align:center;"| [[File:Globular Cluster M53.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|58}}
+| [[Coma Berenices]]
+| 8.3
+|13&lt;sup&gt;h&lt;/sup&gt; 12&lt;sup&gt;m&lt;/sup&gt; 55.25&lt;sup&gt;s&lt;/sup&gt;
+| +18° 10′ 05.4″
+|- style="background:moccasin;"
+! scope="row" | {{hs|054}}[[Messier 54|M54]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m054.html |title=Messier 54 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6715
+| –
+| style="text-align:center;"|[[File:Messier54.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|87.4}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 8.4
+|18&lt;sup&gt;h&lt;/sup&gt; 55&lt;sup&gt;m&lt;/sup&gt; 03.33&lt;sup&gt;s&lt;/sup&gt;
+|−30° 28′ 47.5″
+|- style="background:moccasin;"
+! scope="row" | {{hs|055}}[[Messier 55|M55]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m055.html |title=Messier 55 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6809
+| –
+| style="text-align:center;"|[[File:Messier55.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|17.6}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 7.4
+|19&lt;sup&gt;h&lt;/sup&gt; 39&lt;sup&gt;m&lt;/sup&gt; 59.71&lt;sup&gt;s&lt;/sup&gt;
+|−30° 57′ 53.1″
+|- style="background:moccasin;"
+! scope="row" | {{hs|056}}[[Messier 56|M56]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m056.html |title=Messier 56 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6779
+| –
+| style="text-align:center;"| [[File:M56-LRGB.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|32.9}}
+| [[Lyra]]
+| 8.3
+|19&lt;sup&gt;h&lt;/sup&gt; 16&lt;sup&gt;m&lt;/sup&gt; 35.57&lt;sup&gt;s&lt;/sup&gt;
+| +30° 11′ 00.5″
+|- style="background:#cfe;"
+! scope="row" | {{hs|057}}[[Ring Nebula|M57]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m057.html |title=Messier 57 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6720
+| ''Ring Nebula''
+| style="text-align:center;"| [[File:Ring Nebula.jpg|75px]]
+| {{sort|Nebula, planetary|[[Planetary nebula]]}}
+| {{ntsh|2.7}}1.6–3.8
+| [[Lyra]]
+| 8.8
+|18&lt;sup&gt;h&lt;/sup&gt; 53&lt;sup&gt;m&lt;/sup&gt; 35.079&lt;sup&gt;s&lt;/sup&gt;
+| +33° 01′ 45.03″
+|- style="background:#ffc;"
+! scope="row" | {{hs|058}}[[Messier 58|M58]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m058.html |title=Messier 58 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4579
+| –
+| style="text-align:center;"|[[File:M58s.jpg|75px]]
+| {{sort|Galaxy, barred spiral|[[Barred Spiral galaxy]]}}
+| {{ntsh|63000}}~63,000
+| [[Virgo (constellation)|Virgo]]
+| 10.5
+|12&lt;sup&gt;h&lt;/sup&gt; 37&lt;sup&gt;m&lt;/sup&gt; 43.5&lt;sup&gt;s&lt;/sup&gt;
+| +11° 49′ 05″
+|- style="background:#ffc;"
+! scope="row" | {{hs|059}}[[Messier 59|M59]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m059.html |title=Messier 59 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4621
+| –
+| style="text-align:center;"|[[File:Messier59 - HST - Potw1921a.jpg|75px]]
+| {{sort|Galaxy, elliptical|[[Elliptical galaxy]]}}
+| {{ntsh|60000}}55,000–65,000
+| [[Virgo (constellation)|Virgo]]
+| 10.6
+|12&lt;sup&gt;h&lt;/sup&gt; 42&lt;sup&gt;m&lt;/sup&gt; 02.3&lt;sup&gt;s&lt;/sup&gt;
+| +11° 38′ 49″
+|- style="background:#ffc;"
+! scope="row" | {{hs|060}}[[Messier 60|M60]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m060.html |title=Messier 60 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4649
+| –
+| style="text-align:center;"| [[File:Messier 60 Hubble WikiSky.jpg|75px]]
+| {{sort|Galaxy, elliptical|[[Elliptical galaxy]]}}
+| {{ntsh|55000}}51,000–59,000
+| [[Virgo (constellation)|Virgo]]
+| 9.8
+|12&lt;sup&gt;h&lt;/sup&gt; 43&lt;sup&gt;m&lt;/sup&gt; 39.6&lt;sup&gt;s&lt;/sup&gt;
+| +11° 33′ 09″
+|- style="background:#ffc;"
+! scope="row" | {{hs|061}}[[Messier 61|M61]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m061.html |title=Messier 61 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4303
+| –
+| style="text-align:center;"| [[File:Messier object 061.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|52500}}50,200–54,800
+| [[Virgo (constellation)|Virgo]]
+| 10.2
+|12&lt;sup&gt;h&lt;/sup&gt; 21&lt;sup&gt;m&lt;/sup&gt; 54.9&lt;sup&gt;s&lt;/sup&gt;
+| +04° 28′ 25″
+|- style="background:moccasin;"
+! scope="row" | {{hs|062}}[[Messier 62|M62]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m062.html |title=Messier 62 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6266
+| –
+| style="text-align:center;"| [[File:Messier object 062.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|22.2}}
+| [[Ophiuchus]]
+| 7.4
+|17&lt;sup&gt;h&lt;/sup&gt; 01&lt;sup&gt;m&lt;/sup&gt; 12.60&lt;sup&gt;s&lt;/sup&gt;
+|−30° 06′ 44.5″
+|- style="background:#ffc;"
+! scope="row" | {{hs|063}}[[Sunflower Galaxy|M63]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m063.html |title=Messier 63 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 5055
+| ''Sunflower Galaxy''
+| style="text-align:center;"| [[File:Messier 63 GALEX WikiSky.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{nts|37,000}}
+| [[Canes Venatici]]
+| 9.3
+|13&lt;sup&gt;h&lt;/sup&gt; 15&lt;sup&gt;m&lt;/sup&gt; 49.3&lt;sup&gt;s&lt;/sup&gt;
+| +42° 01′ 45″
+|- style="background:#ffc;"
+! scope="row" | {{hs|064}}[[Black Eye Galaxy|M64]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m064.html |title=Messier 64 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4826
+| ''Black Eye Galaxy''
+| style="text-align:center;"| [[File:Blackeyegalaxy.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|24000}}22,000–26,000
+| [[Coma Berenices]]
+| 9.4
+|12&lt;sup&gt;h&lt;/sup&gt; 56&lt;sup&gt;m&lt;/sup&gt; 43.7&lt;sup&gt;s&lt;/sup&gt;
+| +21° 40′ 58″
+|- style="background:#ffc;"
+! scope="row" | {{hs|065}}[[Messier 65|M65]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m065.html |title=Messier 65 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 3623
+| ''Leo Triplet''
+| style="text-align:center;"| [[File:M65.jpg|75px]]
+| {{sort|Galaxy, barred spiral|[[Barred Spiral galaxy]]}}
+| {{ntsh|41500}}41,000–42,000
+| [[Leo (constellation)|Leo]]
+| 10.3
+|11&lt;sup&gt;h&lt;/sup&gt; 18&lt;sup&gt;m&lt;/sup&gt; 55.9&lt;sup&gt;s&lt;/sup&gt;
+| +13° 05′ 32″
+|- style="background:#ffc;"
+! scope="row" | {{hs|066}}[[Messier 66|M66]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m066.html |title=Messier 66 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 3627
+| ''Leo Triplet''
+| style="text-align:center;"| [[File:Sig05-016.jpg|75px]]
+| {{sort|Galaxy, barred spiral|[[Barred Spiral galaxy]]}}
+| {{ntsh|36000}}31,000–41,000
+| [[Leo (Constellation)|Leo]]
+| 8.9
+|11&lt;sup&gt;h&lt;/sup&gt; 20&lt;sup&gt;m&lt;/sup&gt; 15.0&lt;sup&gt;s&lt;/sup&gt;
+| +12° 59′ 30″
+|- style="background:#eef;"
+! scope="row" | {{hs|067}}[[Messier 67|M67]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m067.html |title=Messier 67 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 2682
+| –
+| style="text-align:center;"| [[File:Messier object 067.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{ntsh|2.77}}2.61–2.93
+| [[Cancer (constellation)|Cancer]]
+| 6.1
+|08&lt;sup&gt;h&lt;/sup&gt; 51.3&lt;sup&gt;m&lt;/sup&gt;
+| +11° 49′
+|- style="background:moccasin;"
+! scope="row" | {{hs|068}}[[Messier 68|M68]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m068.html |title=Messier 68 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4590
+| –
+| style="text-align:center;"|[[File:Messier object 068.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|33.6}}
+| [[Hydra (constellation)|Hydra]]
+| 9.7
+|12&lt;sup&gt;h&lt;/sup&gt; 39&lt;sup&gt;m&lt;/sup&gt; 27.98&lt;sup&gt;s&lt;/sup&gt;
+|−26° 44′ 38.6″
+|- style="background:moccasin;"
+! scope="row" | {{hs|069}}[[Messier 69|M69]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m069.html |title=Messier 69 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6637
+| –
+| style="text-align:center;"| [[File:Messier object 069.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|29.7}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 8.3
+|18&lt;sup&gt;h&lt;/sup&gt; 31&lt;sup&gt;m&lt;/sup&gt; 23.10&lt;sup&gt;s&lt;/sup&gt;
+|−32° 20′ 53.1″
+|- style="background:moccasin;"
+! scope="row" | {{hs|070}}[[Messier 70|M70]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m070.html |title=Messier 70 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6681
+| –
+| style="text-align:center;"| [[File:Messier70.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|29.4}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 9.1
+|18&lt;sup&gt;h&lt;/sup&gt; 43&lt;sup&gt;m&lt;/sup&gt; 12.76&lt;sup&gt;s&lt;/sup&gt;
+|−32° 17′ 31.6″
+|- style="background:moccasin;"
+! scope="row" | {{hs|071}}[[Messier 71|M71]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m071.html |title=Messier 71 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6838
+| –
+| style="text-align:center;"|[[File:Messier71.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|13.0}}
+| [[Sagitta]]
+| 6.1
+|19&lt;sup&gt;h&lt;/sup&gt; 53&lt;sup&gt;m&lt;/sup&gt; 46.49&lt;sup&gt;s&lt;/sup&gt;
+| +18° 46′ 45.1″
+|- style="background:moccasin;"
+! scope="row" | {{hs|072}}[[Messier 72|M72]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m072.html |title=Messier 72 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6981
+| –
+| style="text-align:center;"| [[File:Messier72.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{ntsh|54.57}}53.40–55.74
+| [[Aquarius (constellation)|Aquarius]]
+| 9.4
+|20&lt;sup&gt;h&lt;/sup&gt; 53&lt;sup&gt;m&lt;/sup&gt; 27.70&lt;sup&gt;s&lt;/sup&gt;
+|−12° 32′ 14.3″
+|-
+! scope="row" | {{hs|073}}[[Messier 73|M73]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m073.html |title=Messier 73 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6994
+| –
+| style="text-align:center;"| [[File:Messier 073 2MASS.jpg|75px]]
+| [[Asterism (astronomy)|Asterism]]
+| {{ntsh|2.5}}~2.5
+| [[Aquarius (constellation)|Aquarius]]
+| 9.0
+|20&lt;sup&gt;h&lt;/sup&gt; 58&lt;sup&gt;m&lt;/sup&gt; 54&lt;sup&gt;s&lt;/sup&gt;
+|−12° 38′
+|- style="background:#ffc;"
+! scope="row" | {{hs|074}}[[Messier 74|M74]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m074.html |title=Messier 74 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 628
+| –
+| style="text-align:center;"| [[File:Messier 74 by HST.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|30000}}24,000–36,000
+| [[Pisces (constellation)|Pisces]]
+| 10.0
+|01&lt;sup&gt;h&lt;/sup&gt; 36&lt;sup&gt;m&lt;/sup&gt; 41.8&lt;sup&gt;s&lt;/sup&gt;
+| +15° 47′ 01″
+|- style="background:moccasin;"
+! scope="row" | {{hs|075}}[[Messier 75|M75]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m075.html |title=Messier 75 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6864
+| –
+| style="text-align:center;"| [[File:Messier75.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|67.5}}
+| [[Sagittarius (constellation)|Sagittarius]]
+| 9.2
+|20&lt;sup&gt;h&lt;/sup&gt; 06&lt;sup&gt;m&lt;/sup&gt; 04.75&lt;sup&gt;s&lt;/sup&gt;
+|−21° 55′ 16.2″
+|- style="background:#cfe;"
+! scope="row" | {{hs|076}}[[Little Dumbbell Nebula|M76]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m076.html |title=Messier 76 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 650, NGC 651
+| ''Little Dumbbell Nebula''
+| style="text-align:center;"| [[File:M76-RL5-DDmin-Gamma-LRGB 883x628.jpg|75px]]
+| {{sort|Nebula, planetary|[[Planetary nebula]]}}
+| {{nts|2.5}}
+| [[Perseus (constellation)|Perseus]]
+| 10.1
+|01&lt;sup&gt;h&lt;/sup&gt; 42.4&lt;sup&gt;m&lt;/sup&gt;
+| +51° 34′ 31″
+|- style="background:#ffc;"
+! scope="row" | {{hs|077}}[[Messier 77|M77]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m077.html |title=Messier 77 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 1068
+| ''Cetus A''
+| style="text-align:center;"| [[File:NGC1068-hst-R658GB814.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{nts|47,000}}
+| [[Cetus]]
+| 9.6
+|02&lt;sup&gt;h&lt;/sup&gt; 42&lt;sup&gt;m&lt;/sup&gt; 40.7&lt;sup&gt;s&lt;/sup&gt;
+|−00° 00′ 48″
+|- style="background:#fcc;"
+! scope="row" | {{hs|078}}[[Messier 78|M78]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m078.html |title=Messier 78 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 2068
+| –
+| style="text-align:center;"| [[File:Messier 78.jpg|75px]]
+| {{sort|Nebula, diffuse|[[Diffuse nebula]]}}
+| {{nts|1.6}}
+| [[Orion (constellation)|Orion]]
+| 8.3
+|05&lt;sup&gt;h&lt;/sup&gt; 46&lt;sup&gt;m&lt;/sup&gt; 46.7&lt;sup&gt;s&lt;/sup&gt;
+| +00° 00′ 50″
+|- style="background:moccasin;"
+! scope="row" | {{hs|079}}[[Messier 79|M79]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m079.html |title=Messier 79 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 1904
+| –
+| style="text-align:center;"| [[File:M79a.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|41}}
+| [[Lepus (constellation)|Lepus]]
+| 8.6
+|05&lt;sup&gt;h&lt;/sup&gt; 24&lt;sup&gt;m&lt;/sup&gt; 10.59&lt;sup&gt;s&lt;/sup&gt;
+|−24° 31′ 27.3″
+|- style="background:moccasin;"
+! scope="row" | {{hs|080}}[[Messier 80|M80]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m080.html |title=Messier 80 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6093
+| –
+| style="text-align:center;"| [[File:A Swarm of Ancient Stars - GPN-2000-000930.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|32.6}}
+| [[Scorpius]]
+| 7.9
+|16&lt;sup&gt;h&lt;/sup&gt; 17&lt;sup&gt;m&lt;/sup&gt; 02.41&lt;sup&gt;s&lt;/sup&gt;
+|−22° 58′ 33.9″
+|- style="background:#ffc;"
+! scope="row" | {{hs|081}}[[Bode's Galaxy|M81]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m081.html |title=Messier 81 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 3031
+| ''Bode's Galaxy''
+| style="text-align:center;"| [[File:Messier 81 HST.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|11800}}11,400–12,200
+| [[Ursa Major]]
+| 6.9
+|09&lt;sup&gt;h&lt;/sup&gt; 55&lt;sup&gt;m&lt;/sup&gt; 33.2&lt;sup&gt;s&lt;/sup&gt;
+| +69° 3′ 55″
+|- style="background:#ffc;"
+! scope="row" | {{hs|082}}[[Messier 82|M82]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m082.html |title=Messier 82 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 3034
+| ''Cigar Galaxy''
+| style="text-align:center;"| [[File:Messier82.jpg|75px]]
+| {{sort|Galaxy, Starburst|[[Starburst galaxy]]}}
+| {{ntsh|11500}}10,700–12,300
+| [[Ursa Major]]
+| 8.4
+|09&lt;sup&gt;h&lt;/sup&gt; 55&lt;sup&gt;m&lt;/sup&gt; 52.2&lt;sup&gt;s&lt;/sup&gt;
+| +69° 40′ 47″
+|- style="background:#ffc;"
+! scope="row" | {{hs|083}}[[Messier 83|M83]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m083.html |title=Messier 83 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 5236
+| ''Southern Pinwheel Galaxy''
+| style="text-align:center;"| [[File:M83g.jpg|75px]]
+| {{sort|Galaxy, barred spiral|[[Barred Spiral galaxy]]}}
+| {{nts|14,700}}
+| [[Hydra (constellation)|Hydra]]
+| 7.5
+|13&lt;sup&gt;h&lt;/sup&gt; 37&lt;sup&gt;m&lt;/sup&gt; 00.9&lt;sup&gt;s&lt;/sup&gt;
+|−29° 51′ 57″
+|- style="background:#ffc;"
+! scope="row" | {{hs|084}}[[Messier 84|M84]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m084.html |title=Messier 84 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4374
+| –
+| style="text-align:center;"| [[File:Messier 84 nucleus Hubble.jpg|75px]]
+| {{sort|Galaxy, lenticular|[[Lenticular galaxy]]}}
+| {{ntsh|60000}}57,000–63,000
+| [[Virgo (constellation)|Virgo]]
+| 10.1
+|12&lt;sup&gt;h&lt;/sup&gt; 25&lt;sup&gt;m&lt;/sup&gt; 03.7&lt;sup&gt;s&lt;/sup&gt;
+| +12° 53′ 13″
+|- style="background:#ffc;"
+! scope="row" | {{hs|085}}[[Messier 85|M85]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m085.html |title=Messier 85 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4382
+| –
+| style="text-align:center;"| [[File:Messier 85 Hubble WikiSky.jpg|75px]]
+| {{sort|Galaxy, lenticular|[[Lenticular galaxy]]}}
+| {{ntsh|60000}}56,000–64,000
+| [[Coma Berenices]]
+| 10.0
+|12&lt;sup&gt;h&lt;/sup&gt; 25&lt;sup&gt;m&lt;/sup&gt; 24.0&lt;sup&gt;s&lt;/sup&gt;
+| +18° 11′ 28″
+|- style="background:#ffc;"
+! scope="row" | {{hs|086}}[[Messier 86|M86]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m086.html |title=Messier 86 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4406
+| –
+| style="text-align:center;"| [[File:Messier 86 Hubble WikiSky.jpg|75px]]
+| {{sort|Galaxy, lenticular|[[Lenticular galaxy]]}}
+| {{ntsh|52000}}49,000–55,000
+| [[Virgo (constellation)|Virgo]]
+| 9.8
+|12&lt;sup&gt;h&lt;/sup&gt; 26&lt;sup&gt;m&lt;/sup&gt; 11.7&lt;sup&gt;s&lt;/sup&gt;
+| +12° 56′ 46″
+|- style="background:#ffc;"
+! scope="row" | {{hs|087}}[[Messier 87|M87]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m087.html |title=Messier 87 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4486
+| ''Virgo A''
+| style="text-align:center;"| [[File:Messier 87 Hubble WikiSky.jpg|75px]]
+| {{sort|Galaxy, elliptical|[[Elliptical galaxy]]}}
+| {{ntsh|53500}}51,870–55,130
+| [[Virgo (constellation)|Virgo]]
+| 9.6
+|12&lt;sup&gt;h&lt;/sup&gt; 30&lt;sup&gt;m&lt;/sup&gt; 49.42338&lt;sup&gt;s&lt;/sup&gt;
+| +12° 23′ 28.0439″
+|- style="background:#ffc;"
+! scope="row" | {{hs|088}}[[Messier 88|M88]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m088.html |title=Messier 88 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4501
+| –
+| style="text-align:center;"| [[File:M88s.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|47500}}39,000–56,000
+| [[Coma Berenices]]
+| 10.4
+|12&lt;sup&gt;h&lt;/sup&gt; 31&lt;sup&gt;m&lt;/sup&gt; 59.2&lt;sup&gt;s&lt;/sup&gt;
+| +14° 25′ 14″
+|- style="background:#ffc;"
+! scope="row" | {{hs|089}}[[Messier 89|M89]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m089.html |title=Messier 89 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4552
+| –
+| style="text-align:center;"| [[File:Messier89 - HST - Potw1902a.tif|75px]]
+| {{sort|Galaxy, elliptical|[[Elliptical galaxy]]}}
+| {{ntsh|50000}}47,000–53,000
+| [[Virgo (constellation)|Virgo]]
+| 10.7
+|12&lt;sup&gt;h&lt;/sup&gt; 35&lt;sup&gt;m&lt;/sup&gt; 39.8&lt;sup&gt;s&lt;/sup&gt;
+| +12° 33′ 23″
+|- style="background:#ffc;"
+! scope="row" | {{hs|090}}[[Messier 90|M90]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m090.html |title=Messier 90 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4569
+| –
+| style="text-align:center;"| [[File:Messier object 090.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|58700}}55,900–61,500
+| [[Virgo (constellation)|Virgo]]
+| 10.3
+|12&lt;sup&gt;h&lt;/sup&gt; 36&lt;sup&gt;m&lt;/sup&gt; 49.8&lt;sup&gt;s&lt;/sup&gt;
+| +13° 09′ 46″
+|- style="background:#ffc;"
+! scope="row" | {{hs|091}}[[Messier 91|M91]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m091.html |title=Messier 91 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4548
+| –
+| style="text-align:center;"| [[File:Messier91.jpg|75px]]
+| {{sort|Galaxy, barred spiral|[[Barred Spiral galaxy]]}}
+| {{ntsh|63000}}47,000–79,000
+| [[Coma Berenices]]
+| 11.0
+|12&lt;sup&gt;h&lt;/sup&gt; 35&lt;sup&gt;m&lt;/sup&gt; 26.4&lt;sup&gt;s&lt;/sup&gt;
+| +14° 29′ 47″
+|- style="background:moccasin;"
+! scope="row" | {{hs|092}}[[Messier 92|M92]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m092.html |title=Messier 92 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 6341
+| –
+| style="text-align:center;"| [[File:Globular Cluster M92.JPG|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|26.7}}
+| [[Hercules (constellation)|Hercules]]
+| 6.3
+|17&lt;sup&gt;h&lt;/sup&gt; 17&lt;sup&gt;m&lt;/sup&gt; 07.39&lt;sup&gt;s&lt;/sup&gt;
+| +43° 08′ 09.4″
+|- style="background:#eef;"
+! scope="row" | {{hs|093}}[[Messier 93|M93]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m093.html |title=Messier 93 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 2447
+| –
+| style="text-align:center;"| [[File:Messier object 093.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|3.6}}
+| [[Puppis]]
+| 6.0
+|07&lt;sup&gt;h&lt;/sup&gt; 44.6&lt;sup&gt;m&lt;/sup&gt;
+|−23° 52′
+|- style="background:#ffc;"
+! scope="row" | {{hs|094}}[[Messier 94|M94]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m094.html |title=Messier 94 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4736
+| –
+| style="text-align:center;"| [[File:Messier 94.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|16000}}14,700–17,300
+| [[Canes Venatici]]
+| 9.0
+|12&lt;sup&gt;h&lt;/sup&gt; 50&lt;sup&gt;m&lt;/sup&gt; 53.1&lt;sup&gt;s&lt;/sup&gt;
+| +41° 07′ 14″
+|- style="background:#ffc;"
+! scope="row" | {{hs|095}}[[Messier 95|M95]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m095.html |title=Messier 95 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 3351
+| –
+| style="text-align:center;"| [[File:Messier95 spitzer.jpg|75px]]
+| {{sort|Galaxy, barred spiral|[[Barred Spiral galaxy]]}}
+| {{ntsh|32600}}31,200–34,000
+| [[Leo (constellation)|Leo]]
+| 11.4
+|10&lt;sup&gt;h&lt;/sup&gt; 43&lt;sup&gt;m&lt;/sup&gt; 57.7&lt;sup&gt;s&lt;/sup&gt;
+| +11° 42′ 14″
+|- style="background:#ffc;"
+! scope="row" | {{hs|096}}[[Messier 96|M96]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m096.html |title=Messier 96 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 3368
+| –
+| style="text-align:center;"| [[File:Messier object 096.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|31000}}28,000–34,000
+| [[Leo (constellation)|Leo]]
+| 10.1
+|10&lt;sup&gt;h&lt;/sup&gt; 46&lt;sup&gt;m&lt;/sup&gt; 45.7&lt;sup&gt;s&lt;/sup&gt;
+| +11° 49′ 12″
+|- style="background:#cfe;"
+! scope="row" | {{hs|097}}[[Owl Nebula|M97]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m097.html |title=Messier 97 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 3587
+| ''Owl Nebula''
+| style="text-align:center;"| [[File:M97 FTN.jpg|75px]]
+| {{sort|Nebula, planetary|[[Planetary nebula]]}}
+| {{nts|2.03}}
+| [[Ursa Major]]
+| 9.9
+|11&lt;sup&gt;h&lt;/sup&gt; 14&lt;sup&gt;m&lt;/sup&gt; 47.734&lt;sup&gt;s&lt;/sup&gt;
+| +55° 01′ 08.50″
+|- style="background:#ffc;"
+! scope="row" | {{hs|098}}[[Messier 98|M98]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m098.html |title=Messier 98 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4192
+| –
+| style="text-align:center;"| [[File:M-98.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{nts|44,400}}
+| [[Coma Berenices]]
+| 11.0
+|12&lt;sup&gt;h&lt;/sup&gt; 13&lt;sup&gt;m&lt;/sup&gt; 48.292&lt;sup&gt;s&lt;/sup&gt;
+|&lt;nowiki&gt;+14° 54′ 01.69″&lt;/nowiki&gt;
+|- style="background:#ffc;"
+! scope="row" | {{hs|099}}[[Messier 99|M99]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m099.html |title=Messier 99 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4254
+| –
+| style="text-align:center;"| [[File:M99.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|50200}}44,700–55,700
+| [[Coma Berenices]]
+| 10.4
+|12&lt;sup&gt;h&lt;/sup&gt; 18&lt;sup&gt;m&lt;/sup&gt; 49.6&lt;sup&gt;s&lt;/sup&gt;
+| +14° 24′ 59″
+|- style="background:#ffc;"
+! scope="row" | {{hs|100}}[[Messier 100|M100]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m100.html |title=Messier 100 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4321
+| –
+| style="text-align:center;"| [[File:Spiral Galaxy M100.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{nts|55,000}}
+| [[Coma Berenices]]
+| 10.1
+|12&lt;sup&gt;h&lt;/sup&gt; 22&lt;sup&gt;m&lt;/sup&gt; 54.9&lt;sup&gt;s&lt;/sup&gt;
+| +15° 49′ 21″
+|- style="background:#ffc;"
+! scope="row" | {{hs|101}}[[Pinwheel Galaxy|M101]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m101.html |title=Messier 101 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 5457
+| ''Pinwheel Galaxy''
+| style="text-align:center;"| [[File:M101 hires STScI-PRC2006-10a.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|20750}}19,100–22,400
+| [[Ursa Major]]
+| 7.9
+|14&lt;sup&gt;h&lt;/sup&gt; 03&lt;sup&gt;m&lt;/sup&gt; 12.6&lt;sup&gt;s&lt;/sup&gt;
+| +54° 20′ 57″
+|- style="background:#ffc;"
+! scope="row" | {{hs|102}}[[NGC 5866|M102]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m102.html |title=Messier 102 |accessdate=28 December 2016 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 5866
+| ''Spindle Galaxy''
+| style="text-align:center;"|[[File:Ngc5866 hst big.png|75px]]
+| {{sort|Galaxy, lenticular|[[Lenticular galaxy]]}}
+| {{ntsh|50000}}50,000
+| [[Draco (constellation)|Draco]]
+| 10.7
+|15&lt;sup&gt;h&lt;/sup&gt; 06&lt;sup&gt;m&lt;/sup&gt; 29.5&lt;sup&gt;s&lt;/sup&gt;
+|&lt;nowiki&gt;+55° 45′ 48″&lt;/nowiki&gt;
+|- style="background:#eef;"
+! scope="row" | {{hs|103}}[[Messier 103|M103]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m103.html |title=Messier 103 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 581
+| –
+| style="text-align:center;"| [[File:Messier object 103.jpg|75px]]
+| {{sort|Cluster, open|[[Open cluster]]}}
+| {{nts|10}}
+| [[Cassiopeia (constellation)|Cassiopeia]]
+| 7.4
+|01&lt;sup&gt;h&lt;/sup&gt; 33.2&lt;sup&gt;m&lt;/sup&gt;
+| +60° 42′
+|- style="background:#ffc;"
+! scope="row" | {{hs|104}}[[Sombrero Galaxy|M104]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m104.html |title=Messier 104 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1771}}&lt;/ref&gt;
+| NGC 4594
+| ''Sombrero Galaxy''
+| style="text-align:center;"| [[File:M104 ngc4594 sombrero galaxy hi-res.jpg|75px]]
+| {{sort|Galaxy, lenticular|[[Lenticular galaxy]]}}
+| {{ntsh|29800}}28,700–30,900
+| [[Virgo (constellation)|Virgo]]
+| 9.0
+|12&lt;sup&gt;h&lt;/sup&gt; 39&lt;sup&gt;m&lt;/sup&gt; 59.4&lt;sup&gt;s&lt;/sup&gt;
+|−11° 37′ 23″
+|- style="background:#ffc;"
+! scope="row" | {{hs|105}}[[Messier 105|M105]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m105.html |title=Messier 105 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1783}}&lt;/ref&gt;
+| NGC 3379
+| –
+| style="text-align:center;"| [[File:Messier105 - HST - Potw1901a.jpg|75px]]
+| {{sort|Galaxy, elliptical|[[Elliptical galaxy]]}}
+| {{ntsh|32000}}30,400–33,600
+| [[Leo (constellation)|Leo]]
+| 10.2
+|10&lt;sup&gt;h&lt;/sup&gt; 47&lt;sup&gt;m&lt;/sup&gt; 49.6&lt;sup&gt;s&lt;/sup&gt;
+|&lt;nowiki&gt;+12° 34′ 54″&lt;/nowiki&gt;
+|- style="background:#ffc;"
+! scope="row" | {{hs|106}}[[Messier 106|M106]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m106.html |title=Messier 106 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1783}}&lt;/ref&gt;
+| NGC 4258
+| –
+| style="text-align:center;"| [[File:Messier 106 by Spitzer.jpg|75px]]
+| {{sort|Galaxy, spiral|[[Spiral galaxy]]}}
+| {{ntsh|23700}}22,200–25,200
+| [[Canes Venatici]]
+| 9.1
+|12&lt;sup&gt;h&lt;/sup&gt; 18&lt;sup&gt;m&lt;/sup&gt; 57.5&lt;sup&gt;s&lt;/sup&gt;
+| +47° 18′ 14″
+|- style="background:moccasin;"
+! scope="row" | {{hs|107}}[[Messier 107|M107]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m107.html |title=Messier 107 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1783}}&lt;/ref&gt;
+| NGC 6171
+| –
+| style="text-align:center;"| [[File:Messier object 107.jpg|75px]]
+| {{sort|Cluster, globular|[[Globular cluster]]}}
+| {{nts|20.9}}
+| [[Ophiuchus]]
+| 8.9
+|16&lt;sup&gt;h&lt;/sup&gt; 32&lt;sup&gt;m&lt;/sup&gt; 31.86&lt;sup&gt;s&lt;/sup&gt;
+|−13° 03′ 13.6″
+|- style="background:#ffc;"
+! scope="row" | {{hs|108}}[[Messier 108|M108]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m108.html |title=Messier 108 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1783}}&lt;/ref&gt;
+| NGC 3556
+| –
+| style="text-align:center;"| [[File:Messier 108 Hubble WikiSky.jpg|75px]]
+| {{sort|Galaxy, barred spiral|[[Barred Spiral galaxy]]}}
+| {{nts|46,000}}
+| [[Ursa Major]]
+| 10.7
+|11&lt;sup&gt;h&lt;/sup&gt; 11&lt;sup&gt;m&lt;/sup&gt; 31.0&lt;sup&gt;s&lt;/sup&gt;
+| +55° 40′ 27″
+|- style="background:#ffc;"
+! scope="row" | {{hs|109}}[[Messier 109|M109]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m109.html |title=Messier 109 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1783}}&lt;/ref&gt;
+| NGC 3992
+| –
+| style="text-align:center;"| [[File:Messier109 - SDSS DR14 (panorama).jpg|75px]]
+| {{sort|Galaxy, barred spiral|[[Barred Spiral galaxy]]}}
+| {{ntsh|83500}}59,500–107,500
+| [[Ursa Major]]
+| 10.6
+|11&lt;sup&gt;h&lt;/sup&gt; 57&lt;sup&gt;m&lt;/sup&gt; 36.0&lt;sup&gt;s&lt;/sup&gt;
+| +53° 22′ 28″
+|- style="background:#ffc;"
+! scope="row" | {{hs|110}}[[Messier 110|M110]]&lt;ref&gt;{{cite web |url=http://messier.seds.org/m/m110.html |title=Messier 110 |accessdate=18 March 2014 |last=Messier |first=Charles |date=1783}}&lt;/ref&gt;
+| NGC 205
+| –
+| style="text-align:center;"| [[File:Messier object 110.jpg|75px]]
+| {{sort|Galaxy, dwarf elliptical|[[Dwarf elliptical galaxy]]}}
+| {{ntsh|2690}}2,600–2,780
+| [[Andromeda (constellation)|Andromeda]]
+| 9.0
+|00&lt;sup&gt;h&lt;/sup&gt; 40&lt;sup&gt;m&lt;/sup&gt; 22.1&lt;sup&gt;s&lt;/sup&gt;
+| +41° 41′ 07″
+|}
+
+== Star chart of Messier objects ==
+[[File:MessierStarChart.svg|frame|center|Star chart depicting the Messier objects plotted on a rectangular grid representing right ascension and declination]]
+
+==See also==
+{{Portal|Astronomy|Space}}
+{{Wikipedia books|Messier objects}}
+*[[Lists of astronomical objects]]
+*[[Caldwell catalogue]]
+*[[Deep-sky object]]
+*[[Herschel 400 Catalogue]]
+*[[New General Catalogue]]
+{{-}}
+
+== References ==
+{{reflist|colwidth=30em}}
+
+==External links==
+* [http://messier.seds.org/ SEDS Messier Database]
+* [https://messierobjects101.com/ Messier gallery]
+* [http://www.deepskyvideos.com/videos/other/introduction.html Deep Sky Videos Messier objects]
+* [http://www.constellation-guide.com/messier-objects/ Messier objects at Constellation Guide]
+
+{{Messier objects}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Messier Object}}
+[[Category:Messier objects| ]]
+[[Category:Astronomical catalogues]]
+[[Category:1771 in science]]</text>
+      <sha1>19869i13vdfkhzi7c03l59pwq9py5tm</sha1>
+    </revision>
+  </page>
+</mediawiki>
